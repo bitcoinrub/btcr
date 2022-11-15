@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef btca_ZbtcaCHAIN_H
-#define btca_ZbtcaCHAIN_H
+#ifndef btcr_ZbtcrCHAIN_H
+#define btcr_ZbtcrCHAIN_H
 
 #include "libzerocoin/Coin.h"
 #include "libzerocoin/Denominations.h"
@@ -39,4 +39,4 @@ bool TxOutToPublicCoin(const CTxOut& txout, libzerocoin::PublicCoin& pubCoin, CV
 std::list<libzerocoin::CoinDenomination> ZerocoinSpendListFromBlock(const CBlock& block, bool fFilterInvalid);
 
 
-#endif //btca_ZbtcaCHAIN_H
+#endif //btcr_ZbtcrCHAIN_H

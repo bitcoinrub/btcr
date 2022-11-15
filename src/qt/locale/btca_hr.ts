@@ -62,12 +62,12 @@
         <translation>Adrese za primanje</translation>
     </message>
     <message>
-        <source>These are your btca addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To su vaše btca adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your btcr addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To su vaše btcr adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your btca addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To su vaše btca adrese za primanje uplata. Preporuča se upotreba nove adrese primanja za svaku transakciju.</translation>
+        <source>These are your btcr addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To su vaše btcr adrese za primanje uplata. Preporuča se upotreba nove adrese primanja za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,16 +172,16 @@
         <translation>Potvrdite šifriranje novčanika</translation>
     </message>
     <message>
-        <source>btca will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcas from being stolen by malware infecting your computer.</source>
-        <translation>btca se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše btca od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
+        <source>btcr will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcrs from being stolen by malware infecting your computer.</source>
+        <translation>btcr se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše btcr od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Jeste li sigurni da želite šifrirati svoj novčanik?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btca&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrirate svoj novčanik i izgubite vašu zaporku, vi ćete1 IZGUBITI ĆE TE SAV VAŠ btca1!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btcr&lt;/b&gt;!</source>
+        <translation>Upozorenje: Ako šifrirate svoj novčanik i izgubite vašu zaporku, vi ćete1 IZGUBITI ĆE TE SAV VAŠ btcr1!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -397,8 +397,8 @@
         <translation>Pregledajte povijest transakcija</translation>
     </message>
     <message>
-        <source>Privacy Actions for zbtca</source>
-        <translation>Aktivnosti na privatnost za zbtca</translation>
+        <source>Privacy Actions for zbtcr</source>
+        <translation>Aktivnosti na privatnost za zbtcr</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -601,16 +601,16 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
-        <source>Send coins to a btca address</source>
-        <translation>Pošaljite kovanice na btca adresu</translation>
+        <source>Send coins to a btcr address</source>
+        <translation>Pošaljite kovanice na btcr adresu</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and btca: URIs)</source>
-        <translation>Zahtjev za plaćanja (generira QR kodove i btca: URI)</translation>
+        <source>Request payments (generates QR codes and btcr: URIs)</source>
+        <translation>Zahtjev za plaćanja (generira QR kodove i btcr: URI)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -625,24 +625,24 @@
         <translation>Pregledajte masternode</translation>
     </message>
     <message>
-        <source>&amp;About btca Core</source>
-        <translation>&amp; O btca Coreu</translation>
+        <source>&amp;About btcr Core</source>
+        <translation>&amp; O btcr Coreu</translation>
     </message>
     <message>
-        <source>Show information about btca Core</source>
-        <translation>Prikaz informacija o btca Coreu</translation>
+        <source>Show information about btcr Core</source>
+        <translation>Prikaz informacija o btcr Coreu</translation>
     </message>
     <message>
-        <source>Modify configuration options for btca</source>
-        <translation>Izmijenite opcije konfiguracije za btca</translation>
+        <source>Modify configuration options for btcr</source>
+        <translation>Izmijenite opcije konfiguracije za btcr</translation>
     </message>
     <message>
-        <source>Sign messages with your btca addresses to prove you own them</source>
-        <translation>Potpišite poruke s vašim btca adresama kako biste dokazali da ih posjedujete</translation>
+        <source>Sign messages with your btcr addresses to prove you own them</source>
+        <translation>Potpišite poruke s vašim btcr adresama kako biste dokazali da ih posjedujete</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified btca addresses</source>
-        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim btca adresama</translation>
+        <source>Verify messages to ensure they were signed with specified btcr addresses</source>
+        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim btcr adresama</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -653,8 +653,8 @@
         <translation>Šifriranje i dešifriranje privatnih ključeva pomoću zaporke</translation>
     </message>
     <message>
-        <source>btca Core client</source>
-        <translation>btca Core klijent</translation>
+        <source>btcr Core client</source>
+        <translation>btcr Core klijent</translation>
     </message>
     <message>
         <source>Error</source>
@@ -751,15 +751,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1045,8 +1045,8 @@
         <translation>ne</translation>
     </message>
     <message>
-        <source>0 btca</source>
-        <translation>0 btca</translation>
+        <source>0 btcr</source>
+        <translation>0 btcr</translation>
     </message>
     <message>
         <source>Confirmation time:</source>
@@ -1111,15 +1111,15 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>btca Core is shutting down...</source>
-        <translation>btca Core se gasi...</translation>
+        <source>btcr Core is shutting down...</source>
+        <translation>btcr Core se gasi...</translation>
     </message>
     </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The btca address to sign the message with</source>
-        <translation>btca adresa za potpisivanje poruke s</translation>
+        <source>The btcr address to sign the message with</source>
+        <translation>btcr adresa za potpisivanje poruke s</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1142,16 +1142,16 @@
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this btca address</source>
-        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove btca adrese</translation>
+        <source>Sign the message to prove you own this btcr address</source>
+        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove btcr adrese</translation>
     </message>
     <message>
-        <source>The btca address the message was signed with</source>
-        <translation>btca adresa s kojom je potpisana poruka</translation>
+        <source>The btcr address the message was signed with</source>
+        <translation>btcr adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified btca address</source>
-        <translation>Potvrdite poruku kako biste bili sigurni da je potpisan s navedenom btca adresom</translation>
+        <source>Verify the message to ensure it was signed with the specified btcr address</source>
+        <translation>Potvrdite poruku kako biste bili sigurni da je potpisan s navedenom btcr adresom</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1197,8 +1197,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -1345,14 +1345,14 @@
     </message>
     </context>
 <context>
-    <name>ZbtcaControlDialog</name>
+    <name>ZbtcrControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     </context>
 <context>
-    <name>btca-core</name>
+    <name>btcr-core</name>
     <message>
         <source>Error</source>
         <translation>Greška</translation>

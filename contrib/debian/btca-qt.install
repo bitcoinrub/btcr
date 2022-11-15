@@ -1,6 +1,6 @@
-usr/local/bin/btca-qt usr/bin
+usr/local/bin/btcr-qt usr/bin
 share/pixmaps/bitcoin32.xpm usr/share/pixmaps
 share/pixmaps/bitcoin16.xpm usr/share/pixmaps
 share/pixmaps/bitcoin128.png usr/share/pixmaps
-debian/btca-qt.desktop usr/share/applications
-debian/btca-qt.protocol usr/share/kde4/services/
+debian/btcr-qt.desktop usr/share/applications
+debian/btcr-qt.protocol usr/share/kde4/services/

@@ -62,12 +62,12 @@
         <translation>Alıcı Adres</translation>
     </message>
     <message>
-        <source>These are your btca addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödemeleri göndermek için olan btca adreslerinizdir.Coinleri göndermeden önce her zaman gönderilen miktarı ve adresi kontrol edin</translation>
+        <source>These are your btcr addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Bunlar ödemeleri göndermek için olan btcr adreslerinizdir.Coinleri göndermeden önce her zaman gönderilen miktarı ve adresi kontrol edin</translation>
     </message>
     <message>
-        <source>These are your btca addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Bunlar ödemeleri almak için olan btca adreslerinizdirHer işlem için yeni bir adres kullanmanız önerilir.</translation>
+        <source>These are your btcr addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Bunlar ödemeleri almak için olan btcr adreslerinizdirHer işlem için yeni bir adres kullanmanız önerilir.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,15 +176,15 @@
         <translation>cüzdan şifrelemesini onayla</translation>
     </message>
     <message>
-        <source>btca will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcas from being stolen by malware infecting your computer.</source>
-        <translation>btca şifreleme işlemini tamamlamak için şimdi kapanacaktır. Cüzdanınızı şifrelemenin, btca'lerinizi bilgisayarınıza bulaşan kötücül yazılımlar tarafından çalınmasına tamamen engelleyemediğini unutmayın</translation>
+        <source>btcr will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcrs from being stolen by malware infecting your computer.</source>
+        <translation>btcr şifreleme işlemini tamamlamak için şimdi kapanacaktır. Cüzdanınızı şifrelemenin, btcr'lerinizi bilgisayarınıza bulaşan kötücül yazılımlar tarafından çalınmasına tamamen engelleyemediğini unutmayın</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Cüzdanınızı şifrelemek istediğinizden emin misiniz?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btca&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btcr&lt;/b&gt;!</source>
         <translation>Dikkat! Eğer cüzdanınızı şifrelerseniz ve şifrenizi unutursanız &lt;b&gt;Tüm Pıvlerinizi kaybedersiniz&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -254,12 +254,12 @@
         <translation>adres</translation>
     </message>
     <message>
-        <source>Enter a btca Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>BIP 38 ile şifrelemek isteğiniz btca Adresini giriniz. Ortadaki kutucuğa bir parola giriniz. Şifrelenmiş özel anahtarı hesaplamak için şifrele tuşuna basınız. </translation>
+        <source>Enter a btcr Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>BIP 38 ile şifrelemek isteğiniz btcr Adresini giriniz. Ortadaki kutucuğa bir parola giriniz. Şifrelenmiş özel anahtarı hesaplamak için şifrele tuşuna basınız. </translation>
     </message>
     <message>
-        <source>The btca address to encrypt</source>
-        <translation>Şifrelenecek btca adresi</translation>
+        <source>The btcr address to encrypt</source>
+        <translation>Şifrelenecek btcr adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Geçerli imzayı sistem panosuna kopyala</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this btca address</source>
-        <translation>Bu btca adresinin özel anahtarını şifreleyin</translation>
+        <source>Encrypt the private key for this btcr address</source>
+        <translation>Bu btcr adresinin özel anahtarını şifreleyin</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>İşlem geçmişini ara</translation>
     </message>
     <message>
-        <source>Privacy Actions for zbtca</source>
-        <translation>Gizlilik Aksiyonları zbtca</translation>
+        <source>Privacy Actions for zbtcr</source>
+        <translation>Gizlilik Aksiyonları zbtcr</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -637,16 +637,16 @@
         <translation>Sekme tablosu</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca CORE</translation>
+        <source>btcr Core</source>
+        <translation>btcr CORE</translation>
     </message>
     <message>
-        <source>Send coins to a btca address</source>
-        <translation>Koinleri btca adresine gönder</translation>
+        <source>Send coins to a btcr address</source>
+        <translation>Koinleri btcr adresine gönder</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and btca: URIs)</source>
-        <translation>Ödeme talep etme (QR kodları ve btca üretir: URI'ler)</translation>
+        <source>Request payments (generates QR codes and btcr: URIs)</source>
+        <translation>Ödeme talep etme (QR kodları ve btcr üretir: URI'ler)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -661,24 +661,24 @@
         <translation>Masternodları ara</translation>
     </message>
     <message>
-        <source>&amp;About btca Core</source>
+        <source>&amp;About btcr Core</source>
         <translation>Pıvx core Hakkında</translation>
     </message>
     <message>
-        <source>Show information about btca Core</source>
+        <source>Show information about btcr Core</source>
         <translation>Pıvx Core hakkında bilgi göster</translation>
     </message>
     <message>
-        <source>Modify configuration options for btca</source>
-        <translation>btca için yapılandırma seçeneklerini değiştirin</translation>
+        <source>Modify configuration options for btcr</source>
+        <translation>btcr için yapılandırma seçeneklerini değiştirin</translation>
     </message>
     <message>
-        <source>Sign messages with your btca addresses to prove you own them</source>
-        <translation>Sahip olduğunuzu kanıtlamak için mesajlarınızı btca adresleriyle imzalayın</translation>
+        <source>Sign messages with your btcr addresses to prove you own them</source>
+        <translation>Sahip olduğunuzu kanıtlamak için mesajlarınızı btcr adresleriyle imzalayın</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified btca addresses</source>
-        <translation>Belirtilen btca adresleriyle imzalanmış olduklarından emin olmak için iletileri doğrulayın</translation>
+        <source>Verify messages to ensure they were signed with specified btcr addresses</source>
+        <translation>Belirtilen btcr adresleriyle imzalanmış olduklarından emin olmak için iletileri doğrulayın</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -709,8 +709,8 @@
         <translation>Açık Masternode yapılandırma dosyası</translation>
     </message>
     <message>
-        <source>Open a btca: URI or payment request</source>
-        <translation>Bir btca: URI veya ödeme isteği açın</translation>
+        <source>Open a btcr: URI or payment request</source>
+        <translation>Bir btcr: URI veya ödeme isteği açın</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -721,12 +721,12 @@
         <translation>Kaşif penceresini engelle</translation>
     </message>
     <message>
-        <source>Show the btca Core help message to get a list with possible btca command-line options</source>
-        <translation>Olası btca komut satırı seçeneklerine sahip bir liste almak için btca Core yardım mesajını gösterin</translation>
+        <source>Show the btcr Core help message to get a list with possible btcr command-line options</source>
+        <translation>Olası btcr komut satırı seçeneklerine sahip bir liste almak için btcr Core yardım mesajını gösterin</translation>
     </message>
     <message>
-        <source>btca Core client</source>
-        <translation>btca Core istemci</translation>
+        <source>btcr Core client</source>
+        <translation>btcr Core istemci</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -864,8 +864,8 @@ Adres: %4
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btca.conf).</source>
-        <translation>Tüm işlemler gösterilmez. Tüm işlemleri görmek için yapılandırma dosyasında txindex = 1 ayarlamanız gerekir (btca.conf).
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btcr.conf).</source>
+        <translation>Tüm işlemler gösterilmez. Tüm işlemleri görmek için yapılandırma dosyasında txindex = 1 ayarlamanız gerekir (btcr.conf).
 </translation>
     </message>
 </context>
@@ -1154,8 +1154,8 @@ Adres: %4
         <translation>Gönderen adresini düzenle</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid btca address.</source>
-        <translation>Girilen "%1" adresi geçerli bir btca adresi değil.</translation>
+        <source>The entered address "%1" is not a valid btcr address.</source>
+        <translation>Girilen "%1" adresi geçerli bir btcr adresi değil.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1200,16 +1200,16 @@ Adres: %4
         <translation>versiyon</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca CORE</translation>
+        <source>btcr Core</source>
+        <translation>btcr CORE</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About btca Core</source>
-        <translation>hakkında btca Core</translation>
+        <source>About btcr Core</source>
+        <translation>hakkında btcr Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1255,16 +1255,16 @@ Adres: %4
         <translation>Hoşgeldiniz</translation>
     </message>
     <message>
-        <source>Welcome to btca Core.</source>
-        <translation>btca Core'a hoşgeldiniz.</translation>
+        <source>Welcome to btcr Core.</source>
+        <translation>btcr Core'a hoşgeldiniz.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where btca Core will store its data.</source>
-        <translation>Program ilk başlatıldığında btca Core'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
+        <source>As this is the first time the program is launched, you can choose where btcr Core will store its data.</source>
+        <translation>Program ilk başlatıldığında btcr Core'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
-        <source>btca Core will download and store a copy of the btca block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>btca Core, btca blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecek. Cüzdan ayrıca bu dizinde saklanır.</translation>
+        <source>btcr Core will download and store a copy of the btcr block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>btcr Core, btcr blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecek. Cüzdan ayrıca bu dizinde saklanır.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1275,8 +1275,8 @@ Adres: %4
         <translation>Özel bir veri dizini kullanın:</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca CORE</translation>
+        <source>btcr Core</source>
+        <translation>btcr CORE</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1417,12 +1417,12 @@ Adres: %4
         <translation>Gönderim adresi girin</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btca addresses after it matures.
-To Add: enter percentage to give and btca address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btcr addresses after it matures.
+To Add: enter percentage to give and btcr address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend, olgunlaştıktan sonra diğer btca adreslerinin bir listesine otomatik olarak kazancınızın 100% 'ünü veya grup yazınızı ödüllendirmenize olanak tanır.
-Eklemek için: Verilecek yüzdeyi ve MultiSend vektörüne eklemek için btca adresi girin.
+        <translation>MultiSend, olgunlaştıktan sonra diğer btcr adreslerinin bir listesine otomatik olarak kazancınızın 100% 'ünü veya grup yazınızı ödüllendirmenize olanak tanır.
+Eklemek için: Verilecek yüzdeyi ve MultiSend vektörüne eklemek için btcr adresi girin.
 Silme: Silinecek adresi girin ve silmek için basın.
 MultiSend, Etkinleştir'i tıklamadığınız sürece etkinleştirilmeyecektir</translation>
     </message>
@@ -1644,8 +1644,8 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>Address /miktar:</translation>
     </message>
     <message>
-        <source>Add destinations to send btca to</source>
-        <translation>btca göndermek için varış yerleri ekleyin</translation>
+        <source>Add destinations to send btcr to</source>
+        <translation>btcr göndermek için varış yerleri ekleyin</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1743,48 +1743,48 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>Lütfen bir gizlilik düzeyi seçin.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>10000 btca'e kadar fonları karıştırmak için 2 ayrı matternod kullanın</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>10000 btcr'e kadar fonları karıştırmak için 2 ayrı matternod kullanın</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>10000 btca'ye kadar olan fonları karıştırmak için 8 ayrı matternod kullanın</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>10000 btcr'ye kadar olan fonları karıştırmak için 8 ayrı matternod kullanın</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>16 ayrı matternod kullan</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 btca to anonymize 10000 btca</source>
-        <translation>Bu seçenek en hızlıdır ve 10000 btca'yi anonimleştirmek için ~ 0.025 btca'lik bir maliyeti olacaktır</translation>
+        <source>This option is the quickest and will cost about ~0.025 btcr to anonymize 10000 btcr</source>
+        <translation>Bu seçenek en hızlıdır ve 10000 btcr'yi anonimleştirmek için ~ 0.025 btcr'lik bir maliyeti olacaktır</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 btca to anonymize 10000 btca</source>
-        <translation>Bu seçenek orta derecede hızlıdır ve 10000 btca'yi anonimleştirmek için yaklaşık 0.05 btca'e mal olur</translation>
+        <source>This option is moderately fast and will cost about 0.05 btcr to anonymize 10000 btcr</source>
+        <translation>Bu seçenek orta derecede hızlıdır ve 10000 btcr'yi anonimleştirmek için yaklaşık 0.05 btcr'e mal olur</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Bu en yavaş ve en güvenli seçenektir. Maksimum anonimlik kullanmak maliyete gelecek</translation>
     </message>
     <message>
-        <source>0.1 btca per 10000 btca you anonymize.</source>
-        <translation>0.1 btca her 10000 btca anonimleştirmeye.</translation>
+        <source>0.1 btcr per 10000 btcr you anonymize.</source>
+        <translation>0.1 btcr her 10000 btcr anonimleştirmeye.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Şaşırtma ayarlama</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Şaşırtma başarıyla temele ayarlandı. (%1 ve  2 turlar) Bunu istediğiniz zaman değiştirmek için btca in ayarlar ekranını açmanız yeterli</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Şaşırtma başarıyla temele ayarlandı. (%1 ve  2 turlar) Bunu istediğiniz zaman değiştirmek için btcr in ayarlar ekranını açmanız yeterli</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Şaşırtma başarıyla Yüksek e ayarlandı. (%1 ve 8 turlar) Bunu istediğiniz zaman değiştirmek için btca in ayarlar ekranını açmanız yeterli</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Şaşırtma başarıyla Yüksek e ayarlandı. (%1 ve 8 turlar) Bunu istediğiniz zaman değiştirmek için btcr in ayarlar ekranını açmanız yeterli</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Şaşırtma başarıyla maksimuma ayarlandı. (%1 ve 16 turlar) Bunu istediğiniz zaman değiştirmek için btca in ayarlar ekranını açmanız yeterli</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Şaşırtma başarıyla maksimuma ayarlandı. (%1 ve 16 turlar) Bunu istediğiniz zaman değiştirmek için btcr in ayarlar ekranını açmanız yeterli</translation>
     </message>
 </context>
 <context>
@@ -1845,8 +1845,8 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>Doğrulanmamış değişikliğin harcamasını devre dışı bırakırsanız, bir işlemdeki değişiklik&lt;br/&gt;Bu işlem en az bir onay alıncaya kadar kullanılamaz.&lt;br/&gt;Bu aynı zamanda bakiyenizin nasıl hesaplandığını etkiler.</translation>
     </message>
     <message>
-        <source>Automatically open the btca client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticideki btca istemci bağlantı noktasını otomatik olarak açın. Bu, yalnızca yönlendiriciniz UPnP'yi destekliyorsa ve etkinleştirilmişse çalışır.</translation>
+        <source>Automatically open the btcr client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticideki btcr istemci bağlantı noktasını otomatik olarak açın. Bu, yalnızca yönlendiriciniz UPnP'yi destekliyorsa ve etkinleştirilmişse çalışır.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1865,12 +1865,12 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>Uzman</translation>
     </message>
     <message>
-        <source>Automatically start btca after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra otomatik olarak btca'i başlatın.</translation>
+        <source>Automatically start btcr after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra otomatik olarak btcr'i başlatın.</translation>
     </message>
     <message>
-        <source>&amp;Start btca on system login</source>
-        <translation>&amp; Sistem oturum açma işleminde btca'i başlat</translation>
+        <source>&amp;Start btcr on system login</source>
+        <translation>&amp; Sistem oturum açma işleminde btcr'i başlat</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1897,42 +1897,42 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>&amp;ağ</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting btca.</source>
-        <translation>Kullanıcı arabirimi dili burada ayarlanabilir. Bu ayar, btca yeniden başlatıldıktan sonra geçerli olur.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting btcr.</source>
+        <translation>Kullanıcı arabirimi dili burada ayarlanabilir. Bu ayar, btcr yeniden başlatıldıktan sonra geçerli olur.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/btca/btca-translations</source>
+https://www.transifex.com/btcr/btcr-translations</source>
         <translation>Dil eksik veya çeviri tamamlanmamış mı? Katkıda bulunan çevirilere yardımcı olun:
-https://www.transifex.com/btca/btca-translations</translation>
+https://www.transifex.com/btcr/btcr-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Map port using &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable zbtca Automint</source>
-        <translation>zbtca Otomatik basımı etkinleştir</translation>
+        <source>Enable zbtcr Automint</source>
+        <translation>zbtcr Otomatik basımı etkinleştir</translation>
     </message>
     <message>
-        <source>Percentage of incoming btca which get automatically converted to zbtca via Zerocoin Protocol (min: 10%)</source>
-        <translation>Zerocoin Protokolü üzerinden otomatik olarak zbtca'ye dönüştürülen gelen btca yüzdesi (dakika: 10%)</translation>
+        <source>Percentage of incoming btcr which get automatically converted to zbtcr via Zerocoin Protocol (min: 10%)</source>
+        <translation>Zerocoin Protokolü üzerinden otomatik olarak zbtcr'ye dönüştürülen gelen btcr yüzdesi (dakika: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zbtca</source>
-        <translation>Otomatikleştirilmiş zbtca yüzdesi</translation>
+        <source>Percentage of autominted zbtcr</source>
+        <translation>Otomatikleştirilmiş zbtcr yüzdesi</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough btca for this denomination is available</source>
-        <translation>Bu mezhebi için yeterli btca bulunana kadar Zerocoin'e otomatik dönüşümle birlikte bekleyin</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough btcr for this denomination is available</source>
+        <translation>Bu mezhebi için yeterli btcr bulunana kadar Zerocoin'e otomatik dönüşümle birlikte bekleyin</translation>
     </message>
     <message>
-        <source>Preferred Automint zbtca Denomination</source>
-        <translation>Tercih edilen Automint zbtca Nominal değeri</translation>
+        <source>Preferred Automint zbtcr Denomination</source>
+        <translation>Tercih edilen Automint zbtcr Nominal değeri</translation>
     </message>
     <message>
-        <source>Connect to the btca network through a SOCKS5 proxy.</source>
-        <translation>Bir SOCKS5 proxy vasıtasıyla btca ağına bağlanın.</translation>
+        <source>Connect to the btcr network through a SOCKS5 proxy.</source>
+        <translation>Bir SOCKS5 proxy vasıtasıyla btcr ağına bağlanın.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2078,8 +2078,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Toplam Bakiye, mevcut olmayan tüm paralar dahil.</translation>
     </message>
     <message>
-        <source>btca Balance</source>
-        <translation>btca Bakiyesi</translation>
+        <source>btcr Balance</source>
+        <translation>btcr Bakiyesi</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2098,16 +2098,16 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Staklanmış veya masternod ödülleri henüz olgunlaşmamış</translation>
     </message>
     <message>
-        <source>Your current btca balance, unconfirmed and immature transactions included</source>
-        <translation>Güncel btca bakiyeniz, onaylanmamış ve olgunlaşmamış işlemler dahil</translation>
+        <source>Your current btcr balance, unconfirmed and immature transactions included</source>
+        <translation>Güncel btcr bakiyeniz, onaylanmamış ve olgunlaşmamış işlemler dahil</translation>
     </message>
     <message>
-        <source>zbtca Balance</source>
-        <translation>zbtca Bakiyesi</translation>
+        <source>zbtcr Balance</source>
+        <translation>zbtcr Bakiyesi</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilgiler güncelliğini yitirmiş olabilir. Bir bağlantı kurulduktan sonra M-cüzdanınız otomatik olarak btca şebekesiyle senkronize edilir, ancak bu işlem henüz tamamlanmadı.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilgiler güncelliğini yitirmiş olabilir. Bir bağlantı kurulduktan sonra M-cüzdanınız otomatik olarak btcr şebekesiyle senkronize edilir, ancak bu işlem henüz tamamlanmadı.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2150,8 +2150,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Harcanabilir:</translation>
     </message>
     <message>
-        <source>Locked btca or Masternode collaterals. These are excluded from zbtca minting.</source>
-        <translation>Kilitli btca veya Masternode teminatları. Bunlar zbtca matlaştırmadan çıkarılır.</translation>
+        <source>Locked btcr or Masternode collaterals. These are excluded from zbtcr minting.</source>
+        <translation>Kilitli btcr veya Masternode teminatları. Bunlar zbtcr matlaştırmadan çıkarılır.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2162,8 +2162,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>onaylanmamış:</translation>
     </message>
     <message>
-        <source>Your current zbtca balance, unconfirmed and immature zbtca included.</source>
-        <translation>Güncel zbtca bakiyeniz, onaylanmamış ve olgunlaşmamış zbtca'ler dahil.</translation>
+        <source>Your current zbtcr balance, unconfirmed and immature zbtcr included.</source>
+        <translation>Güncel zbtcr bakiyeniz, onaylanmamış ve olgunlaşmamış zbtcr'ler dahil.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2174,10 +2174,10 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>senkronizasyon dışı</translation>
     </message>
     <message>
-        <source>Current percentage of zbtca.
+        <source>Current percentage of zbtcr.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Mevcut zbtca yüzdesi.
+        <translation>Mevcut zbtcr yüzdesi.
 AutoMint etkinleştirilirse, bu yüzde, yapılandırılmış AutoMint yüzdesi etrafında düzelir (varsayılan = 10%).
 </translation>
     </message>
@@ -2186,14 +2186,14 @@ AutoMint etkinleştirilirse, bu yüzde, yapılandırılmış AutoMint yüzdesi e
         <translation>AutoMint şu anda etkinleştirilmiş ve</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in btca.conf.</source>
-        <translation>AutoMint kapatmak için ekle  'enablezeromint=0'  btca.conf. dosyasına</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in btcr.conf.</source>
+        <translation>AutoMint kapatmak için ekle  'enablezeromint=0'  btcr.conf. dosyasına</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btca.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btcr.conf</source>
         <translation>AutoMint şu anda aktif değil.
- AutoMint aktive etmek için  değiştir 'enablezeromint=0' yazan kısmı 'enablezeromint=1' şeklinde btca.conf dosyasında</translation>
+ AutoMint aktive etmek için  değiştir 'enablezeromint=0' yazan kısmı 'enablezeromint=1' şeklinde btcr.conf dosyasında</translation>
     </message>
 </context>
 <context>
@@ -2219,12 +2219,12 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btca.conf<
         <translation>Geçersiz ödeme adresi %1</translation>
     </message>
     <message>
-        <source>Cannot start btca: click-to-pay handler</source>
-        <translation>btca başlatılamıyor: tıkla ve ödeme işleyicisi</translation>
+        <source>Cannot start btcr: click-to-pay handler</source>
+        <translation>btcr başlatılamıyor: tıkla ve ödeme işleyicisi</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid btca address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamaz! Bunun nedeni, geçersiz bir btca adresi veya hatalı biçimlendirilmiş URI parametrelerinden kaynaklanabilir.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid btcr address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamaz! Bunun nedeni, geçersiz bir btcr adresi veya hatalı biçimlendirilmiş URI parametrelerinden kaynaklanabilir.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2309,8 +2309,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btca.conf<
         <translation>Zerocoin Actions:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilgiler güncelliğini yitirmiş olabilir. Bir bağlantı kurulduktan sonra M-cüzdanınız otomatik olarak btca şebekesiyle senkronize edilir, ancak bu işlem henüz tamamlanmadı.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilgiler güncelliğini yitirmiş olabilir. Bir bağlantı kurulduktan sonra M-cüzdanınız otomatik olarak btcr şebekesiyle senkronize edilir, ancak bu işlem henüz tamamlanmadı.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2321,8 +2321,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btca.conf<
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2333,8 +2333,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btca.conf<
         <translation>Mintinge hazır</translation>
     </message>
     <message>
-        <source>0.000 000 00 btca</source>
-        <translation>0.000 000 00 btca</translation>
+        <source>0.000 000 00 btcr</source>
+        <translation>0.000 000 00 btcr</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2385,24 +2385,24 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btca.conf<
         <translation>Harca Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zbtca for spending</source>
-        <translation>Mevcut (olgun ve harcanabilir) harcama için zbtca</translation>
+        <source>Available (mature and spendable) zbtcr for spending</source>
+        <translation>Mevcut (olgun ve harcanabilir) harcama için zbtcr</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Kullanılabilir Bakiye:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zbtca for spending
+        <source>Available (mature and spendable) zbtcr for spending
 
-zbtca are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Mevcut (olgun ve harcanabilir) harcama için zbtca
+zbtcr are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Mevcut (olgun ve harcanabilir) harcama için zbtcr
 
-zbtca, 20'den fazla teyit bulunduğunda olgunlaşır ve bundan sonra aynı mezhepten 2 kat fazla darphane çekilir.</translation>
+zbtcr, 20'den fazla teyit bulunduğunda olgunlaşır ve bundan sonra aynı mezhepten 2 kat fazla darphane çekilir.</translation>
     </message>
     <message>
-        <source>0 zbtca</source>
-        <translation>0 zbtca</translation>
+        <source>0 zbtcr</source>
+        <translation>0 zbtcr</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2421,8 +2421,8 @@ zbtca, 20'den fazla teyit bulunduğunda olgunlaşır ve bundan sonra aynı mezhe
         <translation>şuna öde:</translation>
     </message>
     <message>
-        <source>The btca address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Ödemeyi göndermek için btca adresi. Boş olduğunda kendinize yerel ödeme oluşturur.</translation>
+        <source>The btcr address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>Ödemeyi göndermek için btcr adresi. Boş olduğunda kendinize yerel ödeme oluşturur.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2473,8 +2473,8 @@ zbtca, 20'den fazla teyit bulunduğunda olgunlaşır ve bundan sonra aynı mezhe
         <translation>Zerocoin durumu:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zbtca</source>
-        <translation>Doğrulanmamış ve olgunlaşmamış zbtca dahil toplam bakiye</translation>
+        <source>Total Balance including unconfirmed and immature zbtcr</source>
+        <translation>Doğrulanmamış ve olgunlaşmamış zbtcr dahil toplam bakiye</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2649,12 +2649,12 @@ Maximum allowed: </source>
 Maksimum bırakılan: </translation>
     </message>
     <message>
-        <source>zbtca is currently disabled due to maintenance.</source>
-        <translation>zbtca bakım nedeniyle şu an kullanıma kapalı.</translation>
+        <source>zbtcr is currently disabled due to maintenance.</source>
+        <translation>zbtcr bakım nedeniyle şu an kullanıma kapalı.</translation>
     </message>
     <message>
-        <source>zbtca is currently undergoing maintenance.</source>
-        <translation>zbtca halen bakım alıyor.</translation>
+        <source>zbtcr is currently undergoing maintenance.</source>
+        <translation>zbtcr halen bakım alıyor.</translation>
     </message>
     <message>
         <source>AutoMint Status:</source>
@@ -2677,8 +2677,8 @@ Maksimum bırakılan: </translation>
         <translation>Başarılı şekilde mint edildi</translation>
     </message>
     <message>
-        <source> zbtca in </source>
-        <translation> zbtca in </translation>
+        <source> zbtcr in </source>
+        <translation> zbtcr in </translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2705,8 +2705,8 @@ Maksimum bırakılan: </translation>
         <translation>Sağlanan 'Ödeme Yapmak İçin' adresi yok, yerel ödeme oluşturun</translation>
     </message>
     <message>
-        <source>Invalid btca Address</source>
-        <translation>Geçersiz btca Adresi</translation>
+        <source>Invalid btcr Address</source>
+        <translation>Geçersiz btcr Adresi</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2790,8 +2790,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Miktar</translation>
     </message>
     <message>
-        <source>Enter a btca address (e.g. %1)</source>
-        <translation>Gir bir btca addres (e.g. %1)</translation>
+        <source>Enter a btcr address (e.g. %1)</source>
+        <translation>Gir bir btcr addres (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2928,8 +2928,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Block chain</translation>
     </message>
     <message>
-        <source>Open the btca debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Geçerli veri dizininden btca hata ayıklama günlük dosyasını açın. Bu, büyük günlük dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the btcr debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Geçerli veri dizininden btcr hata ayıklama günlük dosyasını açın. Bu, büyük günlük dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3112,8 +3112,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Dışa:</translation>
     </message>
     <message>
-        <source>Welcome to the btca RPC console.</source>
-        <translation>btca RPC konsola hoşgeldiniz</translation>
+        <source>Welcome to the btcr RPC console.</source>
+        <translation>btcr RPC konsola hoşgeldiniz</translation>
     </message>
     <message>
         <source>This will delete your local blockchain folders and the wallet will synchronize the complete Blockchain from scratch.&lt;br /&gt;&lt;br /&gt;</source>
@@ -3199,12 +3199,12 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Yeni alma adresi ile ilişkilendirilebilecek isteğe bağlı bir etiket.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the btca network.</source>
-        <translation>Talep açıldığında görüntülenecek ödeme isteğine eklemek için isteğe bağlı bir mesaj. Not: Mesaj, ödemenin btca şebekesi üzerinden gönderilmeyecektir.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the btcr network.</source>
+        <translation>Talep açıldığında görüntülenecek ödeme isteğine eklemek için isteğe bağlı bir mesaj. Not: Mesaj, ödemenin btcr şebekesi üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the btca network.</source>
-        <translation>Talep açıldığında görüntülenecek, ödeme isteğine eklemek için isteğe bağlı bir mesaj.&lt;br&gt;Not: Mesaj, ödemenin btca şebekesi üzerinden gönderilmeyecektir.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the btcr network.</source>
+        <translation>Talep açıldığında görüntülenecek, ödeme isteğine eklemek için isteğe bağlı bir mesaj.&lt;br&gt;Not: Mesaj, ödemenin btcr şebekesi üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3428,8 +3428,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>UTXO Boyutu:</translation>
     </message>
     <message>
-        <source>0 btca</source>
-        <translation>0 btca</translation>
+        <source>0 btcr</source>
+        <translation>0 btcr</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3484,16 +3484,16 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Koinler otomatik seçildi</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 ubtcas and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcas in fee,&lt;br /&gt;while "at least" pays 1000 ubtcas. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Özel ücret 1000 ubtca olarak ayarlanmış ve işlem sadece 250 bayt ise, "kilobayt başına" ücret karşılığında yalnızca 250 ubtca öder,&lt;br /&gt;"en az" ise 1000 ubtca öder. Bir kilobayttan daha büyük işlemler için kilobayt ödersiniz.</translation>
+        <source>If the custom fee is set to 1000 ubtcrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcrs in fee,&lt;br /&gt;while "at least" pays 1000 ubtcrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Özel ücret 1000 ubtcr olarak ayarlanmış ve işlem sadece 250 bayt ise, "kilobayt başına" ücret karşılığında yalnızca 250 ubtcr öder,&lt;br /&gt;"en az" ise 1000 ubtcr öder. Bir kilobayttan daha büyük işlemler için kilobayt ödersiniz.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 ubtcas and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcas in fee,&lt;br /&gt;while "total at least" pays 1000 ubtcas. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Özel ücret 1000 ubtca olarak ayarlanırsa ve işlem sadece 250 bayt ise, "kilobayt başına" ücret karşılığında yalnızca 250 ubtca ücreti verilir,&lt;br /&gt;"toplam en az" ise 1000 ubtca ödüyor. Bir kilobayttan daha büyük işlemler için kilobayt ödersiniz.</translation>
+        <source>If the custom fee is set to 1000 ubtcrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcrs in fee,&lt;br /&gt;while "total at least" pays 1000 ubtcrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Özel ücret 1000 ubtcr olarak ayarlanırsa ve işlem sadece 250 bayt ise, "kilobayt başına" ücret karşılığında yalnızca 250 ubtcr ücreti verilir,&lt;br /&gt;"toplam en az" ise 1000 ubtcr ödüyor. Bir kilobayttan daha büyük işlemler için kilobayt ödersiniz.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for btca transactions than the network can process.</source>
-        <translation>Yalnızca minimum ücreti ödemek, işlem hacmi bloklardaki alana göre daha az olduğu sürece iyidir.&lt;br /&gt;Ancak, bunun, btca işlemleri için ağın işleyebileceğinden daha fazla talep olması durumunda, onaylama işleminde asla sonuçlanamayacağına dikkat edin.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for btcr transactions than the network can process.</source>
+        <translation>Yalnızca minimum ücreti ödemek, işlem hacmi bloklardaki alana göre daha az olduğu sürece iyidir.&lt;br /&gt;Ancak, bunun, btcr işlemleri için ağın işleyebileceğinden daha fazla talep olması durumunda, onaylama işleminde asla sonuçlanamayacağına dikkat edin.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3540,8 +3540,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Alıcı ekle</translation>
     </message>
     <message>
-        <source>Anonymized btca</source>
-        <translation>anonim edilmiş btca</translation>
+        <source>Anonymized btcr</source>
+        <translation>anonim edilmiş btcr</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3588,8 +3588,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Bloğu böl aygıtı multipl adresle çalışmaz Tekrar deneyin</translation>
     </message>
     <message>
-        <source>Warning: Invalid btca address</source>
-        <translation>Uyarı: Geçersiz btca adresi</translation>
+        <source>Warning: Invalid btcr address</source>
+        <translation>Uyarı: Geçersiz btcr adresi</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -3683,8 +3683,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>şuna öde:</translation>
     </message>
     <message>
-        <source>The btca address to send the payment to</source>
-        <translation>Ödemeyi göndermek için btca adresi</translation>
+        <source>The btcr address to send the payment to</source>
+        <translation>Ödemeyi göndermek için btcr adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3723,8 +3723,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Mesaj:</translation>
     </message>
     <message>
-        <source>A message that was attached to the btca: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the btca network.</source>
-        <translation>btca e eklenmiş olan bir mesaj: İşleminizle beraber saklanacak olan URI hatırlamanız için. Not: Bu mesaj btca ağında yayınlanmayacak.</translation>
+        <source>A message that was attached to the btcr: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the btcr network.</source>
+        <translation>btcr e eklenmiş olan bir mesaj: İşleminizle beraber saklanacak olan URI hatırlamanız için. Not: Bu mesaj btcr ağında yayınlanmayacak.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3750,8 +3750,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>btca Core is shutting down...</source>
-        <translation>btca Core kapanıyor ...</translation>
+        <source>btcr Core is shutting down...</source>
+        <translation>btcr Core kapanıyor ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3773,8 +3773,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Sahip olduğunuzu kanıtlamak için adreslerinizle mesaj imzalayabilirsiniz. Kimlik avı saldırıları sizi kimliğini onlara yazmaya kandırmaya çalışabilir, çünkü belirsiz bir şey imzalamamaya dikkat edin. Kabul ettiğiniz tamamen ayrıntılı ifadeleri yalnızca imzalayın.</translation>
     </message>
     <message>
-        <source>The btca address to sign the message with</source>
-        <translation>Ile mesaj imzalamak için btca adresi</translation>
+        <source>The btcr address to sign the message with</source>
+        <translation>Ile mesaj imzalamak için btcr adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3805,16 +3805,16 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Geçerli imzayı sistem panosuna kopyala</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this btca address</source>
-        <translation>Bu btca adresinin sahibi olduğunuzu kanıtlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this btcr address</source>
+        <translation>Bu btcr adresinin sahibi olduğunuzu kanıtlamak için mesajı imzala</translation>
     </message>
     <message>
-        <source>The btca address the message was signed with</source>
-        <translation>Mesajın imzalandığı btca adresi</translation>
+        <source>The btcr address the message was signed with</source>
+        <translation>Mesajın imzalandığı btcr adresi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified btca address</source>
-        <translation>Belirtilen btca adresi ile imzalanmış olduğundan emin olmak için iletiyi doğrulayın</translation>
+        <source>Verify the message to ensure it was signed with the specified btcr address</source>
+        <translation>Belirtilen btcr adresi ile imzalanmış olduğundan emin olmak için iletiyi doğrulayın</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3900,8 +3900,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca CORE</translation>
+        <source>btcr Core</source>
+        <translation>btcr CORE</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3916,8 +3916,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>The Dash Core developers</translation>
     </message>
     <message>
-        <source>The btca Core developers</source>
-        <translation>The btca Core developers</translation>
+        <source>The btcr Core developers</source>
+        <translation>The btcr Core developers</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4436,8 +4436,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Koinleri göder</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 btca.</source>
-        <translation>SwiftX yüksek değerler göndermeyi desteklemiyor. İşlemler şu anda %1 btca ile sınırlıdır.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 btcr.</source>
+        <translation>SwiftX yüksek değerler göndermeyi desteklemiyor. İşlemler şu anda %1 btcr ile sınırlıdır.</translation>
     </message>
 </context>
 <context>
@@ -4464,7 +4464,7 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
     </message>
 </context>
 <context>
-    <name>ZbtcaControlDialog</name>
+    <name>ZbtcrControlDialog</name>
     <message>
         <source>Quantity</source>
         <translation>Adet</translation>
@@ -4474,8 +4474,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4487,7 +4487,7 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
     </message>
 </context>
 <context>
-    <name>btca-core</name>
+    <name>btcr-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = tx meta verileri, örneğin hesap sahibi ve ödeme talebi bilgileri, 2 = tx meta verileri bırak)</translation>
@@ -4513,8 +4513,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Hesaplanan akümülatör kontrol noktası, blok indeksiyle kaydedilen kontrol noktası değildir.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. btca Core is probably already running.</source>
-        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. btca Core muhtemelen zaten çalışıyor.</translation>
+        <source>Cannot obtain a lock on data directory %s. btcr Core is probably already running.</source>
+        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. btcr Core muhtemelen zaten çalışıyor.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4565,12 +4565,12 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>En iyi blok değiştirildiğinde komutu yürütün (cmd'deki %s yerine blok karması verilir)</translation>
     </message>
     <message>
-        <source>Fees (in btca/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Bundan daha küçük ücretler (btca / Kb cinsinden), aktarma için sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
+        <source>Fees (in btcr/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Bundan daha küçük ücretler (btcr / Kb cinsinden), aktarma için sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
     </message>
     <message>
-        <source>Fees (in btca/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Bundan daha küçük ücretler (btca / Kb cinsinden), işlem yaratmada sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
+        <source>Fees (in btcr/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Bundan daha küçük ücretler (btcr / Kb cinsinden), işlem yaratmada sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>

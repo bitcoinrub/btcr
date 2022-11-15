@@ -1,10 +1,10 @@
 // Copyright (c) 2017-2018 The PIVX developers
-// Copyright (c) 2017-2018 The btca developers
+// Copyright (c) 2017-2018 The btcr developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#include "zbtcacontroldialog.h"
-#include "ui_zbtcacontroldialog.h"
+#include "zbtcrcontroldialog.h"
+#include "ui_zbtcrcontroldialog.h"
 
 #include "accumulators.h"
 #include "main.h"
@@ -13,12 +13,12 @@
 using namespace std;
 using namespace libzerocoin;
 
-std::set<std::string> ZbtcaControlDialog::setSelectedMints;
-std::set<CMintMeta> ZbtcaControlDialog::setMints;
+std::set<std::string> ZbtcrControlDialog::setSelectedMints;
+std::set<CMintMeta> ZbtcrControlDialog::setMints;
 
-ZbtcaControlDialog::ZbtcaControlDialog(QWidget *parent) :
+ZbtcrControlDialog::ZbtcrControlDialog(QWidget *parent) :
     QDialog(parent, Qt::WindowSystemMenuHint | Qt::WindowTitleHint | Qt::WindowCloseButtonHint),
-    ui(new Ui::ZbtcaControlDialog),
+    ui(new Ui::ZbtcrControlDialog),
     model(0)
 {
     ui->setupUi(this);
@@ -31,19 +31,19 @@ ZbtcaControlDialog::ZbtcaControlDialog(QWidget *parent) :
     connect(ui->pushButtonAll, SIGNAL(clicked()), this, SLOT(ButtonAllClicked()));
 }
 
-ZbtcaControlDialog::~ZbtcaControlDialog()
+ZbtcrControlDialog::~ZbtcrControlDialog()
 {
     delete ui;
 }
 
-void ZbtcaControlDialog::setModel(WalletModel *model)
+void ZbtcrControlDialog::setModel(WalletModel *model)
 {
     this->model = model;
     updateList();
 }
 
 //Update the tree widget
-void ZbtcaControlDialog::updateList()
+void ZbtcrControlDialog::updateList()
 {
     // need to prevent the slot from being called each time something is changed
     ui->treeWidget->blockSignals(true);
@@ -128,7 +128,7 @@ void ZbtcaControlDialog::updateList()
 }
 
 // Update the list when a checkbox is clicked
-void ZbtcaControlDialog::updateSelection(QTreeWidgetItem* item, int column)
+void ZbtcrControlDialog::updateSelection(QTreeWidgetItem* item, int column)
 {
     // only want updates from non top level items that are available to spend
     if (item->parent() && column == COLUMN_CHECKBOX && !item->isDisabled()){
@@ -150,7 +150,7 @@ void ZbtcaControlDialog::updateSelection(QTreeWidgetItem* item, int column)
 }
 
 // Update the Quantity and Amount display
-void ZbtcaControlDialog::updateLabels()
+void ZbtcrControlDialog::updateLabels()
 {
     int64_t nAmount = 0;
     for (const CMintMeta& mint : setMints) {
@@ -159,12 +159,12 @@ void ZbtcaControlDialog::updateLabels()
     }
 
     //update this dialog's labels
-    ui->labelZbtca_int->setText(QString::number(nAmount));
+    ui->labelZbtcr_int->setText(QString::number(nAmount));
     ui->labelQuantity_int->setText(QString::number(setSelectedMints.size()));
 
 }
 
-std::vector<CMintMeta> ZbtcaControlDialog::GetSelectedMints()
+std::vector<CMintMeta> ZbtcrControlDialog::GetSelectedMints()
 {
     std::vector<CMintMeta> listReturn;
     for (const CMintMeta& mint : setMints) {
@@ -176,7 +176,7 @@ std::vector<CMintMeta> ZbtcaControlDialog::GetSelectedMints()
 }
 
 // select or deselect all of the mints
-void ZbtcaControlDialog::ButtonAllClicked()
+void ZbtcrControlDialog::ButtonAllClicked()
 {
     ui->treeWidget->blockSignals(true);
     Qt::CheckState state = Qt::Checked;

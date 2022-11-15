@@ -263,11 +263,11 @@ UniValue stop(const UniValue& params, bool fHelp)
     if (fHelp || params.size() > 1)
         throw runtime_error(
             "stop\n"
-            "\nStop btca server.");
+            "\nStop btcr server.");
     // Event loop will exit after current HTTP requests have been handled, so
     // this reply will get back to the client.
     StartShutdown();
-    return "btca server stopping";
+    return "btcr server stopping";
 }
 
 
@@ -352,37 +352,37 @@ static const CRPCCommand vRPCCommands[] =
         {"hidden", "reconsiderblock", &reconsiderblock, true, true, false},
         {"hidden", "setmocktime", &setmocktime, true, false, false},
 
-        /* btca features */
-        {"btca", "masternode", &masternode, true, true, false},
-        {"btca", "listmasternodes", &listmasternodes, true, true, false},
-        {"btca", "getmasternodecount", &getmasternodecount, true, true, false},
-        {"btca", "masternodeconnect", &masternodeconnect, true, true, false},
-        {"btca", "createmasternodebroadcast", &createmasternodebroadcast, true, true, false},
-        {"btca", "decodemasternodebroadcast", &decodemasternodebroadcast, true, true, false},
-        {"btca", "relaymasternodebroadcast", &relaymasternodebroadcast, true, true, false},
-        {"btca", "masternodecurrent", &masternodecurrent, true, true, false},
-        {"btca", "masternodedebug", &masternodedebug, true, true, false},
-        {"btca", "startmasternode", &startmasternode, true, true, false},
-        {"btca", "createmasternodekey", &createmasternodekey, true, true, false},
-        {"btca", "getmasternodeoutputs", &getmasternodeoutputs, true, true, false},
-        {"btca", "listmasternodeconf", &listmasternodeconf, true, true, false},
-        {"btca", "getmasternodestatus", &getmasternodestatus, true, true, false},
-        {"btca", "getmasternodewinners", &getmasternodewinners, true, true, false},
-        {"btca", "getmasternodescores", &getmasternodescores, true, true, false},
-        {"btca", "mnbudget", &mnbudget, true, true, false},
-        {"btca", "preparebudget", &preparebudget, true, true, false},
-        {"btca", "submitbudget", &submitbudget, true, true, false},
-        {"btca", "mnbudgetvote", &mnbudgetvote, true, true, false},
-        {"btca", "getbudgetvotes", &getbudgetvotes, true, true, false},
-        {"btca", "getnextsuperblock", &getnextsuperblock, true, true, false},
-        {"btca", "getbudgetprojection", &getbudgetprojection, true, true, false},
-        {"btca", "getbudgetinfo", &getbudgetinfo, true, true, false},
-        {"btca", "mnbudgetrawvote", &mnbudgetrawvote, true, true, false},
-        {"btca", "mnfinalbudget", &mnfinalbudget, true, true, false},
-        {"btca", "checkbudgets", &checkbudgets, true, true, false},
-        {"btca", "mnsync", &mnsync, true, true, false},
-        {"btca", "spork", &spork, true, true, false},
-        {"btca", "getpoolinfo", &getpoolinfo, true, true, false},
+        /* btcr features */
+        {"btcr", "masternode", &masternode, true, true, false},
+        {"btcr", "listmasternodes", &listmasternodes, true, true, false},
+        {"btcr", "getmasternodecount", &getmasternodecount, true, true, false},
+        {"btcr", "masternodeconnect", &masternodeconnect, true, true, false},
+        {"btcr", "createmasternodebroadcast", &createmasternodebroadcast, true, true, false},
+        {"btcr", "decodemasternodebroadcast", &decodemasternodebroadcast, true, true, false},
+        {"btcr", "relaymasternodebroadcast", &relaymasternodebroadcast, true, true, false},
+        {"btcr", "masternodecurrent", &masternodecurrent, true, true, false},
+        {"btcr", "masternodedebug", &masternodedebug, true, true, false},
+        {"btcr", "startmasternode", &startmasternode, true, true, false},
+        {"btcr", "createmasternodekey", &createmasternodekey, true, true, false},
+        {"btcr", "getmasternodeoutputs", &getmasternodeoutputs, true, true, false},
+        {"btcr", "listmasternodeconf", &listmasternodeconf, true, true, false},
+        {"btcr", "getmasternodestatus", &getmasternodestatus, true, true, false},
+        {"btcr", "getmasternodewinners", &getmasternodewinners, true, true, false},
+        {"btcr", "getmasternodescores", &getmasternodescores, true, true, false},
+        {"btcr", "mnbudget", &mnbudget, true, true, false},
+        {"btcr", "preparebudget", &preparebudget, true, true, false},
+        {"btcr", "submitbudget", &submitbudget, true, true, false},
+        {"btcr", "mnbudgetvote", &mnbudgetvote, true, true, false},
+        {"btcr", "getbudgetvotes", &getbudgetvotes, true, true, false},
+        {"btcr", "getnextsuperblock", &getnextsuperblock, true, true, false},
+        {"btcr", "getbudgetprojection", &getbudgetprojection, true, true, false},
+        {"btcr", "getbudgetinfo", &getbudgetinfo, true, true, false},
+        {"btcr", "mnbudgetrawvote", &mnbudgetrawvote, true, true, false},
+        {"btcr", "mnfinalbudget", &mnfinalbudget, true, true, false},
+        {"btcr", "checkbudgets", &checkbudgets, true, true, false},
+        {"btcr", "mnsync", &mnsync, true, true, false},
+        {"btcr", "spork", &spork, true, true, false},
+        {"btcr", "getpoolinfo", &getpoolinfo, true, true, false},
 
 #ifdef ENABLE_WALLET
         /* Wallet */
@@ -596,7 +596,7 @@ std::vector<std::string> CRPCTable::listCommands() const
 
 std::string HelpExampleCli(string methodname, string args)
 {
-    return "> btca-cli " + methodname + " " + args + "\n";
+    return "> btcr-cli " + methodname + " " + args + "\n";
 }
 
 std::string HelpExampleRpc(string methodname, string args)

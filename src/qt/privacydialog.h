@@ -1,5 +1,5 @@
 // Copyright (c) 2017-2018 The PIVX developers
-// Copyright (c) 2020 The btca developers
+// Copyright (c) 2020 The btcr developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -47,7 +47,7 @@ public:
 
     void setModel(WalletModel* model);
     void showOutOfSyncWarning(bool fShow);
-    void setZbtcaControlLabels(int64_t nAmount, int nQuantity);
+    void setZbtcrControlLabels(int64_t nAmount, int nQuantity);
 
 public slots:
     void setBalance(const CAmount& balance, const CAmount& unconfirmedBalance, const CAmount& immatureBalance, 
@@ -77,7 +77,7 @@ private:
 
     int nDisplayUnit;
     bool updateLabel(const QString& address);
-    void sendzbtca();
+    void sendzbtcr();
 
 private slots:
     void on_payTo_textChanged(const QString& address);
@@ -97,11 +97,11 @@ private slots:
 //    void coinControlClipboardLowOutput();
 //    void coinControlClipboardChange();
 
-    void on_pushButtonMintzbtca_clicked();
+    void on_pushButtonMintzbtcr_clicked();
     void on_pushButtonMintReset_clicked();
     void on_pushButtonSpentReset_clicked();
-    void on_pushButtonSpendzbtca_clicked();
-    void on_pushButtonZbtcaControl_clicked();
+    void on_pushButtonSpendzbtcr_clicked();
+    void on_pushButtonZbtcrControl_clicked();
     void on_pasteButton_clicked();
     void updateDisplayUnit();
     void updateAutomintStatus();

@@ -2,24 +2,24 @@
 
 # backward compatibility for existing gentoo layout
 #
-if [ -d "/var/lib/btca/.btca" ]; then
-	BITCOIND_DEFAULT_DATADIR="/var/lib/btca/.btca"
+if [ -d "/var/lib/btcr/.btcr" ]; then
+	BITCOIND_DEFAULT_DATADIR="/var/lib/btcr/.btcr"
 else
-	BITCOIND_DEFAULT_DATADIR="/var/lib/btcad"
+	BITCOIND_DEFAULT_DATADIR="/var/lib/btcrd"
 fi
 
-BITCOIND_CONFIGFILE=${BITCOIND_CONFIGFILE:-/etc/btca/btca.conf}
-BITCOIND_PIDDIR=${BITCOIND_PIDDIR:-/var/run/btcad}
-BITCOIND_PIDFILE=${BITCOIND_PIDFILE:-${BITCOIND_PIDDIR}/btcad.pid}
+BITCOIND_CONFIGFILE=${BITCOIND_CONFIGFILE:-/etc/btcr/btcr.conf}
+BITCOIND_PIDDIR=${BITCOIND_PIDDIR:-/var/run/btcrd}
+BITCOIND_PIDFILE=${BITCOIND_PIDFILE:-${BITCOIND_PIDDIR}/btcrd.pid}
 BITCOIND_DATADIR=${BITCOIND_DATADIR:-${BITCOIND_DEFAULT_DATADIR}}
-BITCOIND_USER=${BITCOIND_USER:-btca}
-BITCOIND_GROUP=${BITCOIND_GROUP:-btca}
-BITCOIND_BIN=${BITCOIND_BIN:-/usr/bin/btcad}
+BITCOIND_USER=${BITCOIND_USER:-btcr}
+BITCOIND_GROUP=${BITCOIND_GROUP:-btcr}
+BITCOIND_BIN=${BITCOIND_BIN:-/usr/bin/btcrd}
 
-name="btca Core Daemon"
-description="btca crypto-currency p2p network daemon"
+name="btcr Core Daemon"
+description="btcr crypto-currency p2p network daemon"
 
-command="/usr/bin/btcad"
+command="/usr/bin/btcrd"
 command_args="-pid=\"${BITCOIND_PIDFILE}\" \
 		-conf=\"${BITCOIND_CONFIGFILE}\" \
 		-datadir=\"${BITCOIND_DATADIR}\" \
@@ -65,7 +65,7 @@ checkconfig()
 {
 	if ! grep -qs '^rpcpassword=' "${BITCOIND_CONFIGFILE}" ; then
 		eerror ""
-		eerror "ERROR: You must set a secure rpcpassword to run btcad."
+		eerror "ERROR: You must set a secure rpcpassword to run btcrd."
 		eerror "The setting must appear in ${BITCOIND_CONFIGFILE}"
 		eerror ""
 		eerror "This password is security critical to securing wallets "
@@ -78,7 +78,7 @@ checkconfig()
 		eerror "It is also recommended that you also set alertnotify so you are "
 		eerror "notified of problems:"
 		eerror ""
-		eerror "ie: alertnotify=echo %%s | mail -s \"btca Alert\"" \
+		eerror "ie: alertnotify=echo %%s | mail -s \"btcr Alert\"" \
 			"admin@foo.com"
 		eerror ""
 		return 1

@@ -321,10 +321,10 @@
     <name>WalletView</name>
     </context>
 <context>
-    <name>ZbtcaControlDialog</name>
+    <name>ZbtcrControlDialog</name>
     </context>
 <context>
-    <name>btca-core</name>
+    <name>btcr-core</name>
     <message>
         <source>Information</source>
         <translation>जानकारी</translation>

@@ -33,7 +33,7 @@ std::string HelpMessageCli()
     string strUsage;
     strUsage += HelpMessageGroup(_("Options:"));
     strUsage += HelpMessageOpt("-?", _("This help message"));
-    strUsage += HelpMessageOpt("-conf=<file>", strprintf(_("Specify configuration file (default: %s)"), "btca.conf"));
+    strUsage += HelpMessageOpt("-conf=<file>", strprintf(_("Specify configuration file (default: %s)"), "btcr.conf"));
     strUsage += HelpMessageOpt("-datadir=<dir>", _("Specify data directory"));
     strUsage += HelpMessageOpt("-testnet", _("Use the test network"));
     strUsage += HelpMessageOpt("-regtest", _("Enter regression test mode, which uses a special chain in which blocks can be "
@@ -72,12 +72,12 @@ static bool AppInitRPC(int argc, char* argv[])
     //
     ParseParameters(argc, argv);
     if (argc < 2 || mapArgs.count("-?") || mapArgs.count("-help") || mapArgs.count("-version")) {
-        std::string strUsage = _("btca Core RPC client version") + " " + FormatFullVersion() + "\n";
+        std::string strUsage = _("btcr Core RPC client version") + " " + FormatFullVersion() + "\n";
         if (!mapArgs.count("-version")) {
             strUsage += "\n" + _("Usage:") + "\n" +
-                        "  btca-cli [options] <command> [params]  " + _("Send command to btca Core") + "\n" +
-                        "  btca-cli [options] help                " + _("List commands") + "\n" +
-                        "  btca-cli [options] help <command>      " + _("Get help for a command") + "\n";
+                        "  btcr-cli [options] <command> [params]  " + _("Send command to btcr Core") + "\n" +
+                        "  btcr-cli [options] help                " + _("List commands") + "\n" +
+                        "  btcr-cli [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessageCli();
         }

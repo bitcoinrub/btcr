@@ -62,12 +62,12 @@
         <translation>Mottagar adresser</translation>
     </message>
     <message>
-        <source>These are your btca addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Det här är dina btca adresser för att skicka betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
+        <source>These are your btcr addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Det här är dina btcr adresser för att skicka betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
     </message>
     <message>
-        <source>These are your btca addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Det här är dina btca adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
+        <source>These are your btcr addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Det här är dina btcr adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Bekräfta plånboks krypering</translation>
     </message>
     <message>
-        <source>btca will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcas from being stolen by malware infecting your computer.</source>
-        <translation>btca kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina btcas från att bli stulna av skadeprogram som infekterat din dator.</translation>
+        <source>btcr will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcrs from being stolen by malware infecting your computer.</source>
+        <translation>btcr kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina btcrs från att bli stulna av skadeprogram som infekterat din dator.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Är du säker på att du vill kryptera din plånbok?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btca&lt;/b&gt;!</source>
-        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA btca&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btcr&lt;/b&gt;!</source>
+        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA btcr&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adress:</translation>
     </message>
     <message>
-        <source>Enter a btca Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Fyll i en btca Adress som du skulle vilja cryptera med BIP 38. Skriv in en lösenfras i den mittersta lådan. Tryck kryptera för att beräkna fram den krypterade privata nyckeln.</translation>
+        <source>Enter a btcr Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Fyll i en btcr Adress som du skulle vilja cryptera med BIP 38. Skriv in en lösenfras i den mittersta lådan. Tryck kryptera för att beräkna fram den krypterade privata nyckeln.</translation>
     </message>
     <message>
-        <source>The btca address to encrypt</source>
-        <translation>btca adressen som ska krypteras</translation>
+        <source>The btcr address to encrypt</source>
+        <translation>btcr adressen som ska krypteras</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this btca address</source>
-        <translation>Kryptera den privata nyckeln för denna btca adressen</translation>
+        <source>Encrypt the private key for this btcr address</source>
+        <translation>Kryptera den privata nyckeln för denna btcr adressen</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>Bläddra i transaktions historiken</translation>
     </message>
     <message>
-        <source>Privacy Actions for zbtca</source>
-        <translation>Integritets funktioner för zbtca</translation>
+        <source>Privacy Actions for zbtcr</source>
+        <translation>Integritets funktioner för zbtcr</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -645,16 +645,16 @@
         <translation>flik vertygsrad</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Kärna</translation>
+        <source>btcr Core</source>
+        <translation>btcr Kärna</translation>
     </message>
     <message>
-        <source>Send coins to a btca address</source>
-        <translation>Skicka mynt till en btca adress</translation>
+        <source>Send coins to a btcr address</source>
+        <translation>Skicka mynt till en btcr adress</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and btca: URIs)</source>
-        <translation>Begär betalning (genererar QR kod och btca: URls)</translation>
+        <source>Request payments (generates QR codes and btcr: URIs)</source>
+        <translation>Begär betalning (genererar QR kod och btcr: URls)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Utforska masternoder</translation>
     </message>
     <message>
-        <source>&amp;About btca Core</source>
-        <translation>Om btca Kärnan</translation>
+        <source>&amp;About btcr Core</source>
+        <translation>Om btcr Kärnan</translation>
     </message>
     <message>
-        <source>Show information about btca Core</source>
-        <translation>Visa information om btca Kärnan</translation>
+        <source>Show information about btcr Core</source>
+        <translation>Visa information om btcr Kärnan</translation>
     </message>
     <message>
-        <source>Modify configuration options for btca</source>
-        <translation>Ändra konfigurationsval för btca</translation>
+        <source>Modify configuration options for btcr</source>
+        <translation>Ändra konfigurationsval för btcr</translation>
     </message>
     <message>
-        <source>Sign messages with your btca addresses to prove you own them</source>
-        <translation>Signera meddelanden med din btca adress för att visa att du äger dem</translation>
+        <source>Sign messages with your btcr addresses to prove you own them</source>
+        <translation>Signera meddelanden med din btcr adress för att visa att du äger dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified btca addresses</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika btca adressen.</translation>
+        <source>Verify messages to ensure they were signed with specified btcr addresses</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika btcr adressen.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Öppna Huvudnodens konfigurations fil </translation>
     </message>
     <message>
-        <source>Open a btca: URI or payment request</source>
-        <translation>Öppna en btca: URI eller betalningsförfrågan</translation>
+        <source>Open a btcr: URI or payment request</source>
+        <translation>Öppna en btcr: URI eller betalningsförfrågan</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Blockera utforskarfönstret</translation>
     </message>
     <message>
-        <source>Show the btca Core help message to get a list with possible btca command-line options</source>
-        <translation>Visa btca Core hjälp meddelande för att få en lista med möjliga btca kommandorad alternativ</translation>
+        <source>Show the btcr Core help message to get a list with possible btcr command-line options</source>
+        <translation>Visa btcr Core hjälp meddelande för att få en lista med möjliga btcr kommandorad alternativ</translation>
     </message>
     <message>
-        <source>btca Core client</source>
-        <translation>btca kärn klient</translation>
+        <source>btcr Core client</source>
+        <translation>btcr kärn klient</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to btca network</source>
-        <translation><numerusform>%n aktiv(a) annslutning(ar) till btca nätverket</numerusform><numerusform>%n aktiv(a) annslutning(ar) till btca nätverket</numerusform></translation>
+        <source>%n active connection(s) to btcr network</source>
+        <translation><numerusform>%n aktiv(a) annslutning(ar) till btcr nätverket</numerusform><numerusform>%n aktiv(a) annslutning(ar) till btcr nätverket</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ MultiSend: %1</translation>
         <translation>text etikett</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btca.conf).</source>
-        <translation>Alla transaktioner kommer inte visas. För att visa alla transaktioner behöver du sätta txindex=1 i konfigurationsfilen (btca.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btcr.conf).</source>
+        <translation>Alla transaktioner kommer inte visas. För att visa alla transaktioner behöver du sätta txindex=1 i konfigurationsfilen (btcr.conf).</translation>
     </message>
 </context>
 <context>
@@ -1130,8 +1130,8 @@ MultiSend: %1</translation>
         <translation>Den här etiketten blir röd, ifall någon mottagare får en mängd som är mindre än %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 ubtca per input.</source>
-        <translation>Kan variera med +/- %1 ubtca per inmatning.</translation>
+        <source>Can vary +/- %1 ubtcr per input.</source>
+        <translation>Kan variera med +/- %1 ubtcr per inmatning.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1185,8 +1185,8 @@ MultiSend: %1</translation>
         <translation>Redigera skickande adress</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid btca address.</source>
-        <translation>Den inmatade adressen "%1" är ej en giltig btca adress.</translation>
+        <source>The entered address "%1" is not a valid btcr address.</source>
+        <translation>Den inmatade adressen "%1" är ej en giltig btcr adress.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ MultiSend: %1</translation>
         <translation>version</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Kärna</translation>
+        <source>btcr Core</source>
+        <translation>btcr Kärna</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About btca Core</source>
-        <translation>Om btca Kärna</translation>
+        <source>About btcr Core</source>
+        <translation>Om btcr Kärna</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ MultiSend: %1</translation>
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to btca Core.</source>
-        <translation>Välkommen till btca Core.</translation>
+        <source>Welcome to btcr Core.</source>
+        <translation>Välkommen till btcr Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where btca Core will store its data.</source>
-        <translation>Eftersom detta är första gången programmet körs så kan du välja var btca Core ska spara sin data.</translation>
+        <source>As this is the first time the program is launched, you can choose where btcr Core will store its data.</source>
+        <translation>Eftersom detta är första gången programmet körs så kan du välja var btcr Core ska spara sin data.</translation>
     </message>
     <message>
-        <source>btca Core will download and store a copy of the btca block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>btca Kärnan kommer ladda ner och spara en kopia av btca block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
+        <source>btcr Core will download and store a copy of the btcr block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>btcr Kärnan kommer ladda ner och spara en kopia av btcr block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ MultiSend: %1</translation>
         <translation>Använd en skräddarsydd data katalog</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ MultiSend: %1</translation>
         <translation>Mata in Adress att Skicka till</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btca addresses after it matures.
-To Add: enter percentage to give and btca address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btcr addresses after it matures.
+To Add: enter percentage to give and btcr address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend tillåter dig att automatiskt skicka upp till 100% av dina staking eller huvudnod belöningar till en lista av andra btca adresser efter att belöningarna har mognat.
-För att Lägga till: Ange procent att ge och btca adress för att lägga till i MultiSend vektorn.
+        <translation>MultiSend tillåter dig att automatiskt skicka upp till 100% av dina staking eller huvudnod belöningar till en lista av andra btcr adresser efter att belöningarna har mognat.
+För att Lägga till: Ange procent att ge och btcr adress för att lägga till i MultiSend vektorn.
 För att Ta Bort: Ange adressen som ska tas bort och tryck ta bort.
 MultiSend kommer inte aktiveras om du inte tryckt på Aktivera</translation>
     </message>
@@ -1680,8 +1680,8 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Adress / Mängd:</translation>
     </message>
     <message>
-        <source>Add destinations to send btca to</source>
-        <translation>Lägg till destination att skicka btca till</translation>
+        <source>Add destinations to send btcr to</source>
+        <translation>Lägg till destination att skicka btcr till</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1779,48 +1779,48 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Var vänlig och välj en sekretess nivå.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Använd 2 separata huvudnoder för att blanda tillgångar upp till 10000 btca</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Använd 2 separata huvudnoder för att blanda tillgångar upp till 10000 btcr</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Använd 8 separata huvudnoderför att blanda tillgångar upp till 10000 btca</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Använd 8 separata huvudnoderför att blanda tillgångar upp till 10000 btcr</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Använd 16 separata huvudnoder</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 btca to anonymize 10000 btca</source>
-        <translation>Det här alternativet är det snabbaste och kommer kostar ungefär ~0.025 btca för att anonymisera 10000 btca</translation>
+        <source>This option is the quickest and will cost about ~0.025 btcr to anonymize 10000 btcr</source>
+        <translation>Det här alternativet är det snabbaste och kommer kostar ungefär ~0.025 btcr för att anonymisera 10000 btcr</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 btca to anonymize 10000 btca</source>
-        <translation>Det här alternativet är måttligt snabb och kommer kostar ungefär 0.05 btca för att anonymisera 10000 btca</translation>
+        <source>This option is moderately fast and will cost about 0.05 btcr to anonymize 10000 btcr</source>
+        <translation>Det här alternativet är måttligt snabb och kommer kostar ungefär 0.05 btcr för att anonymisera 10000 btcr</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Det här är det långsammaste och säkraste alternativet. Använda maximal anonymitet kommer kosta</translation>
     </message>
     <message>
-        <source>0.1 btca per 10000 btca you anonymize.</source>
-        <translation>0.1 btca per 10000 btca du anonymiserar.</translation>
+        <source>0.1 btcr per 10000 btcr you anonymize.</source>
+        <translation>0.1 btcr per 10000 btcr du anonymiserar.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Fördunkling Konfiguration</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Fördunkling sattes framgångsrikt till grundläggande (%1 och 2 rundor). Du kan ändra det här när du vill genom att öppna btca's konfigurationsskärm.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Fördunkling sattes framgångsrikt till grundläggande (%1 och 2 rundor). Du kan ändra det här när du vill genom att öppna btcr's konfigurationsskärm.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Fördunkling sattes framgångsrikt till hög (%1 och 8 rundor). Du kan ändra det här när du vill genom att öppna btca's konfigurationsskärm.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Fördunkling sattes framgångsrikt till hög (%1 och 8 rundor). Du kan ändra det här när du vill genom att öppna btcr's konfigurationsskärm.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Fördunkling sattes framgångsrikt till maximal (%1 och 16 rundor). Du kan ändra det här när du vill genom att öppna btca's konfigurationsskärm.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Fördunkling sattes framgångsrikt till maximal (%1 och 16 rundor). Du kan ändra det här när du vill genom att öppna btcr's konfigurationsskärm.</translation>
     </message>
 </context>
 <context>
@@ -1877,8 +1877,8 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Om du avaktiverar spenderandet av okonfirmerad växel så kommer växeln från en transaktion &lt;br/&gt;ej kunna användas föräns transaktionen har minst en bekräftelse. &lt;br/&gt; Detta påverkar även hur ditt saldo beräknas.</translation>
     </message>
     <message>
-        <source>Automatically open the btca client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt btca klient porten på denna router. Detta funkar endast om din router stödjer UPnP och är påslaget.</translation>
+        <source>Automatically open the btcr client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt btcr klient porten på denna router. Detta funkar endast om din router stödjer UPnP och är påslaget.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1893,12 +1893,12 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start btca after logging in to the system.</source>
-        <translation>Starta btca automatiskt efter inloggning på systemet.</translation>
+        <source>Automatically start btcr after logging in to the system.</source>
+        <translation>Starta btcr automatiskt efter inloggning på systemet.</translation>
     </message>
     <message>
-        <source>&amp;Start btca on system login</source>
-        <translation>&amp;Starta btca vid systeminloggning</translation>
+        <source>&amp;Start btcr on system login</source>
+        <translation>&amp;Starta btcr vid systeminloggning</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1921,50 +1921,50 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>&amp;Nätverk</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting btca.</source>
-        <translation>Användargränssnittets språk kan väljas här. Denna inställning börjar gälla efter att man startat om btca.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting btcr.</source>
+        <translation>Användargränssnittets språk kan väljas här. Denna inställning börjar gälla efter att man startat om btcr.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/btca/btca-translations</source>
+https://www.transifex.com/btcr/btcr-translations</source>
         <translation>Fattas språk eller är översättningen ofullständig? Hjälp till att bidra med översättning här:
-https://www.transifex.com/btca/btca-translations</translation>
+https://www.transifex.com/btcr/btcr-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Kartlägg port med &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of btca units to zbtca</source>
-        <translation>Tillåt automatisk prägling med btca enheter till zbtca</translation>
+        <source>Enable automatic minting of btcr units to zbtcr</source>
+        <translation>Tillåt automatisk prägling med btcr enheter till zbtcr</translation>
     </message>
     <message>
-        <source>Enable zbtca Automint</source>
-        <translation>Tillåt zbtca Autoprägling</translation>
+        <source>Enable zbtcr Automint</source>
+        <translation>Tillåt zbtcr Autoprägling</translation>
     </message>
     <message>
-        <source>Percentage of incoming btca which get automatically converted to zbtca via Zerocoin Protocol (min: 10%)</source>
-        <translation>Procent av inkommande btca som automatiskt konverteras till zbtca via Zerocoin Protokollet (min: 10%)</translation>
+        <source>Percentage of incoming btcr which get automatically converted to zbtcr via Zerocoin Protocol (min: 10%)</source>
+        <translation>Procent av inkommande btcr som automatiskt konverteras till zbtcr via Zerocoin Protokollet (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zbtca</source>
-        <translation>Procent av autopräglade zbtca</translation>
+        <source>Percentage of autominted zbtcr</source>
+        <translation>Procent av autopräglade zbtcr</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough btca for this denomination is available</source>
-        <translation>Vänta med automatisk omvandling till Zerocoin tills tillräckligt många btca för denna valör är tillgängliga</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough btcr for this denomination is available</source>
+        <translation>Vänta med automatisk omvandling till Zerocoin tills tillräckligt många btcr för denna valör är tillgängliga</translation>
     </message>
     <message>
-        <source>Preferred Automint zbtca Denomination</source>
-        <translation>Preferens på zbtca valör i autoprägling</translation>
+        <source>Preferred Automint zbtcr Denomination</source>
+        <translation>Preferens på zbtcr valör i autoprägling</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
         <translation>Staking delnings tröskel:</translation>
     </message>
     <message>
-        <source>Connect to the btca network through a SOCKS5 proxy.</source>
-        <translation>Anslut till btca nätverket via en SOCKS5 proxy.</translation>
+        <source>Connect to the btcr network through a SOCKS5 proxy.</source>
+        <translation>Anslut till btcr nätverket via en SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2106,8 +2106,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Totalt saldo, inkluderar alla otillgängliga mynt.</translation>
     </message>
     <message>
-        <source>btca Balance</source>
-        <translation>btca Saldo</translation>
+        <source>btcr Balance</source>
+        <translation>btcr Saldo</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2130,18 +2130,18 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Nuvarande låst saldo endast i "watch only" adresser</translation>
     </message>
     <message>
-        <source>Your current btca balance, unconfirmed and immature transactions included</source>
-        <translation>Ditt nuvarande btca saldo, obekräftade och omogna transaktioner är inkluderade</translation>
+        <source>Your current btcr balance, unconfirmed and immature transactions included</source>
+        <translation>Ditt nuvarande btcr saldo, obekräftade och omogna transaktioner är inkluderade</translation>
     </message>
     <message>
-        <source>zbtca Balance</source>
-        <translation>zbtca Saldo</translation>
+        <source>zbtcr Balance</source>
+        <translation>zbtcr Saldo</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zbtca are spendable.</source>
+These zbtcr are spendable.</source>
         <translation>Mogna: över 20 bekräftelser och över 1 prägling av samma valör efter den blev myntad.
-Dessa zbtca kan spenderas.</translation>
+Dessa zbtcr kan spenderas.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2150,8 +2150,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Omogna: bekräftade men under 1 myntning av samma valör efter den blev präglad</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med btca nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med btcr nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2194,8 +2194,8 @@ Omogna: bekräftade men under 1 myntning av samma valör efter den blev präglad
         <translation>Spenderbar:</translation>
     </message>
     <message>
-        <source>Locked btca or Masternode collaterals. These are excluded from zbtca minting.</source>
-        <translation>Låsta btca eller masternode som säkerhet. Dessa är uteslutna från zbtca minting.</translation>
+        <source>Locked btcr or Masternode collaterals. These are excluded from zbtcr minting.</source>
+        <translation>Låsta btcr eller masternode som säkerhet. Dessa är uteslutna från zbtcr minting.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2206,8 +2206,8 @@ Omogna: bekräftade men under 1 myntning av samma valör efter den blev präglad
         <translation>Obekräftade:</translation>
     </message>
     <message>
-        <source>Your current zbtca balance, unconfirmed and immature zbtca included.</source>
-        <translation>Ditt nuvarande zbtca saldo, obekräftade och omogna zbtca inräknade.</translation>
+        <source>Your current zbtcr balance, unconfirmed and immature zbtcr included.</source>
+        <translation>Ditt nuvarande zbtcr saldo, obekräftade och omogna zbtcr inräknade.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2218,10 +2218,10 @@ Omogna: bekräftade men under 1 myntning av samma valör efter den blev präglad
         <translation>osynkroniserad</translation>
     </message>
     <message>
-        <source>Current percentage of zbtca.
+        <source>Current percentage of zbtcr.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Nuvarande procent zbtca.
+        <translation>Nuvarande procent zbtcr.
 Om AutoMint är tillåten så kommer denna procent att vara som den konfigurerade AutoMint procenten (standard = 10%).
 </translation>
     </message>
@@ -2230,14 +2230,14 @@ Om AutoMint är tillåten så kommer denna procent att vara som den konfigurerad
         <translation>AutoMint är för tillfället aktiverat och inställt på</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in btca.conf.</source>
-        <translation>För att inaktivera AutoMint, lägg till 'enablezeromint=0' i btca.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in btcr.conf.</source>
+        <translation>För att inaktivera AutoMint, lägg till 'enablezeromint=0' i btcr.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btca.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btcr.conf</source>
         <translation>AutoMint är för närvarande inaktiverat.
-För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i btca.conf</translation>
+För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i btcr.conf</translation>
     </message>
 </context>
 <context>
@@ -2263,12 +2263,12 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i b
         <translation>Ogiltig betalningsadress %1</translation>
     </message>
     <message>
-        <source>Cannot start btca: click-to-pay handler</source>
-        <translation>Kan ej starta btca: klicka-för-att-betala hanterare</translation>
+        <source>Cannot start btcr: click-to-pay handler</source>
+        <translation>Kan ej starta btcr: klicka-för-att-betala hanterare</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid btca address or malformed URI parameters.</source>
-        <translation>URI kunde ej analyseras! Detta kan orsakas av en ogiltig btca adress eller felproducerade URI parametrar.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid btcr address or malformed URI parameters.</source>
+        <translation>URI kunde ej analyseras! Detta kan orsakas av en ogiltig btcr adress eller felproducerade URI parametrar.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2353,8 +2353,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i b
         <translation>Zerocoin Handlingar:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>nformationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med btca nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>nformationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med btcr nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2365,8 +2365,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i b
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2377,8 +2377,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i b
         <translation>Tillgängligt att prägla:</translation>
     </message>
     <message>
-        <source>0.000 000 00 btca</source>
-        <translation>0.000 000 00 btca</translation>
+        <source>0.000 000 00 btcr</source>
+        <translation>0.000 000 00 btcr</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2417,16 +2417,16 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i b
         <translation>SEKRETESS</translation>
     </message>
     <message>
-        <source>Enter an amount of btca to convert to zbtca</source>
-        <translation>Mata in en mängd btca att konvertera till zbtca</translation>
+        <source>Enter an amount of btcr to convert to zbtcr</source>
+        <translation>Mata in en mängd btcr att konvertera till zbtcr</translation>
     </message>
     <message>
-        <source>zbtca Control</source>
-        <translation>zbtca Kontroll</translation>
+        <source>zbtcr Control</source>
+        <translation>zbtcr Kontroll</translation>
     </message>
     <message>
-        <source>zbtca Selected:</source>
-        <translation>Valda zbtca:</translation>
+        <source>zbtcr Selected:</source>
+        <translation>Valda zbtcr:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2441,24 +2441,24 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i b
         <translation>Spendera Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zbtca for spending</source>
-        <translation>Tillgängliga (mogna och spenderbara) zbtca att spendera</translation>
+        <source>Available (mature and spendable) zbtcr for spending</source>
+        <translation>Tillgängliga (mogna och spenderbara) zbtcr att spendera</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Tillgängligt Saldo:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zbtca for spending
+        <source>Available (mature and spendable) zbtcr for spending
 
-zbtca are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Tillgängliga (mogna och spenderbara) zbtca att spendera
+zbtcr are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Tillgängliga (mogna och spenderbara) zbtcr att spendera
 
-zbtca är mogna när de har över 20 bekräftelser OCH över 2 präglingar av samma valör efter de är myntade.</translation>
+zbtcr är mogna när de har över 20 bekräftelser OCH över 2 präglingar av samma valör efter de är myntade.</translation>
     </message>
     <message>
-        <source>0 zbtca</source>
-        <translation>0 zbtca</translation>
+        <source>0 zbtcr</source>
+        <translation>0 zbtcr</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2477,8 +2477,8 @@ zbtca är mogna när de har över 20 bekräftelser OCH över 2 präglingar av sa
         <translation>Betala &amp;Till:</translation>
     </message>
     <message>
-        <source>The btca address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>btca adress att skicka betalningen till. Skapar betalning till dig själv när den är tom.</translation>
+        <source>The btcr address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>btcr adress att skicka betalningen till. Skapar betalning till dig själv när den är tom.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2529,8 +2529,8 @@ zbtca är mogna när de har över 20 bekräftelser OCH över 2 präglingar av sa
         <translation>Zerocoin Stats:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zbtca</source>
-        <translation>Totalt Saldo, obekräftade och omogna zbtca inkluderade</translation>
+        <source>Total Balance including unconfirmed and immature zbtcr</source>
+        <translation>Totalt Saldo, obekräftade och omogna zbtcr inkluderade</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2551,24 +2551,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Omogna: bekräftade men under 1 mint av samma valör efter den blev mintad</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zbtca minting.
+        <source>Show the current status of automatic zbtcr minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to btca.conf
-- disable: add 'enablezeromint=0' to btca.conf
+- enable: add 'enablezeromint=1' to btcr.conf
+- disable: add 'enablezeromint=0' to btcr.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zbtca
+- menu Settings-&gt;Options-&gt;Percentage of autominted zbtcr
 
 </source>
-        <translation>Visa den nuvarande statusen av automatisk zbtca minting.
+        <translation>Visa den nuvarande statusen av automatisk zbtcr minting.
 
 För att ändra statusen (omstart krävs):
--aktivera: lägg till 'enablezeromint=1' i btca.conf
--inaktivera: lägg till 'enablezeromint=0' i btca.conf
+-aktivera: lägg till 'enablezeromint=1' i btcr.conf
+-inaktivera: lägg till 'enablezeromint=0' i btcr.conf
 
 För att ändra procenten (ingen omstart krävs):
--meny Inställningar-&gt;Alternativ-&gt;Procent på autominted zbtca
+-meny Inställningar-&gt;Alternativ-&gt;Procent på autominted zbtcr
 
 </translation>
     </message>
@@ -2765,12 +2765,12 @@ Maximum allowed: </source>
 Högsta tillåtna:</translation>
     </message>
     <message>
-        <source>zbtca Spend #: </source>
-        <translation>zbtca spendering #:</translation>
+        <source>zbtcr Spend #: </source>
+        <translation>zbtcr spendering #:</translation>
     </message>
     <message>
-        <source>zbtca Mint</source>
-        <translation>zbtca Prägling</translation>
+        <source>zbtcr Mint</source>
+        <translation>zbtcr Prägling</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2785,12 +2785,12 @@ Högsta tillåtna:</translation>
         <translation>Konfigurerat procent mål: &lt;b&gt;</translation>
     </message>
     <message>
-        <source>zbtca is currently disabled due to maintenance.</source>
-        <translation>zbtca är för nuvarande inaktiverat p.g.a. underhåll.</translation>
+        <source>zbtcr is currently disabled due to maintenance.</source>
+        <translation>zbtcr är för nuvarande inaktiverat p.g.a. underhåll.</translation>
     </message>
     <message>
-        <source>zbtca is currently undergoing maintenance.</source>
-        <translation>zbtca genomgår för tillfället underhåll.</translation>
+        <source>zbtcr is currently undergoing maintenance.</source>
+        <translation>zbtcr genomgår för tillfället underhåll.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2877,8 +2877,8 @@ Högsta tillåtna:</translation>
         <translation>Framgångsrikt Myntade</translation>
     </message>
     <message>
-        <source> zbtca in </source>
-        <translation>zbtca i</translation>
+        <source> zbtcr in </source>
+        <translation>zbtcr i</translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2905,8 +2905,8 @@ Högsta tillåtna:</translation>
         <translation>Ingen 'Betala Till' adress inmatad, skapar lokal betalning</translation>
     </message>
     <message>
-        <source>Invalid btca Address</source>
-        <translation>Ogiltig btca Adress</translation>
+        <source>Invalid btcr Address</source>
+        <translation>Ogiltig btcr Adress</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2937,12 +2937,12 @@ Högsta tillåtna:</translation>
         <translation>Bekräfta att skicka mynt</translation>
     </message>
     <message>
-        <source>Version 1 zbtca require a security level of 100 to successfully spend.</source>
-        <translation>Version 1 zbtca kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
+        <source>Version 1 zbtcr require a security level of 100 to successfully spend.</source>
+        <translation>Version 1 zbtcr kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
     </message>
     <message>
-        <source>Failed to spend zbtca</source>
-        <translation>Misslyckades med att spendera zbtca</translation>
+        <source>Failed to spend zbtcr</source>
+        <translation>Misslyckades med att spendera zbtcr</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2964,7 +2964,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of btca to convert to zbtca</comment>
+        <comment>Enter an amount of btcr to convert to zbtcr</comment>
         <translation><numerusform>SekretessRuta</numerusform><numerusform>SekretessDialog</numerusform></translation>
     </message>
     <message>
@@ -3007,8 +3007,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Mängd</translation>
     </message>
     <message>
-        <source>Enter a btca address (e.g. %1)</source>
-        <translation>Mata in en btca adress (e.g. %1)</translation>
+        <source>Enter a btcr address (e.g. %1)</source>
+        <translation>Mata in en btcr adress (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3137,8 +3137,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Blockchain</translation>
     </message>
     <message>
-        <source>Open the btca debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna btca felsökningslogg från den nuvarande data katalogen. Detta kan ta några sekunder för stora logg filer.</translation>
+        <source>Open the btcr debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna btcr felsökningslogg från den nuvarande data katalogen. Detta kan ta några sekunder för stora logg filer.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3261,8 +3261,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Vanlig Backup Sökväg:</translation>
     </message>
     <message>
-        <source>Custom zbtca Backup Path:</source>
-        <translation>Vanlig zbtca Backup Sökväg:</translation>
+        <source>Custom zbtcr Backup Path:</source>
+        <translation>Vanlig zbtcr Backup Sökväg:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
@@ -3341,8 +3341,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Ut:</translation>
     </message>
     <message>
-        <source>Welcome to the btca RPC console.</source>
-        <translation>Välkommen till btca RPC konsol.</translation>
+        <source>Welcome to the btcr RPC console.</source>
+        <translation>Välkommen till btcr RPC konsol.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3448,16 +3448,16 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>En valfri etikett att associera med den nya mottagaradressen.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the btca network.</source>
-        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, som kommer visas när förfrågan öppnas. Observera: Medelandet kommer inte skickas med betalningen över btca nätverket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the btcr network.</source>
+        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, som kommer visas när förfrågan öppnas. Observera: Medelandet kommer inte skickas med betalningen över btcr nätverket.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>ERHÅLLA</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the btca network.</source>
-        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, vilket kommer visas när förfrågan öppnas.&lt;br&gt;Observera: Medelandet kommer inte skickas med betalningen över btca nätverket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the btcr network.</source>
+        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, vilket kommer visas när förfrågan öppnas.&lt;br&gt;Observera: Medelandet kommer inte skickas med betalningen över btcr nätverket.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3677,8 +3677,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>UTXO Storlek:</translation>
     </message>
     <message>
-        <source>0 btca</source>
-        <translation>0 btca</translation>
+        <source>0 btcr</source>
+        <translation>0 btcr</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3729,16 +3729,16 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Mynt automatiskt valda</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 ubtcas and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcas in fee,&lt;br /&gt;while "at least" pays 1000 ubtcas. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Om 1000 ubtcas är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 ubtcas i avgift,&lt;br /&gt;medans "minst" betalar 1000 ubtcas. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 ubtcrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcrs in fee,&lt;br /&gt;while "at least" pays 1000 ubtcrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Om 1000 ubtcrs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 ubtcrs i avgift,&lt;br /&gt;medans "minst" betalar 1000 ubtcrs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 ubtcas and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcas in fee,&lt;br /&gt;while "total at least" pays 1000 ubtcas. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Om 1000 ubtcas är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 ubtcas i avgift,&lt;br /&gt;medans "minst totalt" betalar 1000 ubtcas. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 ubtcrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcrs in fee,&lt;br /&gt;while "total at least" pays 1000 ubtcrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Om 1000 ubtcrs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 ubtcrs i avgift,&lt;br /&gt;medans "minst totalt" betalar 1000 ubtcrs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for btca transactions than the network can process.</source>
-        <translation>Att endast betala minimum avgift är okej så länge som transaktionsvolymen är mindre än rummet i blocken.&lt;br /&gt;Men var medveten om att detta kan sluta som en transaktion som aldrig blir bekräftad när det finns ett större behov av btca transaktioner än nätverket kan bearbeta.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for btcr transactions than the network can process.</source>
+        <translation>Att endast betala minimum avgift är okej så länge som transaktionsvolymen är mindre än rummet i blocken.&lt;br /&gt;Men var medveten om att detta kan sluta som en transaktion som aldrig blir bekräftad när det finns ett större behov av btcr transaktioner än nätverket kan bearbeta.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3777,8 +3777,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Skicka till flera mottagare på en gång</translation>
     </message>
     <message>
-        <source>Anonymized btca</source>
-        <translation>Anonymiserade btca</translation>
+        <source>Anonymized btcr</source>
+        <translation>Anonymiserade btcr</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3825,8 +3825,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Split block verktyget fungerar inte med flera adresser. Försök igen.</translation>
     </message>
     <message>
-        <source>Warning: Invalid btca address</source>
-        <translation>Varning: Ogiltig btca adress</translation>
+        <source>Warning: Invalid btcr address</source>
+        <translation>Varning: Ogiltig btcr adress</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -3928,8 +3928,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Betala &amp;Till:</translation>
     </message>
     <message>
-        <source>The btca address to send the payment to</source>
-        <translation>btca adressen att skicka betalningen till</translation>
+        <source>The btcr address to send the payment to</source>
+        <translation>btcr adressen att skicka betalningen till</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3968,8 +3968,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Medelande:</translation>
     </message>
     <message>
-        <source>A message that was attached to the btca: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the btca network.</source>
-        <translation>Ett medelande som var bifogat till btca: URI som kommer sparas med transaktionen som din referens. Lägg märke till: Detta meddelande kommer inte skickas genom btca nätverket.</translation>
+        <source>A message that was attached to the btcr: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the btcr network.</source>
+        <translation>Ett medelande som var bifogat till btcr: URI som kommer sparas med transaktionen som din referens. Lägg märke till: Detta meddelande kommer inte skickas genom btcr nätverket.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3995,8 +3995,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>btca Core is shutting down...</source>
-        <translation>btca Core stängs ner...</translation>
+        <source>btcr Core is shutting down...</source>
+        <translation>btcr Core stängs ner...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4018,8 +4018,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Du kan signera meddelanden med din egna adress för att bevisa att du äger dem. Se upp för att signera något vagt, då phishing-attacker kan försöka lura dig att signera din identitet åt dom. Signera endast fullt detaljerade påståenden du går med på.</translation>
     </message>
     <message>
-        <source>The btca address to sign the message with</source>
-        <translation>btca adressen för signera meddelandet med</translation>
+        <source>The btcr address to sign the message with</source>
+        <translation>btcr adressen för signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4050,16 +4050,16 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this btca address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna btca adress</translation>
+        <source>Sign the message to prove you own this btcr address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna btcr adress</translation>
     </message>
     <message>
-        <source>The btca address the message was signed with</source>
-        <translation>btca adressen meddelandet blev signerat med</translation>
+        <source>The btcr address the message was signed with</source>
+        <translation>btcr adressen meddelandet blev signerat med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified btca address</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika btca adressen.</translation>
+        <source>Verify the message to ensure it was signed with the specified btcr address</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika btcr adressen.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4145,8 +4145,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4161,8 +4161,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Dash Core utvecklarna</translation>
     </message>
     <message>
-        <source>The btca Core developers</source>
-        <translation>btca Core utvecklarna</translation>
+        <source>The btcr Core developers</source>
+        <translation>btcr Core utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4441,12 +4441,12 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Mottaget via Fördunkling</translation>
     </message>
     <message>
-        <source>btca Stake</source>
-        <translation>btca staking</translation>
+        <source>btcr Stake</source>
+        <translation>btcr staking</translation>
     </message>
     <message>
-        <source>zbtca Stake</source>
-        <translation>zbtca Staking</translation>
+        <source>zbtcr Stake</source>
+        <translation>zbtcr Staking</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4465,32 +4465,32 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Obfuscation Skapa tecken</translation>
     </message>
     <message>
-        <source>Converted btca to zbtca</source>
-        <translation>Konvertera btca till zbtca</translation>
+        <source>Converted btcr to zbtcr</source>
+        <translation>Konvertera btcr till zbtcr</translation>
     </message>
     <message>
-        <source>Spent zbtca</source>
-        <translation>Spendera zbtca</translation>
+        <source>Spent zbtcr</source>
+        <translation>Spendera zbtcr</translation>
     </message>
     <message>
-        <source>Received btca from zbtca</source>
-        <translation>Mottog btca från zbtca</translation>
+        <source>Received btcr from zbtcr</source>
+        <translation>Mottog btcr från zbtcr</translation>
     </message>
     <message>
-        <source>Minted Change as zbtca from zbtca Spend</source>
-        <translation>Myntad Växel som zbtca från zbtca Spendering</translation>
+        <source>Minted Change as zbtcr from zbtcr Spend</source>
+        <translation>Myntad Växel som zbtcr från zbtcr Spendering</translation>
     </message>
     <message>
-        <source>Converted zbtca to btca</source>
-        <translation>Konverterad zbtca till btca</translation>
+        <source>Converted zbtcr to btcr</source>
+        <translation>Konverterad zbtcr till btcr</translation>
     </message>
     <message>
-        <source>Anonymous (zbtca Transaction)</source>
-        <translation>Anonym (zbtca Transaktion)</translation>
+        <source>Anonymous (zbtcr Transaction)</source>
+        <translation>Anonym (zbtcr Transaktion)</translation>
     </message>
     <message>
-        <source>Anonymous (zbtca Stake)</source>
-        <translation>Anonym (zbtca Stake)</translation>
+        <source>Anonymous (zbtcr Stake)</source>
+        <translation>Anonym (zbtcr Stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4700,12 +4700,12 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Exportering Lyckat</translation>
     </message>
     <message>
-        <source>Received btca from zbtca</source>
-        <translation>Mottog btca från zbtca</translation>
+        <source>Received btcr from zbtcr</source>
+        <translation>Mottog btcr från zbtcr</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zbtca</source>
-        <translation>Zerocoin spendera, Växel i zbtca</translation>
+        <source>Zerocoin Spend, Change in zbtcr</source>
+        <translation>Zerocoin spendera, Växel i zbtcr</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4741,8 +4741,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Skicka Mynt</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 btca.</source>
-        <translation>wiftX stödjer inte att skicka så höga värden än. Transaktioner är för nuvarande begränsade till %1 btca.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 btcr.</source>
+        <translation>wiftX stödjer inte att skicka så höga värden än. Transaktioner är för nuvarande begränsade till %1 btcr.</translation>
     </message>
 </context>
 <context>
@@ -4773,10 +4773,10 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
     </message>
 </context>
 <context>
-    <name>ZbtcaControlDialog</name>
+    <name>ZbtcrControlDialog</name>
     <message>
-        <source>Select zbtca to Spend</source>
-        <translation>Välj zbtca att Spendera</translation>
+        <source>Select zbtcr to Spend</source>
+        <translation>Välj zbtcr att Spendera</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4787,8 +4787,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4800,7 +4800,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
     </message>
 </context>
 <context>
-    <name>btca-core</name>
+    <name>btcr-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = behåll tx meta data t.ex. kontoägare och information om betalningsförfråga, 2 = släpp tx meta data)</translation>
@@ -4826,8 +4826,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Beräknade ackumulator kontrollstation är inte vad som sparats av block index</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. btca Core is probably already running.</source>
-        <translation>Kan ej låsa in på data katalog %s. btca Kärna körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. btcr Core is probably already running.</source>
+        <translation>Kan ej låsa in på data katalog %s. btcr Kärna körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4854,16 +4854,16 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Distribuerad under MIT mjukvarulicensen, se medföljande fil COPYING eller &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zbtca minting (0-1, default: %u)</source>
-        <translation>Aktivera automatisk plånboksbackup efter varje zbtca minting (0-1, standard: %u)</translation>
+        <source>Enable automatic wallet backups triggered after each zbtcr minting (0-1, default: %u)</source>
+        <translation>Aktivera automatisk plånboksbackup efter varje zbtcr minting (0-1, standard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for btca inputs (0-1, default: %u)</source>
-        <translation>Aktivera eller avaktivera staking funktionalitet för btca inmatningar (0-1, standard: %u)</translation>
+        <source>Enable or disable staking functionality for btcr inputs (0-1, default: %u)</source>
+        <translation>Aktivera eller avaktivera staking funktionalitet för btcr inmatningar (0-1, standard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zbtca inputs (0-1, default: %u)</source>
-        <translation>Aktivera eller avaktivera staking funktionalitet för zbtca inmatningar (0-1, standard: %u)</translation>
+        <source>Enable or disable staking functionality for zbtcr inputs (0-1, default: %u)</source>
+        <translation>Aktivera eller avaktivera staking funktionalitet för zbtcr inmatningar (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -4898,12 +4898,12 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Exekvera kommando när den bästa block ändras (%s i cmd är utbytt mot block hash)</translation>
     </message>
     <message>
-        <source>Fees (in btca/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Avgifter (i btca/Kb) mindre än detta anses vara noll avgift i vidarebefodring (standard: %s)</translation>
+        <source>Fees (in btcr/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Avgifter (i btcr/Kb) mindre än detta anses vara noll avgift i vidarebefodring (standard: %s)</translation>
     </message>
     <message>
-        <source>Fees (in btca/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Avgifter (i btca/Kb) mindre än detta anses vara noll avgift i transaktionsskapelse (standard: %s)</translation>
+        <source>Fees (in btcr/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Avgifter (i btcr/Kb) mindre än detta anses vara noll avgift i transaktionsskapelse (standard: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5002,20 +5002,20 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Denna produkt inkluderar mjukvara utvecklad av OpenSSL Projektet för användning i OpenSSL Toolkit &lt;https://www.openssl.org/&gt; och kryptografisk mjukvara skriven av Eric Young och UPnP mjukvara skriven av Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. btca Core is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. btca Core körs förmodligen redan.</translation>
+        <source>Unable to bind to %s on this computer. btcr Core is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. btcr Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Kan ej lokalisera tillräckligt Fördunklingsdenominationerade pengar för denna transaktion.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 btca.</source>
-        <translation>Kan ej lokalisera tillräckligt Fördunkling icke-denominationerade pengar för denna transaktion som inte är 10000 btca.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 btcr.</source>
+        <translation>Kan ej lokalisera tillräckligt Fördunkling icke-denominationerade pengar för denna transaktion som inte är 10000 btcr.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 btca.</source>
-        <translation>Kan inte hitta tillräckligt med pengar för denna transaktion som inte är 10000 btca.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 btcr.</source>
+        <translation>Kan inte hitta tillräckligt med pengar för denna transaktion som inte är 10000 btcr.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5030,8 +5030,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Varning: -maxtxfee är sätt väldigt högt! Detta är transaktionsavgiften du kommer betala om du skickar en transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong btca Core will not work properly.</source>
-        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer btca Core inte att fungera korrekt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong btcr Core will not work properly.</source>
+        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer btcr Core inte att fungera korrekt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5182,8 +5182,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) %i The btca Core Developers</source>
-        <translation>Copyright (C) %i The btca Core Developers</translation>
+        <source>Copyright (C) %i The btcr Core Developers</source>
+        <translation>Copyright (C) %i The btcr Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5270,8 +5270,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Fel vid laddning av wallet.dat: Plånbok korrupterad</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of btca Core</source>
-        <translation>Fel vid laddning av wallet.dat: Plånbok  kräver nyare btca Kärna version</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of btcr Core</source>
+        <translation>Fel vid laddning av wallet.dat: Plånbok  kräver nyare btcr Kärna version</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5326,8 +5326,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Misslyckades läsa block</translation>
     </message>
     <message>
-        <source>Fee (in btca/kB) to add to transactions you send (default: %s)</source>
-        <translation>Avgift (i btca/kB) för att lägga till transaktioner you skicka (standard: %s)</translation>
+        <source>Fee (in btcr/kB) to add to transactions you send (default: %s)</source>
+        <translation>Avgift (i btcr/kB) för att lägga till transaktioner you skicka (standard: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -5386,8 +5386,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. btca Core is shutting down.</source>
-        <translation>Initierings renlighetscheck misslyckades. btca Kärna stängs ner.</translation>
+        <source>Initialization sanity check failed. btcr Core is shutting down.</source>
+        <translation>Initierings renlighetscheck misslyckades. btcr Kärna stängs ner.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5458,8 +5458,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Procent automatiskt mintad Zerocoin (1-100, default: %u)</translation>
     </message>
     <message>
-        <source>Reindex the btca and zbtca money supply statistics</source>
-        <translation>Indexera btca och zbtca pengarna tillgång statistik på nytt</translation>
+        <source>Reindex the btcr and zbtcr money supply statistics</source>
+        <translation>Indexera btcr och zbtcr pengarna tillgång statistik på nytt</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5498,8 +5498,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 </translation>
     </message>
     <message>
-        <source>Disable all btca specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Avaktivera all btca funktionalitet (Huvudnoder, Zerocoin, SwiftX, Budgeting) (0-1, standard: %u)</translation>
+        <source>Disable all btcr specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Avaktivera all btcr funktionalitet (Huvudnoder, Zerocoin, SwiftX, Budgeting) (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -5534,8 +5534,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Valör aatt föredra för automatiskt mintad Zerocoin (1/5/10/50/100/500/1000/5000), 0 för ingen preface. standard: %u)</translation>
     </message>
     <message>
-        <source>Specify custom backup path to add a copy of any automatic zbtca backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Specifiera skräddarsydd backup väg att lägga till en kopia av alla automatisk zbtca backup. Om satt som dir, varje backup genererar en tidsstämplad fil. Om satt som fil, skriver över den filen vid varje backup. Om backupvägen också är satt, 4 backups kommer hända</translation>
+        <source>Specify custom backup path to add a copy of any automatic zbtcr backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Specifiera skräddarsydd backup väg att lägga till en kopia av alla automatisk zbtcr backup. Om satt som dir, varje backup genererar en tidsstämplad fil. Om satt som fil, skriver över den filen vid varje backup. Om backupvägen också är satt, 4 backups kommer hända</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
@@ -6034,8 +6034,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Synkroniserar sporks...</translation>
     </message>
     <message>
-        <source>Syncing zbtca wallet...</source>
-        <translation>Synkroniserar zbtca plånbok...</translation>
+        <source>Syncing zbtcr wallet...</source>
+        <translation>Synkroniserar zbtcr plånbok...</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -6182,8 +6182,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Användarnamn för JSON-RPC anslutningar</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zbtca</source>
-        <translation>Värde är under den minsta tillgängliga valören (=1) av zbtca</translation>
+        <source>Value is below the smallest available denomination (= 1) of zbtcr</source>
+        <translation>Värde är under den minsta tillgängliga valören (=1) av zbtcr</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -6198,8 +6198,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Verifierar plånbok</translation>
     </message>
     <message>
-        <source>Version 1 zbtca require a security level of 100 to successfully spend.</source>
-        <translation>Version 1 zbtca kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
+        <source>Version 1 zbtcr require a security level of 100 to successfully spend.</source>
+        <translation>Version 1 zbtcr kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
@@ -6210,8 +6210,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Plånboken är låst.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart btca Core to complete</source>
-        <translation>Plånbok behöver skrivas om: starta om btca Kärna för att göra klart</translation>
+        <source>Wallet needed to be rewritten: restart btcr Core to complete</source>
+        <translation>Plånbok behöver skrivas om: starta om btcr Kärna för att göra klart</translation>
     </message>
     <message>
         <source>Wallet options:</source>

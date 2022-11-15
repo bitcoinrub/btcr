@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef btca_ACCUMULATORCHECKPOINTS_JSON_H
-#define btca_ACCUMULATORCHECKPOINTS_JSON_H
+#ifndef btcr_ACCUMULATORCHECKPOINTS_JSON_H
+#define btcr_ACCUMULATORCHECKPOINTS_JSON_H
 
 #include <string>
 std::string GetMainCheckpoints() {
@@ -57,4 +57,4 @@ std::string GetRegTestCheckpoints() {
     return strRegTestCheckpoints;
 }
 
-#endif //btca_ACCUMULATORCHECKPOINTS_JSON_H
+#endif //btcr_ACCUMULATORCHECKPOINTS_JSON_H

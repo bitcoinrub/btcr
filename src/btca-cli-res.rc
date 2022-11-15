@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "btca"
-            VALUE "FileDescription",    "btca-cli (OSS RPC client for btca)"
+            VALUE "CompanyName",        "btcr"
+            VALUE "FileDescription",    "btcr-cli (OSS RPC client for btcr)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "btca-cli"
+            VALUE "InternalName",       "btcr-cli"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "btca-cli.exe"
-            VALUE "ProductName",        "btca-cli"
+            VALUE "OriginalFilename",   "btcr-cli.exe"
+            VALUE "ProductName",        "btcr-cli"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

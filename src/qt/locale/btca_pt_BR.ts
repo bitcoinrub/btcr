@@ -62,12 +62,12 @@
         <translation>Endereços de recebimento</translation>
     </message>
     <message>
-        <source>These are your btca addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Esses são seus endereços btca para envio de pagamentos. Sempre verifique a quantia e os endereços de recebimento antes de enviar moedas.</translation>
+        <source>These are your btcr addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Esses são seus endereços btcr para envio de pagamentos. Sempre verifique a quantia e os endereços de recebimento antes de enviar moedas.</translation>
     </message>
     <message>
-        <source>These are your btca addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Esses são seus endereços btca para recebimento de pagamentos. É recomendado usar um novo endereço para cada transação.</translation>
+        <source>These are your btcr addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Esses são seus endereços btcr para recebimento de pagamentos. É recomendado usar um novo endereço para cada transação.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Confirmar criptografia de carteira</translation>
     </message>
     <message>
-        <source>btca will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcas from being stolen by malware infecting your computer.</source>
-        <translation>btca vai fechar agora para finalizar o processo de criptografia. Lembre-se que encriptar sua carteira não pode proteger totalmente suas btcas de serem roubadas por malwares infectando seu computador.</translation>
+        <source>btcr will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcrs from being stolen by malware infecting your computer.</source>
+        <translation>btcr vai fechar agora para finalizar o processo de criptografia. Lembre-se que encriptar sua carteira não pode proteger totalmente suas btcrs de serem roubadas por malwares infectando seu computador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Você tem certeza que deseja criptografar sua carteira?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btca&lt;/b&gt;!</source>
-        <translation>Aviso: se você criptografar sua carteira e perder sua senha você &lt;b&gt;PERDERÁ TODAS AS SUAS btca&lt;b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btcr&lt;/b&gt;!</source>
+        <translation>Aviso: se você criptografar sua carteira e perder sua senha você &lt;b&gt;PERDERÁ TODAS AS SUAS btcr&lt;b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,7 +254,7 @@
         <translation>Endereço:</translation>
     </message>
     <message>
-        <source>Enter a btca Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <source>Enter a btcr Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
         <translation>Insira um endereço que você deseja criptografar usando a BIP 38. Insira a palavra-chave na caixa do meio. Pressione criptografar para computar a chave privada criptografada.</translation>
     </message>
     <message>
@@ -409,8 +409,8 @@
         <translation>Olhar histórico de transação</translation>
     </message>
     <message>
-        <source>Privacy Actions for zbtca</source>
-        <translation>Ações privadas para zbtca</translation>
+        <source>Privacy Actions for zbtcr</source>
+        <translation>Ações privadas para zbtcr</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -613,16 +613,16 @@
         <translation>Ferramentas de abas</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
-        <source>Send coins to a btca address</source>
-        <translation>Enviar moedas para um endereço btca</translation>
+        <source>Send coins to a btcr address</source>
+        <translation>Enviar moedas para um endereço btcr</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and btca: URIs)</source>
-        <translation>Requisitar pagamentos (gera códigos QR e btca: URIs)</translation>
+        <source>Request payments (generates QR codes and btcr: URIs)</source>
+        <translation>Requisitar pagamentos (gera códigos QR e btcr: URIs)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -637,24 +637,24 @@
         <translation>Procurar masternodes</translation>
     </message>
     <message>
-        <source>&amp;About btca Core</source>
-        <translation>&amp;Sobre o btca Core</translation>
+        <source>&amp;About btcr Core</source>
+        <translation>&amp;Sobre o btcr Core</translation>
     </message>
     <message>
-        <source>Show information about btca Core</source>
-        <translation>Mostra informação sobre o btca Core</translation>
+        <source>Show information about btcr Core</source>
+        <translation>Mostra informação sobre o btcr Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for btca</source>
-        <translation>Modificar opções de configuração para btca</translation>
+        <source>Modify configuration options for btcr</source>
+        <translation>Modificar opções de configuração para btcr</translation>
     </message>
     <message>
-        <source>Sign messages with your btca addresses to prove you own them</source>
-        <translation>Assine mensagens com seus endereços btca para provar que você os detém</translation>
+        <source>Sign messages with your btcr addresses to prove you own them</source>
+        <translation>Assine mensagens com seus endereços btcr para provar que você os detém</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified btca addresses</source>
-        <translation>Verifique as mensagens para ter certeza que estão assinadas com os endereços btca especificados</translation>
+        <source>Verify messages to ensure they were signed with specified btcr addresses</source>
+        <translation>Verifique as mensagens para ter certeza que estão assinadas com os endereços btcr especificados</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -685,8 +685,8 @@
         <translation>Abrir arquivo de configuração de Masternode</translation>
     </message>
     <message>
-        <source>Open a btca: URI or payment request</source>
-        <translation>Abrir um btca: URI ou requisição de pagamento</translation>
+        <source>Open a btcr: URI or payment request</source>
+        <translation>Abrir um btcr: URI ou requisição de pagamento</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -697,12 +697,12 @@
         <translation>Janela de exploração de blocos</translation>
     </message>
     <message>
-        <source>Show the btca Core help message to get a list with possible btca command-line options</source>
-        <translation>Mostra a ajuda da btca Core para receber uma lista com possíveis opções de linha de comando btca</translation>
+        <source>Show the btcr Core help message to get a list with possible btcr command-line options</source>
+        <translation>Mostra a ajuda da btcr Core para receber uma lista com possíveis opções de linha de comando btcr</translation>
     </message>
     <message>
-        <source>btca Core client</source>
-        <translation>Cliente Core btca</translation>
+        <source>btcr Core client</source>
+        <translation>Cliente Core btcr</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -837,8 +837,8 @@ MultiSend: %1</translation>
         <translation>Rótulo</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btca.conf).</source>
-        <translation>Nem todas as transações serão exibidas. Para visualizar todas as transações você precisa definir txindex=1 no arquivo de configuração (btca.conf). </translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btcr.conf).</source>
+        <translation>Nem todas as transações serão exibidas. Para visualizar todas as transações você precisa definir txindex=1 no arquivo de configuração (btcr.conf). </translation>
     </message>
 </context>
 <context>
@@ -1118,8 +1118,8 @@ MultiSend: %1</translation>
         <translation>Editar endereço remetente</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid btca address.</source>
-        <translation>O endereço que você selecionou, "%1" , não é um endereço válido de btca</translation>
+        <source>The entered address "%1" is not a valid btcr address.</source>
+        <translation>O endereço que você selecionou, "%1" , não é um endereço válido de btcr</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1164,16 +1164,16 @@ MultiSend: %1</translation>
         <translation>versão</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About btca Core</source>
-        <translation>Sobre o btca Core</translation>
+        <source>About btcr Core</source>
+        <translation>Sobre o btcr Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1215,16 +1215,16 @@ MultiSend: %1</translation>
         <translation>Bem-vindo</translation>
     </message>
     <message>
-        <source>Welcome to btca Core.</source>
-        <translation>Bem-vindo ao btca Core.</translation>
+        <source>Welcome to btcr Core.</source>
+        <translation>Bem-vindo ao btcr Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where btca Core will store its data.</source>
-        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde btca Core vai armazenar os seus dados.</translation>
+        <source>As this is the first time the program is launched, you can choose where btcr Core will store its data.</source>
+        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde btcr Core vai armazenar os seus dados.</translation>
     </message>
     <message>
-        <source>btca Core will download and store a copy of the btca block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>btca Core vai baixar e armazenar uma cópia da blockchain btca. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
+        <source>btcr Core will download and store a copy of the btcr block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>btcr Core vai baixar e armazenar uma cópia da blockchain btcr. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1235,8 +1235,8 @@ MultiSend: %1</translation>
         <translation>Usar um diretório personalizado de dados:</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1574,48 +1574,48 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Favor selecionar o nível de privacidade.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Use 2 masternodes separados para embaralhar fundos até 10000 btca</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Use 2 masternodes separados para embaralhar fundos até 10000 btcr</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Use 8 masternodes separados para embaralhar fundos até 10000 btca</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Use 8 masternodes separados para embaralhar fundos até 10000 btcr</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Use 16 masternodes separados</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 btca to anonymize 10000 btca</source>
-        <translation>Está opção é a mais rápida e vai custar em torno de ~0.025 btca para anonimizar 10000 btca</translation>
+        <source>This option is the quickest and will cost about ~0.025 btcr to anonymize 10000 btcr</source>
+        <translation>Está opção é a mais rápida e vai custar em torno de ~0.025 btcr para anonimizar 10000 btcr</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 btca to anonymize 10000 btca</source>
-        <translation>Está opção moderamente rápida e vai custar em torno de ~0.05 btca para anonimizar 10000 btca</translation>
+        <source>This option is moderately fast and will cost about 0.05 btcr to anonymize 10000 btcr</source>
+        <translation>Está opção moderamente rápida e vai custar em torno de ~0.05 btcr para anonimizar 10000 btcr</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Esta é a opção mais lenta e mais segura. Usando a anonimização máxima vai custar</translation>
     </message>
     <message>
-        <source>0.1 btca per 10000 btca you anonymize.</source>
-        <translation>0.1 btca por 10000 btca que deixar anônima.</translation>
+        <source>0.1 btcr per 10000 btcr you anonymize.</source>
+        <translation>0.1 btcr por 10000 btcr que deixar anônima.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Configuração de ofuscação</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Ofuscação foi definida com sucesso para o básico (%1 e 2 rodadas) Você pode mudar isto a qualquer tempo ao abrir a configuração de tela btca's.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Ofuscação foi definida com sucesso para o básico (%1 e 2 rodadas) Você pode mudar isto a qualquer tempo ao abrir a configuração de tela btcr's.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Ofuscação foi definida com sucesso para alto (%1 e 8 rodadas). Você pode mudar isto a qualquer tempo ao abrir a configuração de tela btca's.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Ofuscação foi definida com sucesso para alto (%1 e 8 rodadas). Você pode mudar isto a qualquer tempo ao abrir a configuração de tela btcr's.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Ofuscação foi definida com sucesso para máxima (%1 e 16 rodadas). Você pode mudar isto a qualquer tempo ao abrir a configuração de tela btca's.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Ofuscação foi definida com sucesso para máxima (%1 e 16 rodadas). Você pode mudar isto a qualquer tempo ao abrir a configuração de tela btcr's.</translation>
     </message>
 </context>
 <context>
@@ -1668,8 +1668,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>C&amp;arteira</translation>
     </message>
     <message>
-        <source>Automatically open the btca client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automaticamente a porta do cliente btca no roteador. Isto somente funciona quando seu roteador suporta UPnP e este esteja habilitado.</translation>
+        <source>Automatically open the btcr client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automaticamente a porta do cliente btcr no roteador. Isto somente funciona quando seu roteador suporta UPnP e este esteja habilitado.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1688,12 +1688,12 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start btca after logging in to the system.</source>
-        <translation>Iniciar automaticamente btca depois de logar no sistema.</translation>
+        <source>Automatically start btcr after logging in to the system.</source>
+        <translation>Iniciar automaticamente btcr depois de logar no sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start btca on system login</source>
-        <translation>&amp;Iniciar btca ao logar no sistema</translation>
+        <source>&amp;Start btcr on system login</source>
+        <translation>&amp;Iniciar btcr ao logar no sistema</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -1708,18 +1708,18 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>&amp;Rede</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting btca.</source>
-        <translation>A linguagem da interface pode ser definida aqui. Está configuração terá efeito após reinício do btca.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting btcr.</source>
+        <translation>A linguagem da interface pode ser definida aqui. Está configuração terá efeito após reinício do btcr.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/btca/btca-translations</source>
+https://www.transifex.com/btcr/btcr-translations</source>
         <translation>Linguagem não encontrada ou tradução incompleta? Ajude contribuido com traduções aqui:
-https://www.transifex.com/btca/btca-translations</translation>
+https://www.transifex.com/btcr/btcr-translations</translation>
     </message>
     <message>
-        <source>Connect to the btca network through a SOCKS5 proxy.</source>
-        <translation>Conectar à rede btca através de um proxy SOCKS5</translation>
+        <source>Connect to the btcr network through a SOCKS5 proxy.</source>
+        <translation>Conectar à rede btcr através de um proxy SOCKS5</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1853,8 +1853,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Imaturo:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede btca após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede btcr após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1950,20 +1950,20 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Ações Zerocoin:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede btca após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede btcr após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
     </message>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
-        <source>0.000 000 00 btca</source>
-        <translation>0.000 000 00 btca</translation>
+        <source>0.000 000 00 btcr</source>
+        <translation>0.000 000 00 btcr</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1998,8 +1998,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Pagar &amp;Para:</translation>
     </message>
     <message>
-        <source>The btca address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>O endereço btca para enviar o pagamento. Cria um pagamento local para si mesmo quando vazio.</translation>
+        <source>The btcr address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>O endereço btcr para enviar o pagamento. Cria um pagamento local para si mesmo quando vazio.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2038,8 +2038,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Estatísticas zerocoin:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zbtca</source>
-        <translation>Balanço Total incluindo não confirmadas e imaturas zbtca</translation>
+        <source>Total Balance including unconfirmed and immature zbtcr</source>
+        <translation>Balanço Total incluindo não confirmadas e imaturas zbtcr</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2173,8 +2173,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Quantidade</translation>
     </message>
     <message>
-        <source>Enter a btca address (e.g. %1)</source>
-        <translation>Insira um endereço btca (e.g. %1)</translation>
+        <source>Enter a btcr address (e.g. %1)</source>
+        <translation>Insira um endereço btcr (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2431,8 +2431,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>saída:</translation>
     </message>
     <message>
-        <source>Welcome to the btca RPC console.</source>
-        <translation>Bem-vindo ao console da btca RPC</translation>
+        <source>Welcome to the btcr RPC console.</source>
+        <translation>Bem-vindo ao console da btcr RPC</translation>
     </message>
     <message>
         <source>Do you want to continue?.&lt;br /&gt;</source>
@@ -2687,8 +2687,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Tamanho UTXO:</translation>
     </message>
     <message>
-        <source>0 btca</source>
-        <translation>0 btca</translation>
+        <source>0 btcr</source>
+        <translation>0 btcr</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2731,12 +2731,12 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Tempo de confirmação:</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 ubtcas and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcas in fee,&lt;br /&gt;while "at least" pays 1000 ubtcas. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Se a taxa padrão estiver definida para 1000 ubtcas e a transação for somente de 250 bytes, então "por kilobyte" pagará somente 250 ubtcas em taxa,&lt;br /&gt; pagará pelo menos 1000 ubtcas. Para transações maiores que um kilobyte ambas pagam por kilobyte.</translation>
+        <source>If the custom fee is set to 1000 ubtcrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcrs in fee,&lt;br /&gt;while "at least" pays 1000 ubtcrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Se a taxa padrão estiver definida para 1000 ubtcrs e a transação for somente de 250 bytes, então "por kilobyte" pagará somente 250 ubtcrs em taxa,&lt;br /&gt; pagará pelo menos 1000 ubtcrs. Para transações maiores que um kilobyte ambas pagam por kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for btca transactions than the network can process.</source>
-        <translation>Pagar a taxa mínima é aceitável desde que existe menos volume de transações que espaço nos blocos. &lt;br/&gt; Mas fique atento que isso pode acabar em uma transação que nunca será confirmada caso haja mais demanda por transações de btca do que a rede pode processar.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for btcr transactions than the network can process.</source>
+        <translation>Pagar a taxa mínima é aceitável desde que existe menos volume de transações que espaço nos blocos. &lt;br/&gt; Mas fique atento que isso pode acabar em uma transação que nunca será confirmada caso haja mais demanda por transações de btcr do que a rede pode processar.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -2783,8 +2783,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Adicionar &amp;Recipiente</translation>
     </message>
     <message>
-        <source>Anonymized btca</source>
-        <translation>btca anonimizadas</translation>
+        <source>Anonymized btcr</source>
+        <translation>btcr anonimizadas</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -2819,8 +2819,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Copiar troco</translation>
     </message>
     <message>
-        <source>Warning: Invalid btca address</source>
-        <translation>Aviso: endereço btca inválido</translation>
+        <source>Warning: Invalid btcr address</source>
+        <translation>Aviso: endereço btcr inválido</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -2906,8 +2906,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Pagar &amp;Para:</translation>
     </message>
     <message>
-        <source>The btca address to send the payment to</source>
-        <translation>O endereço btca para enviar o pagamento</translation>
+        <source>The btcr address to send the payment to</source>
+        <translation>O endereço btcr para enviar o pagamento</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2969,8 +2969,8 @@ https://www.transifex.com/btca/btca-translations</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>btca Core is shutting down...</source>
-        <translation>btca Core está desligando...</translation>
+        <source>btcr Core is shutting down...</source>
+        <translation>btcr Core está desligando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2988,8 +2988,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>&amp;Assinar mensagem</translation>
     </message>
     <message>
-        <source>The btca address to sign the message with</source>
-        <translation>O endereço btca para assinar a mensagem</translation>
+        <source>The btcr address to sign the message with</source>
+        <translation>O endereço btcr para assinar a mensagem</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3020,16 +3020,16 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Copia a assinatura atual do sistema de transferência</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this btca address</source>
-        <translation>Assine a mensagem para provar que você possui este endereço btca</translation>
+        <source>Sign the message to prove you own this btcr address</source>
+        <translation>Assine a mensagem para provar que você possui este endereço btcr</translation>
     </message>
     <message>
-        <source>The btca address the message was signed with</source>
-        <translation>O endereço btca que assinou a mensagem</translation>
+        <source>The btcr address the message was signed with</source>
+        <translation>O endereço btcr que assinou a mensagem</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified btca address</source>
-        <translation>Verifique a mensagem para ter certeza que foi assinada com o endereço btca especificado.</translation>
+        <source>Verify the message to ensure it was signed with the specified btcr address</source>
+        <translation>Verifique a mensagem para ter certeza que foi assinada com o endereço btcr especificado.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3111,8 +3111,8 @@ https://www.transifex.com/btca/btca-translations</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3127,8 +3127,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Os desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>The btca Core developers</source>
-        <translation>Os desenvolvedores do btca Core</translation>
+        <source>The btcr Core developers</source>
+        <translation>Os desenvolvedores do btcr Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3635,7 +3635,7 @@ https://www.transifex.com/btca/btca-translations</translation>
     </message>
 </context>
 <context>
-    <name>ZbtcaControlDialog</name>
+    <name>ZbtcrControlDialog</name>
     <message>
         <source>Quantity</source>
         <translation>Quantia</translation>
@@ -3645,8 +3645,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -3654,7 +3654,7 @@ https://www.transifex.com/btca/btca-translations</translation>
     </message>
     </context>
 <context>
-    <name>btca-core</name>
+    <name>btcr-core</name>
     <message>
         <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
         <translation>Deletar todas as transações da carteira e somente recuperar aquelas partes da blockchain através de -rescan na inicialização</translation>
@@ -3672,12 +3672,12 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Executar o comando quando uma transação da carteira mudar (%s no cmd será substituído pela TxID)</translation>
     </message>
     <message>
-        <source>Fees (in btca/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Taxas (em btca/Kb) menores que isso serão consideradas taxa zero para propagação (padrão: %s)</translation>
+        <source>Fees (in btcr/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Taxas (em btcr/Kb) menores que isso serão consideradas taxa zero para propagação (padrão: %s)</translation>
     </message>
     <message>
-        <source>Fees (in btca/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Taxas (em btca/Kb) menores que isso serão consideradas taxa zero para a criação da transação (padrão: %s)</translation>
+        <source>Fees (in btcr/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Taxas (em btcr/Kb) menores que isso serão consideradas taxa zero para a criação da transação (padrão: %s)</translation>
     </message>
     <message>
         <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>
@@ -3696,8 +3696,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Define o tamanho máximo de transações de alta prioridade/taxa baixa em bytes (padrão: %d)</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 btca.</source>
-        <translation>Incapaz de localizar fundos para esta transação que não são iguais a 10000 btca.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 btcr.</source>
+        <translation>Incapaz de localizar fundos para esta transação que não são iguais a 10000 btcr.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -3712,8 +3712,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Aviso: -paytxfee está definido como muito alto! Está e a taxa de transação que você irá pagar se enviar uma transação.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong btca Core will not work properly.</source>
-        <translation>Aviso: Favor verificar se o horário e data de seu computador estão corretos! Se o seu relógio estiver errado o Core btca não vai funcionar corretamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong btcr Core will not work properly.</source>
+        <translation>Aviso: Favor verificar se o horário e data de seu computador estão corretos! Se o seu relógio estiver errado o Core btcr não vai funcionar corretamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -3792,8 +3792,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Todos os direitos reservados (C) 2014-%i aos Desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) %i The btca Core Developers</source>
-        <translation>Todos os direitos reservados (C) %i aos Desenvolvedores do btca Core</translation>
+        <source>Copyright (C) %i The btcr Core Developers</source>
+        <translation>Todos os direitos reservados (C) %i aos Desenvolvedores do btcr Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3852,8 +3852,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Erro no carregamento da wallet.dat: Carteira corrompida</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of btca Core</source>
-        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da btca Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of btcr Core</source>
+        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da btcr Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -3896,8 +3896,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Falhou em ler o bloco</translation>
     </message>
     <message>
-        <source>Fee (in btca/kB) to add to transactions you send (default: %s)</source>
-        <translation>Taxa (em btca/kB) a adicionar em transações que você enviar (padrão: %s)</translation>
+        <source>Fee (in btcr/kB) to add to transactions you send (default: %s)</source>
+        <translation>Taxa (em btcr/kB) a adicionar em transações que você enviar (padrão: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -4342,8 +4342,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Carteira está travada.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart btca Core to complete</source>
-        <translation>A carteira precisa ser reescrita: reinicia o btca Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart btcr Core to complete</source>
+        <translation>A carteira precisa ser reescrita: reinicia o btcr Core para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

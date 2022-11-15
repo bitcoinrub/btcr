@@ -62,12 +62,12 @@
         <translation>Gavimo adresai</translation>
     </message>
     <message>
-        <source>These are your btca addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tai jūsų btca adresai mokėjimų išsiuntimams. Visada patikrinkite sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
+        <source>These are your btcr addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tai jūsų btcr adresai mokėjimų išsiuntimams. Visada patikrinkite sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
     </message>
     <message>
-        <source>These are your btca addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tai jūsų btca adresai mokėjimų gavimams. Rekomenduojama naudoti naują adresą kiekvienam pavedimui.</translation>
+        <source>These are your btcr addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tai jūsų btcr adresai mokėjimų gavimams. Rekomenduojama naudoti naują adresą kiekvienam pavedimui.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Patvirtinkite piniginės užšifravimą.</translation>
     </message>
     <message>
-        <source>btca will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcas from being stolen by malware infecting your computer.</source>
-        <translation>Dabar btca išsijungs, kad būtų užbaigtas šifravimo procesas. Atminkite, kad jūsų piniginės užšifravimas negali visiškai apsaugoti jūsų btca nuo kenkėjiškų programų, užkrėsto jūsų kompiuterio.</translation>
+        <source>btcr will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcrs from being stolen by malware infecting your computer.</source>
+        <translation>Dabar btcr išsijungs, kad būtų užbaigtas šifravimo procesas. Atminkite, kad jūsų piniginės užšifravimas negali visiškai apsaugoti jūsų btcr nuo kenkėjiškų programų, užkrėsto jūsų kompiuterio.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Ar tikrai norite užšifruoti savo piniginę?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btca&lt;/b&gt;!</source>
-        <translation>Įspėjimas: jei užšifruosite savo piniginę ir prarasite slaptafrazę, jūs &lt;b&gt;PRARASITE VISUS SAVO btca&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btcr&lt;/b&gt;!</source>
+        <translation>Įspėjimas: jei užšifruosite savo piniginę ir prarasite slaptafrazę, jūs &lt;b&gt;PRARASITE VISUS SAVO btcr&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adresas:</translation>
     </message>
     <message>
-        <source>Enter a btca Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Įveskite btca adresą, kurį norėtumėte užšifruoti naudojant BIP 38. Vidiniame laukelyje įrašykite slaptą frazę. Paspauskite užšifruoti, jei norite gauti užšifruotą privatųjį raktą.</translation>
+        <source>Enter a btcr Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Įveskite btcr adresą, kurį norėtumėte užšifruoti naudojant BIP 38. Vidiniame laukelyje įrašykite slaptą frazę. Paspauskite užšifruoti, jei norite gauti užšifruotą privatųjį raktą.</translation>
     </message>
     <message>
-        <source>The btca address to encrypt</source>
-        <translation>btca adresas, kurį norite užšifruoti</translation>
+        <source>The btcr address to encrypt</source>
+        <translation>btcr adresas, kurį norite užšifruoti</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopijuoti dabartinį parašą</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this btca address</source>
-        <translation>Užšifruoti šio btca adreso privatų raktą</translation>
+        <source>Encrypt the private key for this btcr address</source>
+        <translation>Užšifruoti šio btcr adreso privatų raktą</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>Naršyti pavedimų istoriją</translation>
     </message>
     <message>
-        <source>Privacy Actions for zbtca</source>
-        <translation>zbtca Saugumo Veiksmai </translation>
+        <source>Privacy Actions for zbtcr</source>
+        <translation>zbtcr Saugumo Veiksmai </translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -645,16 +645,16 @@
         <translation>Skirtukų įrankių juosta</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
-        <source>Send coins to a btca address</source>
-        <translation>Siųsti monetas į btca adresą</translation>
+        <source>Send coins to a btcr address</source>
+        <translation>Siųsti monetas į btcr adresą</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and btca: URIs)</source>
-        <translation>Prašyti mokėjimų (sugeneruoja QR kodus ir btca URI)</translation>
+        <source>Request payments (generates QR codes and btcr: URIs)</source>
+        <translation>Prašyti mokėjimų (sugeneruoja QR kodus ir btcr URI)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Naršyti masternod'us</translation>
     </message>
     <message>
-        <source>&amp;About btca Core</source>
-        <translation>&amp;Apie btca Core</translation>
+        <source>&amp;About btcr Core</source>
+        <translation>&amp;Apie btcr Core</translation>
     </message>
     <message>
-        <source>Show information about btca Core</source>
-        <translation>Rodyti informaciją apie btca Core</translation>
+        <source>Show information about btcr Core</source>
+        <translation>Rodyti informaciją apie btcr Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for btca</source>
-        <translation>Keisti btca konfigūravimo parinktis</translation>
+        <source>Modify configuration options for btcr</source>
+        <translation>Keisti btcr konfigūravimo parinktis</translation>
     </message>
     <message>
-        <source>Sign messages with your btca addresses to prove you own them</source>
-        <translation>Pasirašykite pranešimus naudodami savo btca adresus, kad įrodytumėte, kad juos turite</translation>
+        <source>Sign messages with your btcr addresses to prove you own them</source>
+        <translation>Pasirašykite pranešimus naudodami savo btcr adresus, kad įrodytumėte, kad juos turite</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified btca addresses</source>
-        <translation>Patvirtinkite pranešimus, kad jie būtų pasirašyti su nurodytais btca adresais</translation>
+        <source>Verify messages to ensure they were signed with specified btcr addresses</source>
+        <translation>Patvirtinkite pranešimus, kad jie būtų pasirašyti su nurodytais btcr adresais</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Atidaryti Masternod'o konfigūracijos failą</translation>
     </message>
     <message>
-        <source>Open a btca: URI or payment request</source>
-        <translation>Atidaryti btca: URI arba mokėjimo prašymą</translation>
+        <source>Open a btcr: URI or payment request</source>
+        <translation>Atidaryti btcr: URI arba mokėjimo prašymą</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Blokų naršyklės langas</translation>
     </message>
     <message>
-        <source>Show the btca Core help message to get a list with possible btca command-line options</source>
-        <translation>Rodyti btca Core žinyną, kad gautumėte sąrašą su galimomis btca komandinės eilutės parinktimis</translation>
+        <source>Show the btcr Core help message to get a list with possible btcr command-line options</source>
+        <translation>Rodyti btcr Core žinyną, kad gautumėte sąrašą su galimomis btcr komandinės eilutės parinktimis</translation>
     </message>
     <message>
-        <source>btca Core client</source>
-        <translation>btca Core piniginė</translation>
+        <source>btcr Core client</source>
+        <translation>btcr Core piniginė</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to btca network</source>
-        <translation><numerusform>%n aktyvių prisijungimų btca tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų btca tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų btca tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų btca tinkle ()</numerusform></translation>
+        <source>%n active connection(s) to btcr network</source>
+        <translation><numerusform>%n aktyvių prisijungimų btcr tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų btcr tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų btcr tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų btcr tinkle ()</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ MultiSend: %1</translation>
         <translation>Teksto etiketė</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btca.conf).</source>
-        <translation>Ne visi pavedimai bus rodomi. Norėdami peržiūrėti visus pavedimus, reikia nustatyti txindex = 1 konfigūracijos faile (btca.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btcr.conf).</source>
+        <translation>Ne visi pavedimai bus rodomi. Norėdami peržiūrėti visus pavedimus, reikia nustatyti txindex = 1 konfigūracijos faile (btcr.conf).</translation>
     </message>
 </context>
 <context>
@@ -1122,8 +1122,8 @@ MultiSend: %1</translation>
         <translation>Ši etiketė taps raudona, jei gavėjas gaus sumą mažesnę už %1</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 ubtca per input.</source>
-        <translation>Gali skirtis +/- %1 ubtca kiekvienoje įvestyje.</translation>
+        <source>Can vary +/- %1 ubtcr per input.</source>
+        <translation>Gali skirtis +/- %1 ubtcr kiekvienoje įvestyje.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1177,8 +1177,8 @@ MultiSend: %1</translation>
         <translation>Keisti siuntimo adresą</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid btca address.</source>
-        <translation>Įvestas adresas "%1" nėra galiojantis btca adresas.</translation>
+        <source>The entered address "%1" is not a valid btcr address.</source>
+        <translation>Įvestas adresas "%1" nėra galiojantis btcr adresas.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1223,16 +1223,16 @@ MultiSend: %1</translation>
         <translation>versija</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bitai)</translation>
     </message>
     <message>
-        <source>About btca Core</source>
-        <translation>Apie btca Core</translation>
+        <source>About btcr Core</source>
+        <translation>Apie btcr Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1278,16 +1278,16 @@ MultiSend: %1</translation>
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to btca Core.</source>
-        <translation>Sveiki atvykę į btca Core</translation>
+        <source>Welcome to btcr Core.</source>
+        <translation>Sveiki atvykę į btcr Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where btca Core will store its data.</source>
-        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur btca Core saugos savo duomenis.</translation>
+        <source>As this is the first time the program is launched, you can choose where btcr Core will store its data.</source>
+        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur btcr Core saugos savo duomenis.</translation>
     </message>
     <message>
-        <source>btca Core will download and store a copy of the btca block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>btca Core atsisiųs ir saugos btca blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
+        <source>btcr Core will download and store a copy of the btcr block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>btcr Core atsisiųs ir saugos btcr blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1298,8 +1298,8 @@ MultiSend: %1</translation>
         <translation>Naudoti pasirinktą duomenų katalogą:</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1440,12 +1440,12 @@ MultiSend: %1</translation>
         <translation>Įveskite adresą kuriam norite siųsti</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btca addresses after it matures.
-To Add: enter percentage to give and btca address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btcr addresses after it matures.
+To Add: enter percentage to give and btcr address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend leidžia automatiškai išsiųsti iki 100% jūsų stake'inimo ar masternod'ų atlygio į kitus btca adresus.
-Norėdami pridėti: įveskite pateiktą procentą ir btca adresą, kurį norite pridėti prie MultiSend sąrašo.
+        <translation>MultiSend leidžia automatiškai išsiųsti iki 100% jūsų stake'inimo ar masternod'ų atlygio į kitus btcr adresus.
+Norėdami pridėti: įveskite pateiktą procentą ir btcr adresą, kurį norite pridėti prie MultiSend sąrašo.
 Norėdami ištrinti: įveskite adresą, kurį norite ištrinti, ir paspauskite ištrinti
 MultiSend nebus aktyvuotas, nebent paspausite "Įjungti"</translation>
     </message>
@@ -1651,8 +1651,8 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Adresas / Suma:</translation>
     </message>
     <message>
-        <source>Add destinations to send btca to</source>
-        <translation>Pridėkite vietas, kurioms norite siųsti btca</translation>
+        <source>Add destinations to send btcr to</source>
+        <translation>Pridėkite vietas, kurioms norite siųsti btcr</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1750,48 +1750,48 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Pasirinkite privatumo lygmenį.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Naudokite 2 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 btca</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Naudokite 2 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 btcr</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Naudokite 8 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 btca</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Naudokite 8 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 btcr</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Naudokite 16 atskirų masternod'ų</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 btca to anonymize 10000 btca</source>
-        <translation>Ši parinktis yra greičiausia ir kainuos apie ~0.025 btca, kad anonimizuotų 10000 btca</translation>
+        <source>This option is the quickest and will cost about ~0.025 btcr to anonymize 10000 btcr</source>
+        <translation>Ši parinktis yra greičiausia ir kainuos apie ~0.025 btcr, kad anonimizuotų 10000 btcr</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 btca to anonymize 10000 btca</source>
-        <translation>Ši parinktis yra vidutiniškai greita ir kainuoja apie 0,05 btca, kad anonimizuotų 10000 btca</translation>
+        <source>This option is moderately fast and will cost about 0.05 btcr to anonymize 10000 btcr</source>
+        <translation>Ši parinktis yra vidutiniškai greita ir kainuoja apie 0,05 btcr, kad anonimizuotų 10000 btcr</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Tai yra lėčiausias ir saugiausias variantas. Maksimalus anonimiškumas kainuos.</translation>
     </message>
     <message>
-        <source>0.1 btca per 10000 btca you anonymize.</source>
-        <translation>0.1 btca kas 1000 btca kuriuos anonimizuosite.</translation>
+        <source>0.1 btcr per 10000 btcr you anonymize.</source>
+        <translation>0.1 btcr kas 1000 btcr kuriuos anonimizuosite.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Obfuscation Konfigūracija</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Obfuscation buvo sėkmingai nustatytas į paprastą (%1 ir 2 raundai). Bet kada galite tai pakeisti, atidarę btca konfigūracijos ekraną.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Obfuscation buvo sėkmingai nustatytas į paprastą (%1 ir 2 raundai). Bet kada galite tai pakeisti, atidarę btcr konfigūracijos ekraną.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Obfuscation buvo sėkmingai nustatytas į aukštą (%1 ir 8 raundai). Bet kada galite tai pakeisti, atidarę btca konfigūracijos ekraną.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Obfuscation buvo sėkmingai nustatytas į aukštą (%1 ir 8 raundai). Bet kada galite tai pakeisti, atidarę btcr konfigūracijos ekraną.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Obfuscation buvo sėkmingai nustatytas į maksimumą (%1 ir 16 raundai). Bet kada galite tai pakeisti, atidarę btca konfigūracijos ekraną.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Obfuscation buvo sėkmingai nustatytas į maksimumą (%1 ir 16 raundai). Bet kada galite tai pakeisti, atidarę btcr konfigūracijos ekraną.</translation>
     </message>
 </context>
 <context>
@@ -1844,12 +1844,12 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Ekspertas</translation>
     </message>
     <message>
-        <source>Automatically start btca after logging in to the system.</source>
-        <translation>Automatiškai paleisti btca prisijungus prie sistemos.</translation>
+        <source>Automatically start btcr after logging in to the system.</source>
+        <translation>Automatiškai paleisti btcr prisijungus prie sistemos.</translation>
     </message>
     <message>
-        <source>&amp;Start btca on system login</source>
-        <translation>&amp;Paleisti btca sistemai įsijungiant</translation>
+        <source>&amp;Start btcr on system login</source>
+        <translation>&amp;Paleisti btcr sistemai įsijungiant</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1876,42 +1876,42 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>&amp;Tinklas</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting btca.</source>
-        <translation>Čia galite nustatyti vartotojo sąsajos kalbą. Šis nustatymas įsigalios iš naujo paleidus "btca".</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting btcr.</source>
+        <translation>Čia galite nustatyti vartotojo sąsajos kalbą. Šis nustatymas įsigalios iš naujo paleidus "btcr".</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/btca/btca-translations</source>
+https://www.transifex.com/btcr/btcr-translations</source>
         <translation>Trūksta kalbos arba vertimas nebaigtas? Padėkite prisidėdami prie vertimų čia: 
-https://www.transifex.com/btca/btca-translations</translation>
+https://www.transifex.com/btcr/btcr-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Įrašyti prievadą naudojant &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of btca units to zbtca</source>
-        <translation>Įgalinti automatinį konvertavimą iš btca į zbtca</translation>
+        <source>Enable automatic minting of btcr units to zbtcr</source>
+        <translation>Įgalinti automatinį konvertavimą iš btcr į zbtcr</translation>
     </message>
     <message>
-        <source>Enable zbtca Automint</source>
-        <translation>Įgalinti zbtca Automatinį nukaldinima</translation>
+        <source>Enable zbtcr Automint</source>
+        <translation>Įgalinti zbtcr Automatinį nukaldinima</translation>
     </message>
     <message>
-        <source>Percentage of incoming btca which get automatically converted to zbtca via Zerocoin Protocol (min: 10%)</source>
-        <translation>Procentas gauto btca, kuris automatiškai bus konvertuotas į zbtca naudojant Zerocoin Protokolą (min: 10%)</translation>
+        <source>Percentage of incoming btcr which get automatically converted to zbtcr via Zerocoin Protocol (min: 10%)</source>
+        <translation>Procentas gauto btcr, kuris automatiškai bus konvertuotas į zbtcr naudojant Zerocoin Protokolą (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zbtca</source>
-        <translation>Automatiškai sukurtų zbtca procentas</translation>
+        <source>Percentage of autominted zbtcr</source>
+        <translation>Automatiškai sukurtų zbtcr procentas</translation>
     </message>
     <message>
-        <source>Preferred Automint zbtca Denomination</source>
-        <translation>Pageidautinas zbtca Automatinio Nukaldinimo Nominalas</translation>
+        <source>Preferred Automint zbtcr Denomination</source>
+        <translation>Pageidautinas zbtcr Automatinio Nukaldinimo Nominalas</translation>
     </message>
     <message>
-        <source>Connect to the btca network through a SOCKS5 proxy.</source>
-        <translation>Jungtis prie btca tinklo naudojant SOCKS5 tarpinį serverį.</translation>
+        <source>Connect to the btcr network through a SOCKS5 proxy.</source>
+        <translation>Jungtis prie btcr tinklo naudojant SOCKS5 tarpinį serverį.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2029,8 +2029,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Bendras balansas, įskaitant visas nepasiekiamas monetas.</translation>
     </message>
     <message>
-        <source>btca Balance</source>
-        <translation>btca Balansas</translation>
+        <source>btcr Balance</source>
+        <translation>btcr Balansas</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2053,18 +2053,18 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Dabartinis bendras užrakintas balansas tik žiūrėjimo adresuose</translation>
     </message>
     <message>
-        <source>Your current btca balance, unconfirmed and immature transactions included</source>
-        <translation>Jūsų dabartinis btca balansas, įskaitant nepatvirtintus ir nesubrendusius sandorius</translation>
+        <source>Your current btcr balance, unconfirmed and immature transactions included</source>
+        <translation>Jūsų dabartinis btcr balansas, įskaitant nepatvirtintus ir nesubrendusius sandorius</translation>
     </message>
     <message>
-        <source>zbtca Balance</source>
-        <translation>zbtca Balansas</translation>
+        <source>zbtcr Balance</source>
+        <translation>zbtcr Balansas</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zbtca are spendable.</source>
+These zbtcr are spendable.</source>
         <translation>Subrendę: daugiau nei 20 patvirtinimų ir daugiau nei 1 konvertacija to pačio nominalo, kai jis jau buvo konvertuotas.
-Šiuos zbtca galima išleisti.</translation>
+Šiuos zbtcr galima išleisti.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2073,8 +2073,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo po to, kai buvo konvertuotas.</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su btca tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su btcr tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2117,8 +2117,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Prienamas išleidimui:</translation>
     </message>
     <message>
-        <source>Locked btca or Masternode collaterals. These are excluded from zbtca minting.</source>
-        <translation>Užrakinti btca arba Masternode užstatai. Jie yra neįtraukti į zbtca kalimą.</translation>
+        <source>Locked btcr or Masternode collaterals. These are excluded from zbtcr minting.</source>
+        <translation>Užrakinti btcr arba Masternode užstatai. Jie yra neįtraukti į zbtcr kalimą.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2141,8 +2141,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>AutoMint šiuo metu įgalintas ir nustatytas</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in btca.conf.</source>
-        <translation>Norėdami išjungti Automatinį Kalimą pridėkite 'enablezeromint=0' btca.conf faile.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in btcr.conf.</source>
+        <translation>Norėdami išjungti Automatinį Kalimą pridėkite 'enablezeromint=0' btcr.conf faile.</translation>
     </message>
     </context>
 <context>
@@ -2156,8 +2156,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Netinkamas mokėjimo adresas %1</translation>
     </message>
     <message>
-        <source>Cannot start btca: click-to-pay handler</source>
-        <translation>Nepavyksta paleisti btca: apdorojimo "spustelėjimo ir apmokėjimo" funkcijos klaida</translation>
+        <source>Cannot start btcr: click-to-pay handler</source>
+        <translation>Nepavyksta paleisti btcr: apdorojimo "spustelėjimo ir apmokėjimo" funkcijos klaida</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2210,8 +2210,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Zerocoin Veiksmai:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su btca tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su btcr tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2222,8 +2222,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2234,8 +2234,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Prieinama Konvertavimui:</translation>
     </message>
     <message>
-        <source>0.000 000 00 btca</source>
-        <translation>0.000 000 00 btca</translation>
+        <source>0.000 000 00 btcr</source>
+        <translation>0.000 000 00 btcr</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -2266,12 +2266,12 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>PRIVATUMAS</translation>
     </message>
     <message>
-        <source>zbtca Control</source>
-        <translation>zbtca Kontrolė</translation>
+        <source>zbtcr Control</source>
+        <translation>zbtcr Kontrolė</translation>
     </message>
     <message>
-        <source>zbtca Selected:</source>
-        <translation>Pasirinkta zbtca:</translation>
+        <source>zbtcr Selected:</source>
+        <translation>Pasirinkta zbtcr:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2290,8 +2290,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Prieinamas Balansas: </translation>
     </message>
     <message>
-        <source>0 zbtca</source>
-        <translation>0 zbtca</translation>
+        <source>0 zbtcr</source>
+        <translation>0 zbtcr</translation>
     </message>
     <message>
         <source>Security Level:</source>
@@ -2338,8 +2338,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Zerocoin Statistika:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zbtca</source>
-        <translation>Bendras balansas, įskaitant nepatvirtintą ir nesubrendusį zbtca</translation>
+        <source>Total Balance including unconfirmed and immature zbtcr</source>
+        <translation>Bendras balansas, įskaitant nepatvirtintą ir nesubrendusį zbtcr</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2516,12 +2516,12 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Kopijuoti sumą</translation>
     </message>
     <message>
-        <source>zbtca Spend #: </source>
-        <translation>zbtca Išleidimas #:</translation>
+        <source>zbtcr Spend #: </source>
+        <translation>zbtcr Išleidimas #:</translation>
     </message>
     <message>
-        <source>zbtca Mint</source>
-        <translation>zbtca Konvertavimas</translation>
+        <source>zbtcr Mint</source>
+        <translation>zbtcr Konvertavimas</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2604,8 +2604,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Klaida: jūsų piniginė užrakinta. Pirmiausia įveskite piniginės slaptažodį.</translation>
     </message>
     <message>
-        <source>Invalid btca Address</source>
-        <translation>Netinkamas btca Adresas</translation>
+        <source>Invalid btcr Address</source>
+        <translation>Netinkamas btcr Adresas</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2628,8 +2628,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>su Saugumo Lygmeniu</translation>
     </message>
     <message>
-        <source>Failed to spend zbtca</source>
-        <translation>Nepavyko išleisti zbtca</translation>
+        <source>Failed to spend zbtcr</source>
+        <translation>Nepavyko išleisti zbtcr</translation>
     </message>
     <message>
         <source>serial: </source>
@@ -2651,8 +2651,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Enter a btca address (e.g. %1)</source>
-        <translation>Įveskite btca adresą (pvz. %1)</translation>
+        <source>Enter a btcr address (e.g. %1)</source>
+        <translation>Įveskite btcr adresą (pvz. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2829,8 +2829,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Iš:</translation>
     </message>
     <message>
-        <source>Welcome to the btca RPC console.</source>
-        <translation>Sveiki atvykę į btca RPC konsolę.</translation>
+        <source>Welcome to the btcr RPC console.</source>
+        <translation>Sveiki atvykę į btcr RPC konsolę.</translation>
     </message>
     <message>
         <source>never</source>
@@ -3001,8 +3001,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Pasirinktinio pakeitimo adresas</translation>
     </message>
     <message>
-        <source>0 btca</source>
-        <translation>0 btca</translation>
+        <source>0 btcr</source>
+        <translation>0 btcr</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3158,8 +3158,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The btca address to sign the message with</source>
-        <translation>btca adresas, kuriuo pasirašyti žinute</translation>
+        <source>The btcr address to sign the message with</source>
+        <translation>btcr adresas, kuriuo pasirašyti žinute</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3182,16 +3182,16 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Kopijuoti dabartinį parašą</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this btca address</source>
-        <translation>Pažymėkite žinutę, kad įrodytumėte, jog jūs šio btca adreso savininkas</translation>
+        <source>Sign the message to prove you own this btcr address</source>
+        <translation>Pažymėkite žinutę, kad įrodytumėte, jog jūs šio btcr adreso savininkas</translation>
     </message>
     <message>
-        <source>The btca address the message was signed with</source>
-        <translation>btca adresas, kurio buvo pasirašyta žinutė</translation>
+        <source>The btcr address the message was signed with</source>
+        <translation>btcr adresas, kurio buvo pasirašyta žinutė</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified btca address</source>
-        <translation>Patikrinkite pranešimą, kad jis būtų pasirašytas su nurodytu btca adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified btcr address</source>
+        <translation>Patikrinkite pranešimą, kad jis būtų pasirašytas su nurodytu btcr adresu</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -3229,8 +3229,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     </context>
 <context>
@@ -3449,18 +3449,18 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
     </message>
     </context>
 <context>
-    <name>ZbtcaControlDialog</name>
+    <name>ZbtcrControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     </context>
 <context>
-    <name>btca-core</name>
+    <name>btcr-core</name>
     <message>
         <source>(default: %s)</source>
         <translation>(numatytas: %s)</translation>
@@ -3494,8 +3494,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Klaida kraunant wallet.dat: Piniginė yra sugadinta</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of btca Core</source>
-        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės btca Core versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of btcr Core</source>
+        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės btcr Core versijos</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -3726,8 +3726,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Piniginė užrakinta.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart btca Core to complete</source>
-        <translation>Piniginę reikia perrašyti: paleiskite btca Core iš naujo</translation>
+        <source>Wallet needed to be rewritten: restart btcr Core to complete</source>
+        <translation>Piniginę reikia perrašyti: paleiskite btcr Core iš naujo</translation>
     </message>
     <message>
         <source>Wallet options:</source>

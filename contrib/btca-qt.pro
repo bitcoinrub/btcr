@@ -78,7 +78,7 @@ HEADERS += src/activemasternode.h \
            src/crypter.h \
            src/obfuscation-relay.h \
            src/obfuscation.h \
-           src/btca-config.h \
+           src/btcr-config.h \
            src/db.h \
            src/eccryptoverify.h \
            src/ecwrapper.h \
@@ -131,7 +131,7 @@ HEADERS += src/activemasternode.h \
            src/wallet_ismine.h \
            src/walletdb.h \
            src/compat/sanity.h \
-           src/config/btca-config.h \
+           src/config/btcr-config.h \
            src/crypto/common.h \
            src/crypto/hmac_sha256.h \
            src/crypto/hmac_sha512.h \
@@ -332,7 +332,7 @@ HEADERS += src/activemasternode.h \
            src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.h \
            src/crypto/aes_helper.c \
            src/qt/bitcoinamountfield.moc \
-           src/qt/btca.moc \
+           src/qt/btcr.moc \
            src/qt/intro.moc \
            src/qt/overviewpage.moc \
            src/qt/rpcconsole.moc \
@@ -373,9 +373,9 @@ SOURCES += src/activemasternode.cpp \
            src/crypter.cpp \
            src/obfuscation-relay.cpp \
            src/obfuscation.cpp \
-           src/btca-cli.cpp \
-           src/btca-tx.cpp \
-           src/btca.cpp \
+           src/btcr-cli.cpp \
+           src/btcr-tx.cpp \
+           src/btcr.cpp \
            src/db.cpp \
            src/eccryptoverify.cpp \
            src/ecwrapper.cpp \
@@ -470,8 +470,8 @@ SOURCES += src/activemasternode.cpp \
            src/qt/coincontroltreewidget.cpp \
            src/qt/csvmodelwriter.cpp \
            src/qt/obfuscationconfig.cpp \
-           src/qt/btca.cpp \
-           src/qt/btcastrings.cpp \
+           src/qt/btcr.cpp \
+           src/qt/btcrstrings.cpp \
            src/qt/editaddressdialog.cpp \
            src/qt/guiutil.cpp \
            src/qt/intro.cpp \
@@ -549,7 +549,7 @@ SOURCES += src/activemasternode.cpp \
            src/test/sighash_tests.cpp \
            src/test/sigopcount_tests.cpp \
            src/test/skiplist_tests.cpp \
-           src/test/test_btca.cpp \
+           src/test/test_btcr.cpp \
            src/test/timedata_tests.cpp \
            src/test/transaction_tests.cpp \
            src/test/uint256_tests.cpp \
@@ -640,21 +640,21 @@ SOURCES += src/activemasternode.cpp \
            src/leveldb/helpers/memenv/memenv.cc \
            src/leveldb/helpers/memenv/memenv_test.cc \
            src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c
-RESOURCES += src/qt/btca.qrc src/qt/btca_locale.qrc
+RESOURCES += src/qt/btcr.qrc src/qt/btcr_locale.qrc
 
-TRANSLATIONS += src/qt/locale/btca_bg.ts \
-                src/qt/locale/btca_de.ts \
-                src/qt/locale/btca_en.ts \
-                src/qt/locale/btca_es.ts \
-                src/qt/locale/btca_fi.ts \
-                src/qt/locale/btca_fr.ts \
-                src/qt/locale/btca_it.ts \
-                src/qt/locale/btca_ja.ts \
-                src/qt/locale/btca_pl.ts \
-                src/qt/locale/btca_pt.ts \
-                src/qt/locale/btca_ru.ts \
-                src/qt/locale/btca_sk.ts \
-                src/qt/locale/btca_sv.ts \
-                src/qt/locale/btca_vi.ts \
-                src/qt/locale/btca_zh_CN.ts \
-                src/qt/locale/btca_zh_TW.ts
+TRANSLATIONS += src/qt/locale/btcr_bg.ts \
+                src/qt/locale/btcr_de.ts \
+                src/qt/locale/btcr_en.ts \
+                src/qt/locale/btcr_es.ts \
+                src/qt/locale/btcr_fi.ts \
+                src/qt/locale/btcr_fr.ts \
+                src/qt/locale/btcr_it.ts \
+                src/qt/locale/btcr_ja.ts \
+                src/qt/locale/btcr_pl.ts \
+                src/qt/locale/btcr_pt.ts \
+                src/qt/locale/btcr_ru.ts \
+                src/qt/locale/btcr_sk.ts \
+                src/qt/locale/btcr_sv.ts \
+                src/qt/locale/btcr_vi.ts \
+                src/qt/locale/btcr_zh_CN.ts \
+                src/qt/locale/btcr_zh_TW.ts

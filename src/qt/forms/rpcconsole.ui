@@ -354,7 +354,7 @@
        <item row="16" column="0">
         <widget class="QPushButton" name="openDebugLogfileButton">
          <property name="toolTip">
-          <string>Open the btca debug log file from the current data directory. This can take a few seconds for large log files.</string>
+          <string>Open the btcr debug log file from the current data directory. This can take a few seconds for large log files.</string>
          </property>
          <property name="text">
           <string>&amp;Open</string>
@@ -423,7 +423,7 @@
             <string/>
            </property>
            <property name="icon">
-            <iconset resource="../btca.qrc">
+            <iconset resource="../btcr.qrc">
              <normaloff>:/icons/remove</normaloff>:/icons/remove</iconset>
            </property>
            <property name="shortcut">
@@ -1326,9 +1326,9 @@
         </widget>
        </item>
        <item row="4" column="0">
-        <widget class="QLabel" name="wallet_customzbtcabackuppath_label">
+        <widget class="QLabel" name="wallet_customzbtcrbackuppath_label">
          <property name="text">
-          <string>Custom zbtca Backup Path:</string>
+          <string>Custom zbtcr Backup Path:</string>
          </property>
          <property name="visible">
           <bool>false</bool>
@@ -1336,7 +1336,7 @@
         </widget>
        </item>
        <item row="4" column="1" colspan="3">
-        <widget class="QLabel" name="wallet_customzbtcabackuppath">
+        <widget class="QLabel" name="wallet_customzbtcrbackuppath">
          <property name="cursor">
           <cursorShape>IBeamCursor</cursorShape>
          </property>
@@ -1637,7 +1637,7 @@
   </customwidget>
  </customwidgets>
  <resources>
-  <include location="../btca.qrc"/>
+  <include location="../btcr.qrc"/>
  </resources>
  <connections/>
 </ui>

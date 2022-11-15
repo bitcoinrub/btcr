@@ -30,8 +30,8 @@
  *
  * \section intro_sec Introduction
  *
- * This is the developer documentation of the reference client for an experimental new digital currency called btca (http://www.btca.org),
- * which enables instant payments to anyone, anywhere in the world. btca uses peer-to-peer technology to operate
+ * This is the developer documentation of the reference client for an experimental new digital currency called btcr (http://www.btcr.org),
+ * which enables instant payments to anyone, anywhere in the world. btcr uses peer-to-peer technology to operate
  * with no central authority: managing transactions and issuing money are carried out collectively by the network.
  *
  * The software is a community-driven open source project, released under the MIT license.
@@ -70,18 +70,18 @@ bool AppInit(int argc, char* argv[])
     //
     // Parameters
     //
-    // If Qt is used, parameters/btca.conf are parsed in qt/btca.cpp's main()
+    // If Qt is used, parameters/btcr.conf are parsed in qt/btcr.cpp's main()
     ParseParameters(argc, argv);
 
     // Process help and version before taking care about datadir
     if (mapArgs.count("-?") || mapArgs.count("-help") || mapArgs.count("-version")) {
-        std::string strUsage = _("btca Core Daemon") + " " + _("version") + " " + FormatFullVersion() + "\n";
+        std::string strUsage = _("btcr Core Daemon") + " " + _("version") + " " + FormatFullVersion() + "\n";
 
         if (mapArgs.count("-version")) {
             strUsage += LicenseInfo();
         } else {
             strUsage += "\n" + _("Usage:") + "\n" +
-                        "  btcad [options]                     " + _("Start btca Core Daemon") + "\n";
+                        "  btcrd [options]                     " + _("Start btcr Core Daemon") + "\n";
 
             strUsage += "\n" + HelpMessage(HMM_BITCOIND);
         }
@@ -117,17 +117,17 @@ bool AppInit(int argc, char* argv[])
         // Command-line RPC
         bool fCommandLine = false;
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "btca:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "btcr:"))
                 fCommandLine = true;
 
         if (fCommandLine) {
-            fprintf(stderr, "Error: There is no RPC client functionality in btcad anymore. Use the btca-cli utility instead.\n");
+            fprintf(stderr, "Error: There is no RPC client functionality in btcrd anymore. Use the btcr-cli utility instead.\n");
             exit(1);
         }
 #ifndef WIN32
         fDaemon = GetBoolArg("-daemon", false);
         if (fDaemon) {
-            fprintf(stdout, "btca server starting\n");
+            fprintf(stdout, "btcr server starting\n");
 
             // Daemonize
             pid_t pid = fork();
@@ -172,7 +172,7 @@ int main(int argc, char* argv[])
 {
     SetupEnvironment();
 
-    // Connect btcad signal handlers
+    // Connect btcrd signal handlers
     noui_connect();
 
     return (AppInit(argc, argv) ? 0 : 1);

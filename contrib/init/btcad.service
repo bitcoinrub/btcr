@@ -1,19 +1,19 @@
 [Unit]
-Description=btca's distributed currency daemon
+Description=btcr's distributed currency daemon
 After=network.target
 
 [Service]
-User=btca
-Group=btca
+User=btcr
+Group=btcr
 
-Type=btca
-PIDFile=/var/lib/btcad/btcad.pid
+Type=btcr
+PIDFile=/var/lib/btcrd/btcrd.pid
 
-ExecStart=/usr/bin/btcad -daemon -pid=/var/lib/btcad/btcad.pid \
-          -conf=/etc/btca/btca.conf -datadir=/var/lib/btcad
+ExecStart=/usr/bin/btcrd -daemon -pid=/var/lib/btcrd/btcrd.pid \
+          -conf=/etc/btcr/btcr.conf -datadir=/var/lib/btcrd
 
-ExecStop=-/usr/bin/btca-cli -conf=/etc/btca/btca.conf \
-         -datadir=/var/lib/btcad stop
+ExecStop=-/usr/bin/btcr-cli -conf=/etc/btcr/btcr.conf \
+         -datadir=/var/lib/btcrd stop
 
 Restart=always
 PrivateTmp=true

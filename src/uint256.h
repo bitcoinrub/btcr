@@ -5,8 +5,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef btca_UINT256_H
-#define btca_UINT256_H
+#ifndef btcr_UINT256_H
+#define btcr_UINT256_H
 
 #include <assert.h>
 #include <cstring>
@@ -410,4 +410,4 @@ inline uint512 uint512S(const std::string& str)
     return rv;
 }
 
-#endif // btca_UINT256_H
+#endif // btcr_UINT256_H

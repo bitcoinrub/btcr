@@ -62,12 +62,12 @@
         <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your btca addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones btca para realizar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviar monedas.</translation>
+        <source>These are your btcr addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones btcr para realizar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviar monedas.</translation>
     </message>
     <message>
-        <source>These are your btca addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son sus direcciones btca para recibir pagos. Es recomendable usar una nueva dirección de recepción para cada transacción.</translation>
+        <source>These are your btcr addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son sus direcciones btcr para recibir pagos. Es recomendable usar una nueva dirección de recepción para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Confirme el cifrado del monedero</translation>
     </message>
     <message>
-        <source>btca will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcas from being stolen by malware infecting your computer.</source>
-        <translation>btca se cerrará para finalizar el proceso de cifrado. Recuerde que cifrar su monedero no garantiza que sus btcas no sean robados mediante malware de su ordenador.</translation>
+        <source>btcr will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcrs from being stolen by malware infecting your computer.</source>
+        <translation>btcr se cerrará para finalizar el proceso de cifrado. Recuerde que cifrar su monedero no garantiza que sus btcrs no sean robados mediante malware de su ordenador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>¿Está seguro de que desea cifrar su monedero?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btca&lt;/b&gt;!</source>
-        <translation>Atención: Si cifra su monedero y pierde su contraseña, perderá &lt;b&gt; TODOS SUS btca&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btcr&lt;/b&gt;!</source>
+        <translation>Atención: Si cifra su monedero y pierde su contraseña, perderá &lt;b&gt; TODOS SUS btcr&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Dirección:</translation>
     </message>
     <message>
-        <source>Enter a btca Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Introduzca la dirección btca que querría cifrar usando BIP 38. Introduzca una contraseña en el campo central. Haga clic en cifrar para generar la clave privada cifrada.</translation>
+        <source>Enter a btcr Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Introduzca la dirección btcr que querría cifrar usando BIP 38. Introduzca una contraseña en el campo central. Haga clic en cifrar para generar la clave privada cifrada.</translation>
     </message>
     <message>
-        <source>The btca address to encrypt</source>
-        <translation>La dirección btca a cifrar</translation>
+        <source>The btcr address to encrypt</source>
+        <translation>La dirección btcr a cifrar</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this btca address</source>
-        <translation>Cifrar la llave privada para esta dirección btca</translation>
+        <source>Encrypt the private key for this btcr address</source>
+        <translation>Cifrar la llave privada para esta dirección btcr</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>Navegar por el historial de transacciones</translation>
     </message>
     <message>
-        <source>Privacy Actions for zbtca</source>
-        <translation>Acciones de privacidad para zbtca</translation>
+        <source>Privacy Actions for zbtcr</source>
+        <translation>Acciones de privacidad para zbtcr</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -645,15 +645,15 @@
         <translation>Herramienta de pestañas</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
-        <source>Send coins to a btca address</source>
-        <translation>Enviar monedas a una dirección btca</translation>
+        <source>Send coins to a btcr address</source>
+        <translation>Enviar monedas a una dirección btcr</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and btca: URIs)</source>
+        <source>Request payments (generates QR codes and btcr: URIs)</source>
         <translation>Solicitud de pago (genera un código QR y URIs)</translation>
     </message>
     <message>
@@ -669,24 +669,24 @@
         <translation>Explorar masternodes</translation>
     </message>
     <message>
-        <source>&amp;About btca Core</source>
-        <translation>&amp;Sobre btca Core</translation>
+        <source>&amp;About btcr Core</source>
+        <translation>&amp;Sobre btcr Core</translation>
     </message>
     <message>
-        <source>Show information about btca Core</source>
-        <translation>Mostrar información sobre btca Core</translation>
+        <source>Show information about btcr Core</source>
+        <translation>Mostrar información sobre btcr Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for btca</source>
-        <translation>Modificar las opciones de configuración de btca</translation>
+        <source>Modify configuration options for btcr</source>
+        <translation>Modificar las opciones de configuración de btcr</translation>
     </message>
     <message>
-        <source>Sign messages with your btca addresses to prove you own them</source>
-        <translation>Firmar mensajes con sus direcciones btca para demostrar que le pertenecen</translation>
+        <source>Sign messages with your btcr addresses to prove you own them</source>
+        <translation>Firmar mensajes con sus direcciones btcr para demostrar que le pertenecen</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified btca addresses</source>
-        <translation>Verificar mensajes para asegurar que están firmados con la dirección btca especificada</translation>
+        <source>Verify messages to ensure they were signed with specified btcr addresses</source>
+        <translation>Verificar mensajes para asegurar que están firmados con la dirección btcr especificada</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Abrir fichero de Configuración de masternodes</translation>
     </message>
     <message>
-        <source>Open a btca: URI or payment request</source>
-        <translation>Abrir un btca: URI o solicitud de pago</translation>
+        <source>Open a btcr: URI or payment request</source>
+        <translation>Abrir un btcr: URI o solicitud de pago</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Ventana del explorador de bloques</translation>
     </message>
     <message>
-        <source>Show the btca Core help message to get a list with possible btca command-line options</source>
-        <translation>Mostrar la ayuda de btca Core para obtener una lista de posibles opciones en línea de comandos</translation>
+        <source>Show the btcr Core help message to get a list with possible btcr command-line options</source>
+        <translation>Mostrar la ayuda de btcr Core para obtener una lista de posibles opciones en línea de comandos</translation>
     </message>
     <message>
-        <source>btca Core client</source>
-        <translation>Cliente btca Core</translation>
+        <source>btcr Core client</source>
+        <translation>Cliente btcr Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to btca network</source>
-        <translation><numerusform>%n conexión(es) activas a la red btca</numerusform><numerusform>%n conexión(es) activas a la red btca</numerusform></translation>
+        <source>%n active connection(s) to btcr network</source>
+        <translation><numerusform>%n conexión(es) activas a la red btcr</numerusform><numerusform>%n conexión(es) activas a la red btcr</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ MultiEnvío: %1</translation>
         <translation>EtiquetaDeTexto</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btca.conf).</source>
-        <translation>No se muestran todas las transacciones. Para ver todas las transacciones introduzca la línea "txindex=1" en el archivo de configuración (btca.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btcr.conf).</source>
+        <translation>No se muestran todas las transacciones. Para ver todas las transacciones introduzca la línea "txindex=1" en el archivo de configuración (btcr.conf).</translation>
     </message>
 </context>
 <context>
@@ -1130,8 +1130,8 @@ MultiEnvío: %1</translation>
         <translation>Esta etiqueta se vuelve roja, si algún destinatario recibe una cantidad menor que %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 ubtca per input.</source>
-        <translation>Puede variar +/- %1 ubtca por entrada.</translation>
+        <source>Can vary +/- %1 ubtcr per input.</source>
+        <translation>Puede variar +/- %1 ubtcr por entrada.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1185,8 +1185,8 @@ MultiEnvío: %1</translation>
         <translation>Editar dirección de envío</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid btca address.</source>
-        <translation>La dirección introducida "%1" no es una dirección btca válida.</translation>
+        <source>The entered address "%1" is not a valid btcr address.</source>
+        <translation>La dirección introducida "%1" no es una dirección btcr válida.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ MultiEnvío: %1</translation>
         <translation>versión</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About btca Core</source>
-        <translation>Acerca de btca Core</translation>
+        <source>About btcr Core</source>
+        <translation>Acerca de btcr Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ MultiEnvío: %1</translation>
         <translation>Bienvenido/a</translation>
     </message>
     <message>
-        <source>Welcome to btca Core.</source>
-        <translation>Bienvenido/a a btca Core.</translation>
+        <source>Welcome to btcr Core.</source>
+        <translation>Bienvenido/a a btcr Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where btca Core will store its data.</source>
-        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará btca Core sus datos.</translation>
+        <source>As this is the first time the program is launched, you can choose where btcr Core will store its data.</source>
+        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará btcr Core sus datos.</translation>
     </message>
     <message>
-        <source>btca Core will download and store a copy of the btca block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>btca Core descargará y guardará una copia de la cadena de bloques btca. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
+        <source>btcr Core will download and store a copy of the btcr block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>btcr Core descargará y guardará una copia de la cadena de bloques btcr. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ MultiEnvío: %1</translation>
         <translation>Usar una carpeta de datos personalizada:</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ MultiEnvío: %1</translation>
         <translation>Introduzca Dirección a la cual Enviar</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btca addresses after it matures.
-To Add: enter percentage to give and btca address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btcr addresses after it matures.
+To Add: enter percentage to give and btcr address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiEnvío le permite enviar automáticamente hasta el 100% de recompensa de participación o de nodo maestro a una lista de otras direcciones btca después de su maduración.
-Para Añadir: introduzca porcentaje a enviar y las direcciones btca a añadir al vector MultiEnvío.
+        <translation>MultiEnvío le permite enviar automáticamente hasta el 100% de recompensa de participación o de nodo maestro a una lista de otras direcciones btcr después de su maduración.
+Para Añadir: introduzca porcentaje a enviar y las direcciones btcr a añadir al vector MultiEnvío.
 Para Eliminar: Introduzca la dirección a eliminar y pulse la tecla delete.
 MultiEnvío no se activará a menos que haga usted click en Activar</translation>
     </message>
@@ -1681,8 +1681,8 @@ Por favor, tenga paciencia después de hacer clic en importar.</translation>
         <translation>Dirección / Cantidad:</translation>
     </message>
     <message>
-        <source>Add destinations to send btca to</source>
-        <translation>Agregue los destinos para enviar btca</translation>
+        <source>Add destinations to send btcr to</source>
+        <translation>Agregue los destinos para enviar btcr</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1780,48 +1780,48 @@ Por favor, tenga paciencia después de hacer clic en importar.</translation>
         <translation>Por favor seleccione un nivel de privacidad.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Use 2 masterdodes diferentes para mezclar los fondos hasta los 10000 btca</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Use 2 masterdodes diferentes para mezclar los fondos hasta los 10000 btcr</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Use 8 masternodes diferentes para mezclar fondos hasta los 10000 btca</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Use 8 masternodes diferentes para mezclar fondos hasta los 10000 btcr</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Use 16 masternodes diferentes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 btca to anonymize 10000 btca</source>
-        <translation>Esta opción es la más rápida y costará alrededor de ~0.025 btca para anonimizar 10000 btca</translation>
+        <source>This option is the quickest and will cost about ~0.025 btcr to anonymize 10000 btcr</source>
+        <translation>Esta opción es la más rápida y costará alrededor de ~0.025 btcr para anonimizar 10000 btcr</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 btca to anonymize 10000 btca</source>
-        <translation>Esta opción es moderadamente rápida y costará cerca de 0.05 btca para anonimizar 10000 btca</translation>
+        <source>This option is moderately fast and will cost about 0.05 btcr to anonymize 10000 btcr</source>
+        <translation>Esta opción es moderadamente rápida y costará cerca de 0.05 btcr para anonimizar 10000 btcr</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Esta es la opción más lenta pero más segura. Usar el máximo anonimato costará</translation>
     </message>
     <message>
-        <source>0.1 btca per 10000 btca you anonymize.</source>
-        <translation>0.1 btca por 10000 btca que anonimizas.</translation>
+        <source>0.1 btcr per 10000 btcr you anonymize.</source>
+        <translation>0.1 btcr por 10000 btcr que anonimizas.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Configuración de Ofuscación</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>La Ofuscación se configuró correctamente en modo básico (%1 y 2 rondas). Puedes cambiar esto en cualquier momento accediendo a la ventana de configuración de btca.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>La Ofuscación se configuró correctamente en modo básico (%1 y 2 rondas). Puedes cambiar esto en cualquier momento accediendo a la ventana de configuración de btcr.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>La Ofuscación se activó correctamente en modo alto (%1 y 8 rondas). Usted puede cambiar esto en cualquier momento abriendo la ventana de configuración de btca.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>La Ofuscación se activó correctamente en modo alto (%1 y 8 rondas). Usted puede cambiar esto en cualquier momento abriendo la ventana de configuración de btcr.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>La Ofuscación se activó correctamente en su grado máximo (%1 y 16 rondas). Usted puede cambiar ésto en cualquier momento en la ventana de configuración de btca.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>La Ofuscación se activó correctamente en su grado máximo (%1 y 16 rondas). Usted puede cambiar ésto en cualquier momento en la ventana de configuración de btcr.</translation>
     </message>
 </context>
 <context>
@@ -1882,8 +1882,8 @@ Por favor, tenga paciencia después de hacer clic en importar.</translation>
         <translation>Si deselecciona el gasto de cambio no confirmado, las entradas de una transacción&lt;br/&gt;no podrán ser usadas hasta que esa transacción tenga al menos una confirmación.&lt;br/&gt;Esto también afecta a cómo se calcula su balance actual.</translation>
     </message>
     <message>
-        <source>Automatically open the btca client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto del cliente btca en el enrutador. Ésto sólo funciona si su enrutador soporta UPnP y esta función está activada.</translation>
+        <source>Automatically open the btcr client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto del cliente btcr en el enrutador. Ésto sólo funciona si su enrutador soporta UPnP y esta función está activada.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1902,12 +1902,12 @@ Por favor, tenga paciencia después de hacer clic en importar.</translation>
         <translation>Experto</translation>
     </message>
     <message>
-        <source>Automatically start btca after logging in to the system.</source>
-        <translation>Arrancar btca automáticamente después de identificarse en el sistema.</translation>
+        <source>Automatically start btcr after logging in to the system.</source>
+        <translation>Arrancar btcr automáticamente después de identificarse en el sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start btca on system login</source>
-        <translation>&amp;Arrancar btca al inicio del sistema</translation>
+        <source>&amp;Start btcr on system login</source>
+        <translation>&amp;Arrancar btcr al inicio del sistema</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1934,50 +1934,50 @@ Por favor, tenga paciencia después de hacer clic en importar.</translation>
         <translation>&amp;Red</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting btca.</source>
-        <translation>El idioma de interface de usuario puede seleccionarse aquí. Este ajuste tomará efecto después de reiniciar btca.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting btcr.</source>
+        <translation>El idioma de interface de usuario puede seleccionarse aquí. Este ajuste tomará efecto después de reiniciar btcr.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/btca/btca-translations</source>
+https://www.transifex.com/btcr/btcr-translations</source>
         <translation>¿Falta su lenguaje o la traducción está incompleta? Contribuya con las traducciones aquí:
-https://www.transifex.com/btca/btca-translations</translation>
+https://www.transifex.com/btcr/btcr-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Mapear un puerto utilizando &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of btca units to zbtca</source>
-        <translation>Activar el minting automática de unidades btca a zbtca</translation>
+        <source>Enable automatic minting of btcr units to zbtcr</source>
+        <translation>Activar el minting automática de unidades btcr a zbtcr</translation>
     </message>
     <message>
-        <source>Enable zbtca Automint</source>
-        <translation>Activar zbtca Automint</translation>
+        <source>Enable zbtcr Automint</source>
+        <translation>Activar zbtcr Automint</translation>
     </message>
     <message>
-        <source>Percentage of incoming btca which get automatically converted to zbtca via Zerocoin Protocol (min: 10%)</source>
-        <translation>Porcentaje de btca entrantes que serán automáticamente convertidos a zbtca a través del Protocolo Zerocoin (mín: 10%)</translation>
+        <source>Percentage of incoming btcr which get automatically converted to zbtcr via Zerocoin Protocol (min: 10%)</source>
+        <translation>Porcentaje de btcr entrantes que serán automáticamente convertidos a zbtcr a través del Protocolo Zerocoin (mín: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zbtca</source>
-        <translation>Porcentaje de zbtca autogenerados</translation>
+        <source>Percentage of autominted zbtcr</source>
+        <translation>Porcentaje de zbtcr autogenerados</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough btca for this denomination is available</source>
-        <translation>Esperar con la conversión automática a Zerocoin hasta que hayan suficientes btca disponibles para este tamaño de billete</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough btcr for this denomination is available</source>
+        <translation>Esperar con la conversión automática a Zerocoin hasta que hayan suficientes btcr disponibles para este tamaño de billete</translation>
     </message>
     <message>
-        <source>Preferred Automint zbtca Denomination</source>
-        <translation>Tamaño de billete zbtca preferido en la creación automática de dinero</translation>
+        <source>Preferred Automint zbtcr Denomination</source>
+        <translation>Tamaño de billete zbtcr preferido en la creación automática de dinero</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
         <translation>Parte limite de stake:</translation>
     </message>
     <message>
-        <source>Connect to the btca network through a SOCKS5 proxy.</source>
-        <translation>Conectar a la red btca mediante un proxy SOCKS5.</translation>
+        <source>Connect to the btcr network through a SOCKS5 proxy.</source>
+        <translation>Conectar a la red btcr mediante un proxy SOCKS5.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2131,8 +2131,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Balance Total, incluidas todas las monedas no disponibles.</translation>
     </message>
     <message>
-        <source>btca Balance</source>
-        <translation>Balance btca</translation>
+        <source>btcr Balance</source>
+        <translation>Balance btcr</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2155,18 +2155,18 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Saldo bloqueado actual en direcciones solo de lectura</translation>
     </message>
     <message>
-        <source>Your current btca balance, unconfirmed and immature transactions included</source>
-        <translation>Su balance btca actual, transacciones no confirmadas e inmaduras incluidas</translation>
+        <source>Your current btcr balance, unconfirmed and immature transactions included</source>
+        <translation>Su balance btcr actual, transacciones no confirmadas e inmaduras incluidas</translation>
     </message>
     <message>
-        <source>zbtca Balance</source>
-        <translation>Balance zbtca</translation>
+        <source>zbtcr Balance</source>
+        <translation>Balance zbtcr</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zbtca are spendable.</source>
+These zbtcr are spendable.</source>
         <translation>Maduración: más de 20 confirmaciones y más de 1 acuñación de la misma denominación después de acuñarse.
-Estas zbtca son utilizables.</translation>
+Estas zbtcr son utilizables.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2175,8 +2175,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Inmaduro: confirmado, pero menos de 1 acuñación de la misma denominación después de ser acuñado</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red btca después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red btcr después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2219,8 +2219,8 @@ Inmaduro: confirmado, pero menos de 1 acuñación de la misma denominación desp
         <translation>Disponible:</translation>
     </message>
     <message>
-        <source>Locked btca or Masternode collaterals. These are excluded from zbtca minting.</source>
-        <translation>btca bloqueado o Masternode colaterales. Estos están excluidos de minting zbtca.</translation>
+        <source>Locked btcr or Masternode collaterals. These are excluded from zbtcr minting.</source>
+        <translation>btcr bloqueado o Masternode colaterales. Estos están excluidos de minting zbtcr.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2231,8 +2231,8 @@ Inmaduro: confirmado, pero menos de 1 acuñación de la misma denominación desp
         <translation>Sin confirmar:</translation>
     </message>
     <message>
-        <source>Your current zbtca balance, unconfirmed and immature zbtca included.</source>
-        <translation>Su balance zbtca actual, zbtca inmaduro e inmaduro incluido.</translation>
+        <source>Your current zbtcr balance, unconfirmed and immature zbtcr included.</source>
+        <translation>Su balance zbtcr actual, zbtcr inmaduro e inmaduro incluido.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2243,10 +2243,10 @@ Inmaduro: confirmado, pero menos de 1 acuñación de la misma denominación desp
         <translation>desincronizado</translation>
     </message>
     <message>
-        <source>Current percentage of zbtca.
+        <source>Current percentage of zbtcr.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Porcentaje actual de zbtca.
+        <translation>Porcentaje actual de zbtcr.
 Si AutoMint está habilitado, este porcentaje se establecerá alrededor del porcentaje de AutoMint configurado (predeterminado = 10%).
 </translation>
     </message>
@@ -2255,14 +2255,14 @@ Si AutoMint está habilitado, este porcentaje se establecerá alrededor del porc
         <translation>AutoMint está actualmente habilitado y configurado en</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in btca.conf.</source>
-        <translation>Para desactivar AutoMint agrega 'enablezeromint=0' en btca.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in btcr.conf.</source>
+        <translation>Para desactivar AutoMint agrega 'enablezeromint=0' en btcr.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btca.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btcr.conf</source>
         <translation>AutoMint está actualmente desactivado.
-Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en btca.conf</translation>
+Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en btcr.conf</translation>
     </message>
 </context>
 <context>
@@ -2288,12 +2288,12 @@ Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en bt
         <translation>Dirección de pago inválida %1</translation>
     </message>
     <message>
-        <source>Cannot start btca: click-to-pay handler</source>
-        <translation>No se puede iniciar btca: módulo click-to-pay</translation>
+        <source>Cannot start btcr: click-to-pay handler</source>
+        <translation>No se puede iniciar btcr: módulo click-to-pay</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid btca address or malformed URI parameters.</source>
-        <translation>¡El identificador de la dirección no puede ser analizado! Esto puede ser causado por una dirección btca inválida o parámetros del identificador malformados.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid btcr address or malformed URI parameters.</source>
+        <translation>¡El identificador de la dirección no puede ser analizado! Esto puede ser causado por una dirección btcr inválida o parámetros del identificador malformados.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2378,8 +2378,8 @@ Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en bt
         <translation>Acciones Zerocoin:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red btca después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red btcr después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2390,8 +2390,8 @@ Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en bt
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2402,8 +2402,8 @@ Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en bt
         <translation>Disponible para minting:</translation>
     </message>
     <message>
-        <source>0.000 000 00 btca</source>
-        <translation>0.000 000 00 btca</translation>
+        <source>0.000 000 00 btcr</source>
+        <translation>0.000 000 00 btcr</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2442,16 +2442,16 @@ Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en bt
         <translation>PRIVACIDAD</translation>
     </message>
     <message>
-        <source>Enter an amount of btca to convert to zbtca</source>
-        <translation>Introduzca la cantidad de btca que desea convertir a zbtca</translation>
+        <source>Enter an amount of btcr to convert to zbtcr</source>
+        <translation>Introduzca la cantidad de btcr que desea convertir a zbtcr</translation>
     </message>
     <message>
-        <source>zbtca Control</source>
-        <translation>Control zbtca</translation>
+        <source>zbtcr Control</source>
+        <translation>Control zbtcr</translation>
     </message>
     <message>
-        <source>zbtca Selected:</source>
-        <translation>zbtca Seleccionados:</translation>
+        <source>zbtcr Selected:</source>
+        <translation>zbtcr Seleccionados:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2466,24 +2466,24 @@ Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en bt
         <translation>Gastar Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zbtca for spending</source>
-        <translation>zbtca disponible (maduro y gastable) para gastar</translation>
+        <source>Available (mature and spendable) zbtcr for spending</source>
+        <translation>zbtcr disponible (maduro y gastable) para gastar</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Balance disponible:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zbtca for spending
+        <source>Available (mature and spendable) zbtcr for spending
 
-zbtca are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>zbtca disponible (maduro y gastable) para gastar
+zbtcr are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>zbtcr disponible (maduro y gastable) para gastar
 
-zbtca son maduros cuando tienen más de 20 confirmaciones Y más de 2 mints de la misma denominación después que ellos fueron minted</translation>
+zbtcr son maduros cuando tienen más de 20 confirmaciones Y más de 2 mints de la misma denominación después que ellos fueron minted</translation>
     </message>
     <message>
-        <source>0 zbtca</source>
-        <translation>0 zbtca</translation>
+        <source>0 zbtcr</source>
+        <translation>0 zbtcr</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2502,8 +2502,8 @@ zbtca son maduros cuando tienen más de 20 confirmaciones Y más de 2 mints de l
         <translation>Pagar &amp;A:</translation>
     </message>
     <message>
-        <source>The btca address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>La dirección btca a la que enviar el pago. Si se deja en blanco, crea un pago a usted mismo.</translation>
+        <source>The btcr address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>La dirección btcr a la que enviar el pago. Si se deja en blanco, crea un pago a usted mismo.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2554,8 +2554,8 @@ zbtca son maduros cuando tienen más de 20 confirmaciones Y más de 2 mints de l
         <translation>Estadísticas Zerocoin:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zbtca</source>
-        <translation>Balance total incluyendo zbtca no confirmado e inmaduro</translation>
+        <source>Total Balance including unconfirmed and immature zbtcr</source>
+        <translation>Balance total incluyendo zbtcr no confirmado e inmaduro</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2576,24 +2576,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Inmaduro: confirmado, pero menos de 1 acuñación de la misma denominación después de ser acuñado</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zbtca minting.
+        <source>Show the current status of automatic zbtcr minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to btca.conf
-- disable: add 'enablezeromint=0' to btca.conf
+- enable: add 'enablezeromint=1' to btcr.conf
+- disable: add 'enablezeromint=0' to btcr.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zbtca
+- menu Settings-&gt;Options-&gt;Percentage of autominted zbtcr
 
 </source>
-        <translation>Muestra el estado actual de zbtca minting automática.
+        <translation>Muestra el estado actual de zbtcr minting automática.
 
 Para cambiar el estado (reinicio requerido):
-- activar: añade 'enablezeromint = 1' en btca.conf
-- desctivar: añade 'enablezeromint = 0' en btca.conf
+- activar: añade 'enablezeromint = 1' en btcr.conf
+- desctivar: añade 'enablezeromint = 0' en btcr.conf
 
 Para cambiar el porcentaje (no se requiere reiniciar):
-- menú Configuración-&gt;Opciones-&gt;Porcentaje de zbtca automint
+- menú Configuración-&gt;Opciones-&gt;Porcentaje de zbtcr automint
 </translation>
     </message>
     <message>
@@ -2789,12 +2789,12 @@ Maximum allowed: </source>
 Máximo permitido:</translation>
     </message>
     <message>
-        <source>zbtca Spend #: </source>
-        <translation>Gastar zbtca #: </translation>
+        <source>zbtcr Spend #: </source>
+        <translation>Gastar zbtcr #: </translation>
     </message>
     <message>
-        <source>zbtca Mint</source>
-        <translation>Acuñar zbtca</translation>
+        <source>zbtcr Mint</source>
+        <translation>Acuñar zbtcr</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2809,12 +2809,12 @@ Máximo permitido:</translation>
         <translation>Porcentaje objetivo configurado:</translation>
     </message>
     <message>
-        <source>zbtca is currently disabled due to maintenance.</source>
-        <translation>zbtca actualmente está desactivado debido al mantenimiento.</translation>
+        <source>zbtcr is currently disabled due to maintenance.</source>
+        <translation>zbtcr actualmente está desactivado debido al mantenimiento.</translation>
     </message>
     <message>
-        <source>zbtca is currently undergoing maintenance.</source>
-        <translation>zbtca se encuentra actualmente en mantenimiento.</translation>
+        <source>zbtcr is currently undergoing maintenance.</source>
+        <translation>zbtcr se encuentra actualmente en mantenimiento.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2901,8 +2901,8 @@ Máximo permitido:</translation>
         <translation>Minted correctamente</translation>
     </message>
     <message>
-        <source> zbtca in </source>
-        <translation>zbtca en</translation>
+        <source> zbtcr in </source>
+        <translation>zbtcr en</translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2929,8 +2929,8 @@ Máximo permitido:</translation>
         <translation>No se especificó drección 'Pagar A', por lo que asumimos un pago local</translation>
     </message>
     <message>
-        <source>Invalid btca Address</source>
-        <translation>Dirección btca Inválida</translation>
+        <source>Invalid btcr Address</source>
+        <translation>Dirección btcr Inválida</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2961,12 +2961,12 @@ Máximo permitido:</translation>
         <translation>Confirmar enviar monedas</translation>
     </message>
     <message>
-        <source>Version 1 zbtca require a security level of 100 to successfully spend.</source>
-        <translation>La versión 1 zbtca requiere un nivel de seguridad de 100 para gastar exitosamente.</translation>
+        <source>Version 1 zbtcr require a security level of 100 to successfully spend.</source>
+        <translation>La versión 1 zbtcr requiere un nivel de seguridad de 100 para gastar exitosamente.</translation>
     </message>
     <message>
-        <source>Failed to spend zbtca</source>
-        <translation>Error al enviar zbtca</translation>
+        <source>Failed to spend zbtcr</source>
+        <translation>Error al enviar zbtcr</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2988,7 +2988,7 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of btca to convert to zbtca</comment>
+        <comment>Enter an amount of btcr to convert to zbtcr</comment>
         <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3031,8 +3031,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Cantidad</translation>
     </message>
     <message>
-        <source>Enter a btca address (e.g. %1)</source>
-        <translation>Introduzca una dirección btca (p.e. %1)</translation>
+        <source>Enter a btcr address (e.g. %1)</source>
+        <translation>Introduzca una dirección btcr (p.e. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3169,8 +3169,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Blockchain</translation>
     </message>
     <message>
-        <source>Open the btca debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abrir el fichero de depuración btca en el directorio actual de datos. Esto puede llevar unos segundos para ficheros de depuración grandes.</translation>
+        <source>Open the btcr debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abrir el fichero de depuración btcr en el directorio actual de datos. Esto puede llevar unos segundos para ficheros de depuración grandes.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3305,8 +3305,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Ruta personalizada de la copia de seguridad:</translation>
     </message>
     <message>
-        <source>Custom zbtca Backup Path:</source>
-        <translation>Ruta personalizada de la copia de seguridad zbtca:</translation>
+        <source>Custom zbtcr Backup Path:</source>
+        <translation>Ruta personalizada de la copia de seguridad zbtcr:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
@@ -3385,8 +3385,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Fuera:</translation>
     </message>
     <message>
-        <source>Welcome to the btca RPC console.</source>
-        <translation>Bienvenido a la consola RPC de btca.</translation>
+        <source>Welcome to the btcr RPC console.</source>
+        <translation>Bienvenido a la consola RPC de btcr.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3512,16 +3512,16 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Una etiqueta opcional a asociar con la nueva dirección de recepción.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the btca network.</source>
-        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. Nota: El mensaje no se envía junto al pago por la red btca.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the btcr network.</source>
+        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. Nota: El mensaje no se envía junto al pago por la red btcr.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>RECIBIR</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the btca network.</source>
-        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. &lt;br&gt;Nota: El mensaje no se envía junto al pago por la red btca.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the btcr network.</source>
+        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. &lt;br&gt;Nota: El mensaje no se envía junto al pago por la red btcr.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3749,8 +3749,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Tamaño de UTXO:</translation>
     </message>
     <message>
-        <source>0 btca</source>
-        <translation>0 btca</translation>
+        <source>0 btcr</source>
+        <translation>0 btcr</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3805,16 +3805,16 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Monedas seleccionadas automáticamente</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 ubtcas and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcas in fee,&lt;br /&gt;while "at least" pays 1000 ubtcas. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Si la comisión personalizada se fija en 1000 ubtcas y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 ubtcas de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 ubtcas. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+        <source>If the custom fee is set to 1000 ubtcrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcrs in fee,&lt;br /&gt;while "at least" pays 1000 ubtcrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Si la comisión personalizada se fija en 1000 ubtcrs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 ubtcrs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 ubtcrs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 ubtcas and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcas in fee,&lt;br /&gt;while "total at least" pays 1000 ubtcas. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Si la comisión personalizada se fija en 1000 ubtcas y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 ubtcas de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 ubtcas. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+        <source>If the custom fee is set to 1000 ubtcrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcrs in fee,&lt;br /&gt;while "total at least" pays 1000 ubtcrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Si la comisión personalizada se fija en 1000 ubtcrs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 ubtcrs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 ubtcrs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for btca transactions than the network can process.</source>
-        <translation>Pagar sólo la comisión mínima está bien mientras haya menos volumen de transacciones que espacio en los bloques.&lt;br/&gt;Pero tenga en cuenta que esto podría acabar en una transacción que nunca se confirme si hay más demanda de transacciones btca de las que la red puede procesar.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for btcr transactions than the network can process.</source>
+        <translation>Pagar sólo la comisión mínima está bien mientras haya menos volumen de transacciones que espacio en los bloques.&lt;br/&gt;Pero tenga en cuenta que esto podría acabar en una transacción que nunca se confirme si hay más demanda de transacciones btcr de las que la red puede procesar.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3861,8 +3861,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Añadir Destinatario</translation>
     </message>
     <message>
-        <source>Anonymized btca</source>
-        <translation>btca anonimizados</translation>
+        <source>Anonymized btcr</source>
+        <translation>btcr anonimizados</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3909,8 +3909,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>La herramienta de división de bloques no funciona con varias direcciones. Inténtelo otra vez.</translation>
     </message>
     <message>
-        <source>Warning: Invalid btca address</source>
-        <translation>Advertencia: Direcciones btca inválidas</translation>
+        <source>Warning: Invalid btcr address</source>
+        <translation>Advertencia: Direcciones btcr inválidas</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4012,8 +4012,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Pagar &amp;A:</translation>
     </message>
     <message>
-        <source>The btca address to send the payment to</source>
-        <translation>La dirección btca a la cual enviar el pago</translation>
+        <source>The btcr address to send the payment to</source>
+        <translation>La dirección btcr a la cual enviar el pago</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4052,8 +4052,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Mensaje:</translation>
     </message>
     <message>
-        <source>A message that was attached to the btca: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the btca network.</source>
-        <translation>Un mensaje adjunto al btca: En recurso web especificado será guardado junto a la transacción para su referencia. Nota: Este mensaje no se enviará por la red btca.</translation>
+        <source>A message that was attached to the btcr: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the btcr network.</source>
+        <translation>Un mensaje adjunto al btcr: En recurso web especificado será guardado junto a la transacción para su referencia. Nota: Este mensaje no se enviará por la red btcr.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -4079,8 +4079,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>btca Core is shutting down...</source>
-        <translation>El programa btca se está cerrando...</translation>
+        <source>btcr Core is shutting down...</source>
+        <translation>El programa btcr se está cerrando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4102,8 +4102,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Usted puede firmar mensajes con su dirección para probar que son auténticos. Tenga cuidado con firmar algo corto o vago como "hola", pues los ataques de phising pueden engañarle para que firme su identidad para ellos. Sólo firme textos detallados con los que esté de acuerdo.</translation>
     </message>
     <message>
-        <source>The btca address to sign the message with</source>
-        <translation>La dirección btca con la que desee firmar el mensaje</translation>
+        <source>The btcr address to sign the message with</source>
+        <translation>La dirección btcr con la que desee firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4134,16 +4134,16 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this btca address</source>
-        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección btca</translation>
+        <source>Sign the message to prove you own this btcr address</source>
+        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección btcr</translation>
     </message>
     <message>
-        <source>The btca address the message was signed with</source>
-        <translation>La dirección btca con la que se firmó el mensaje</translation>
+        <source>The btcr address the message was signed with</source>
+        <translation>La dirección btcr con la que se firmó el mensaje</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified btca address</source>
-        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección btca especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified btcr address</source>
+        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección btcr especificada</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4229,8 +4229,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4245,8 +4245,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Los desarrolladores de Dash Core</translation>
     </message>
     <message>
-        <source>The btca Core developers</source>
-        <translation>Los desarrolladores de btca Core</translation>
+        <source>The btcr Core developers</source>
+        <translation>Los desarrolladores de btcr Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4525,12 +4525,12 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Recibido por medio de Ofuscación</translation>
     </message>
     <message>
-        <source>btca Stake</source>
-        <translation>Stake btca</translation>
+        <source>btcr Stake</source>
+        <translation>Stake btcr</translation>
     </message>
     <message>
-        <source>zbtca Stake</source>
-        <translation>Stake zbtca</translation>
+        <source>zbtcr Stake</source>
+        <translation>Stake zbtcr</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4549,32 +4549,32 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Ofuscación Crea Billetes</translation>
     </message>
     <message>
-        <source>Converted btca to zbtca</source>
-        <translation>btca convertidos a zbtca</translation>
+        <source>Converted btcr to zbtcr</source>
+        <translation>btcr convertidos a zbtcr</translation>
     </message>
     <message>
-        <source>Spent zbtca</source>
-        <translation>Gastar zbtca</translation>
+        <source>Spent zbtcr</source>
+        <translation>Gastar zbtcr</translation>
     </message>
     <message>
-        <source>Received btca from zbtca</source>
-        <translation>btca recibidos desde zbtca </translation>
+        <source>Received btcr from zbtcr</source>
+        <translation>btcr recibidos desde zbtcr </translation>
     </message>
     <message>
-        <source>Minted Change as zbtca from zbtca Spend</source>
-        <translation>Cambio de acuñación en zbtca al Gastar zbtca</translation>
+        <source>Minted Change as zbtcr from zbtcr Spend</source>
+        <translation>Cambio de acuñación en zbtcr al Gastar zbtcr</translation>
     </message>
     <message>
-        <source>Converted zbtca to btca</source>
-        <translation>zbtca convertidos a btca</translation>
+        <source>Converted zbtcr to btcr</source>
+        <translation>zbtcr convertidos a btcr</translation>
     </message>
     <message>
-        <source>Anonymous (zbtca Transaction)</source>
-        <translation>Anónimo (Transacción zbtca)</translation>
+        <source>Anonymous (zbtcr Transaction)</source>
+        <translation>Anónimo (Transacción zbtcr)</translation>
     </message>
     <message>
-        <source>Anonymous (zbtca Stake)</source>
-        <translation>Anónimo (Stake zbtca)</translation>
+        <source>Anonymous (zbtcr Stake)</source>
+        <translation>Anónimo (Stake zbtcr)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4784,12 +4784,12 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Exportación Correcta</translation>
     </message>
     <message>
-        <source>Received btca from zbtca</source>
-        <translation>btca recibidos desde zbtca</translation>
+        <source>Received btcr from zbtcr</source>
+        <translation>btcr recibidos desde zbtcr</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zbtca</source>
-        <translation>Gastar Zerocoin, Cambio en zbtca</translation>
+        <source>Zerocoin Spend, Change in zbtcr</source>
+        <translation>Gastar Zerocoin, Cambio en zbtcr</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4825,8 +4825,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Enviar Monedas</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 btca.</source>
-        <translation>SwiftTX no soporta el envío de importes tan altos todavía. Las transacciones están actualmente limitadas a %1 btca.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 btcr.</source>
+        <translation>SwiftTX no soporta el envío de importes tan altos todavía. Las transacciones están actualmente limitadas a %1 btcr.</translation>
     </message>
 </context>
 <context>
@@ -4857,10 +4857,10 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
 </context>
 <context>
-    <name>ZbtcaControlDialog</name>
+    <name>ZbtcrControlDialog</name>
     <message>
-        <source>Select zbtca to Spend</source>
-        <translation>Selecciona zbtca para Gastar</translation>
+        <source>Select zbtcr to Spend</source>
+        <translation>Selecciona zbtcr para Gastar</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4871,8 +4871,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4884,7 +4884,7 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
 </context>
 <context>
-    <name>btca-core</name>
+    <name>btcr-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1= mantener los metadatos tx p.e. dueño de la cuenta e información de la solicitud de pago, 2 = ignorar metadatos tx)</translation>
@@ -4910,8 +4910,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>El punto de chequeo del acumulador que hemos calculado no coincide con lo guardado en el índice de bloques</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. btca Core is probably already running.</source>
-        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. btca Core esta probablemente en ejecución.</translation>
+        <source>Cannot obtain a lock on data directory %s. btcr Core is probably already running.</source>
+        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. btcr Core esta probablemente en ejecución.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4938,16 +4938,16 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Distribuido bajo licencia MIT software license, ver el archivo adjunto COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;</translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zbtca minting (0-1, default: %u)</source>
-        <translation>Habilite copias de seguridad automáticas del monedero que se activan después de cada acuñación zbtca (0-1, predeterminado: %u)</translation>
+        <source>Enable automatic wallet backups triggered after each zbtcr minting (0-1, default: %u)</source>
+        <translation>Habilite copias de seguridad automáticas del monedero que se activan después de cada acuñación zbtcr (0-1, predeterminado: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for btca inputs (0-1, default: %u)</source>
-        <translation>Habilitar o deshabilitar la funcionalidad de staking para las entradas btca (0-1, predeterminado: %u)</translation>
+        <source>Enable or disable staking functionality for btcr inputs (0-1, default: %u)</source>
+        <translation>Habilitar o deshabilitar la funcionalidad de staking para las entradas btcr (0-1, predeterminado: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zbtca inputs (0-1, default: %u)</source>
-        <translation>Habilitar o deshabilitar la funcionalidad de staking para las entradas zbtca (0-1, predeterminado: %u)</translation>
+        <source>Enable or disable staking functionality for zbtcr inputs (0-1, default: %u)</source>
+        <translation>Habilitar o deshabilitar la funcionalidad de staking para las entradas zbtcr (0-1, predeterminado: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -4982,12 +4982,12 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Ejecutar comando cuando el mejor bloque cambie (%s en cmd es reemplazado por el block hash)</translation>
     </message>
     <message>
-        <source>Fees (in btca/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Comisiones (en btca/Kb) menores a esta son consideradas gratuitas para la propagación de la transacción (default: %s)</translation>
+        <source>Fees (in btcr/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Comisiones (en btcr/Kb) menores a esta son consideradas gratuitas para la propagación de la transacción (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in btca/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Comisiones (en btca/Kb) menores a esta son consideradas gratuitas para la creación de la transacción (default: %s)</translation>
+        <source>Fees (in btcr/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Comisiones (en btcr/Kb) menores a esta son consideradas gratuitas para la creación de la transacción (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5086,20 +5086,20 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Este producto incluye software desarrollado por el Proyecto OpenSSL para uso en OpenSSL Toolkit &lt;https://www.openssl.org/&gt; y software de cifrado escrito por Eric Young y software de UPnP escrito por Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. btca Core is probably already running.</source>
-        <translation>Imposible conectar a %s en esta computadora. Es probable que btca Core ya este corriendo.</translation>
+        <source>Unable to bind to %s on this computer. btcr Core is probably already running.</source>
+        <translation>Imposible conectar a %s en esta computadora. Es probable que btcr Core ya este corriendo.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Imposible localizar suficientes fondos denominados de Ofuscación para esta transacción.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 btca.</source>
-        <translation>Imposible localizar suficientes fondos no-denominados de Ofuscación para esta transacción que no es igual a 10000 btca.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 btcr.</source>
+        <translation>Imposible localizar suficientes fondos no-denominados de Ofuscación para esta transacción que no es igual a 10000 btcr.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 btca.</source>
-        <translation>Imposible localizar fondos suficientes para esta transacción que no es igual a 10000 btca.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 btcr.</source>
+        <translation>Imposible localizar fondos suficientes para esta transacción que no es igual a 10000 btcr.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5114,8 +5114,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Advertencia: -paytxfee esta muy alta! Esta es la comisión de transacción que pagarás si envías una transacción.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong btca Core will not work properly.</source>
-        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora btca Core no funcionará adecuadamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong btcr Core will not work properly.</source>
+        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora btcr Core no funcionará adecuadamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5266,8 +5266,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) %i The btca Core Developers</source>
-        <translation>Copyright (C) %i The btca Core Developers</translation>
+        <source>Copyright (C) %i The btcr Core Developers</source>
+        <translation>Copyright (C) %i The btcr Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5354,8 +5354,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Error al cargar wallet.dat: Monedero dañado</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of btca Core</source>
-        <translation>Error al cargar wallet.dat: El monedero requiere una nueva versión del btca Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of btcr Core</source>
+        <translation>Error al cargar wallet.dat: El monedero requiere una nueva versión del btcr Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5410,8 +5410,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Falló al leer el bloque</translation>
     </message>
     <message>
-        <source>Fee (in btca/kB) to add to transactions you send (default: %s)</source>
-        <translation>Comisión (en btca/kB) para agregar a la transacción que envías (predeterminado: %s)</translation>
+        <source>Fee (in btcr/kB) to add to transactions you send (default: %s)</source>
+        <translation>Comisión (en btcr/kB) para agregar a la transacción que envías (predeterminado: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -5470,8 +5470,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Información</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. btca Core is shutting down.</source>
-        <translation>La prueba de salud de inicialización ha fallado. btca Core se cerrará.</translation>
+        <source>Initialization sanity check failed. btcr Core is shutting down.</source>
+        <translation>La prueba de salud de inicialización ha fallado. btcr Core se cerrará.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5542,8 +5542,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Porcentaje de Zerocoin creadas automáticamente (10-100, por defecto: %u)</translation>
     </message>
     <message>
-        <source>Reindex the btca and zbtca money supply statistics</source>
-        <translation>Reindexar as estatísticas de fornecimento de dinheiro btca e zbtca</translation>
+        <source>Reindex the btcr and zbtcr money supply statistics</source>
+        <translation>Reindexar as estatísticas de fornecimento de dinheiro btcr e zbtcr</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5582,8 +5582,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
 </translation>
     </message>
     <message>
-        <source>Disable all btca specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Desabilitar toda la funcionalidad especifica btca (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, predeterminado: %u)</translation>
+        <source>Disable all btcr specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Desabilitar toda la funcionalidad especifica btcr (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, predeterminado: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -5618,8 +5618,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Denominación preferida para acuñado automatico de Zerocoin (1/5/10/50/100/500/1000/5000), 0 para ninguna preferencia. predeterminado: %u)</translation>
     </message>
     <message>
-        <source>Specify custom backup path to add a copy of any automatic zbtca backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Especifique la ruta de copia de seguridad personalizada para agregar una copia de cualquier copia de seguridad zbtca automática. Si se establece como directorio, cada copia de seguridad genera un archivo con marcas de tiempo. Si se establece como archivo, se reescribirá en ese archivo cada copia de seguridad. Si también se establece backuppath, se realizarán 4 copias de seguridad</translation>
+        <source>Specify custom backup path to add a copy of any automatic zbtcr backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Especifique la ruta de copia de seguridad personalizada para agregar una copia de cualquier copia de seguridad zbtcr automática. Si se establece como directorio, cada copia de seguridad genera un archivo con marcas de tiempo. Si se establece como archivo, se reescribirá en ese archivo cada copia de seguridad. Si también se establece backuppath, se realizarán 4 copias de seguridad</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
@@ -6118,8 +6118,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Sincronizando con la red... </translation>
     </message>
     <message>
-        <source>Syncing zbtca wallet...</source>
-        <translation>Sincronizando el monedero zbtca...</translation>
+        <source>Syncing zbtcr wallet...</source>
+        <translation>Sincronizando el monedero zbtcr...</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -6266,8 +6266,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Nombre de usuario para conexiones JSON-RPC</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zbtca</source>
-        <translation>El valor está por debajo de la denominación más pequeña disponible (= 1) de zbtca</translation>
+        <source>Value is below the smallest available denomination (= 1) of zbtcr</source>
+        <translation>El valor está por debajo de la denominación más pequeña disponible (= 1) de zbtcr</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -6282,8 +6282,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Verificando el monedero...</translation>
     </message>
     <message>
-        <source>Version 1 zbtca require a security level of 100 to successfully spend.</source>
-        <translation>La versión 1 zbtca requiere un nivel de seguridad de 100 para gastar exitosamente.</translation>
+        <source>Version 1 zbtcr require a security level of 100 to successfully spend.</source>
+        <translation>La versión 1 zbtcr requiere un nivel de seguridad de 100 para gastar exitosamente.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
@@ -6294,8 +6294,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Monedero bloqueado.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart btca Core to complete</source>
-        <translation>El Monedero necesita ser reescrito: reinicie btca Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart btcr Core to complete</source>
+        <translation>El Monedero necesita ser reescrito: reinicie btcr Core para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

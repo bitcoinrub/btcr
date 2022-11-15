@@ -19,14 +19,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "btca"
-            VALUE "FileDescription",    "btca Core (OSS GUI client for btca)"
+            VALUE "CompanyName",        "btcr"
+            VALUE "FileDescription",    "btcr Core (OSS GUI client for btcr)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "btca-qt"
+            VALUE "InternalName",       "btcr-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "btca-qt.exe"
-            VALUE "ProductName",        "btca Core"
+            VALUE "OriginalFilename",   "btcr-qt.exe"
+            VALUE "ProductName",        "btcr Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

@@ -1,10 +1,10 @@
 Sample configuration files for:
 
-SystemD: btcad.service
-Upstart: btcad.conf
-OpenRC:  btcad.openrc
-         btcad.openrcconf
-CentOS:  btcad.init
+SystemD: btcrd.service
+Upstart: btcrd.conf
+OpenRC:  btcrd.openrc
+         btcrd.openrcconf
+CentOS:  btcrd.init
 
 have been made available to assist packagers in creating node packages here.
 

@@ -1,6 +1,6 @@
 // Copyright (c) 2011-2013 The Bitcoin developers
 // Copyright (c) 2017 The PIVX developers
-// Copyright (c) 2020 The btca developers
+// Copyright (c) 2020 The btcr developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -61,7 +61,7 @@ private:
     CAmount currentWatchUnconfBalance;
     CAmount currentWatchImmatureBalance;
     int nDisplayUnit;
-    void getPercentage(CAmount nTotalBalance, CAmount nZerocoinBalance, QString& sbtcaPercentage, QString& szbtcaPercentage);
+    void getPercentage(CAmount nTotalBalance, CAmount nZerocoinBalance, QString& sbtcrPercentage, QString& szbtcrPercentage);
 
     TxViewDelegate* txdelegate;
     TransactionFilterProxy* filter;

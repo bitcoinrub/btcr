@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef btca_INVALID_OUTPOINTS_JSON_H
-#define btca_INVALID_OUTPOINTS_JSON_H
+#ifndef btcr_INVALID_OUTPOINTS_JSON_H
+#define btcr_INVALID_OUTPOINTS_JSON_H
 #include <string>
 
 std::string LoadInvalidOutPoints()
@@ -12,4 +12,4 @@ std::string LoadInvalidOutPoints()
     return str;
 }
 
-#endif //btca_INVALID_OUTPOINTS_JSON_H
+#endif //btcr_INVALID_OUTPOINTS_JSON_H

@@ -62,12 +62,12 @@
         <translation>Ontvangstadressen</translation>
     </message>
     <message>
-        <source>These are your btca addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw btca adressen om betalingen mee te verzenden. Controleer altijd zowel het bedrag als het ontvangstadres voor het verzenden van geld.</translation>
+        <source>These are your btcr addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw btcr adressen om betalingen mee te verzenden. Controleer altijd zowel het bedrag als het ontvangstadres voor het verzenden van geld.</translation>
     </message>
     <message>
-        <source>These are your btca addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dit zijn uw btca adressen waarop betalingen kunnen worden ontvangen. Het wordt aangeraden om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
+        <source>These are your btcr addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dit zijn uw btcr adressen waarop betalingen kunnen worden ontvangen. Het wordt aangeraden om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Bevestig versleuteling van de portemonnee</translation>
     </message>
     <message>
-        <source>btca will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcas from being stolen by malware infecting your computer.</source>
-        <translation>btca zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen tegen malware infecties op uw computer die uw btca's kunnen stelen.</translation>
+        <source>btcr will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcrs from being stolen by malware infecting your computer.</source>
+        <translation>btcr zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen tegen malware infecties op uw computer die uw btcr's kunnen stelen.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Weet u zeker dat u uw portemonnee wilt versleutelen?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btca&lt;/b&gt;!</source>
-        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW btca VERLIEZEN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btcr&lt;/b&gt;!</source>
+        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW btcr VERLIEZEN&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adres:</translation>
     </message>
     <message>
-        <source>Enter a btca Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Voer een btca adres in dat u wilt coderen met BIP 38. Voer een wachtwoordzin in in het middelste vak. Druk op versleutelen om de versleutelde privé sleutel te berekenen.</translation>
+        <source>Enter a btcr Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Voer een btcr adres in dat u wilt coderen met BIP 38. Voer een wachtwoordzin in in het middelste vak. Druk op versleutelen om de versleutelde privé sleutel te berekenen.</translation>
     </message>
     <message>
-        <source>The btca address to encrypt</source>
-        <translation>Het btca adres om te versleutelen</translation>
+        <source>The btcr address to encrypt</source>
+        <translation>Het btcr adres om te versleutelen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopieer de huidige handtekening naar het systeemklembord</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this btca address</source>
-        <translation>Versleutel de privé sleutel voor dit btca adres</translation>
+        <source>Encrypt the private key for this btcr address</source>
+        <translation>Versleutel de privé sleutel voor dit btcr adres</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>Blader door transactiegescheidenis</translation>
     </message>
     <message>
-        <source>Privacy Actions for zbtca</source>
-        <translation>Privacy Acties voor zbtca</translation>
+        <source>Privacy Actions for zbtcr</source>
+        <translation>Privacy Acties voor zbtcr</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -645,16 +645,16 @@
         <translation>Tabblad werkbalk</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
-        <source>Send coins to a btca address</source>
-        <translation>Verstuur munten naar een btca adres</translation>
+        <source>Send coins to a btcr address</source>
+        <translation>Verstuur munten naar een btcr adres</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and btca: URIs)</source>
-        <translation>Vraag betaling aan (genereert QR codes en btca: URI's)</translation>
+        <source>Request payments (generates QR codes and btcr: URIs)</source>
+        <translation>Vraag betaling aan (genereert QR codes en btcr: URI's)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Bekijk masternodes</translation>
     </message>
     <message>
-        <source>&amp;About btca Core</source>
-        <translation>&amp;Over btca Core</translation>
+        <source>&amp;About btcr Core</source>
+        <translation>&amp;Over btcr Core</translation>
     </message>
     <message>
-        <source>Show information about btca Core</source>
-        <translation>Toon informatie over btca Kern</translation>
+        <source>Show information about btcr Core</source>
+        <translation>Toon informatie over btcr Kern</translation>
     </message>
     <message>
-        <source>Modify configuration options for btca</source>
-        <translation>Wijzig btca configuratie opties</translation>
+        <source>Modify configuration options for btcr</source>
+        <translation>Wijzig btcr configuratie opties</translation>
     </message>
     <message>
-        <source>Sign messages with your btca addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw btca adressen om te bewijzen dat deze adressen in uw bezit zijn</translation>
+        <source>Sign messages with your btcr addresses to prove you own them</source>
+        <translation>Onderteken berichten met uw btcr adressen om te bewijzen dat deze adressen in uw bezit zijn</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified btca addresses</source>
-        <translation>Controleer berichten om te verzekeren dat deze ondertekend zijn met de gespecificeerde btca adressen</translation>
+        <source>Verify messages to ensure they were signed with specified btcr addresses</source>
+        <translation>Controleer berichten om te verzekeren dat deze ondertekend zijn met de gespecificeerde btcr adressen</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Open Masternode configuratiebestand</translation>
     </message>
     <message>
-        <source>Open a btca: URI or payment request</source>
-        <translation>Open een btca: URI of betaalverzoek</translation>
+        <source>Open a btcr: URI or payment request</source>
+        <translation>Open een btcr: URI of betaalverzoek</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Block verkenner venster</translation>
     </message>
     <message>
-        <source>Show the btca Core help message to get a list with possible btca command-line options</source>
-        <translation>Toon het btca Core help bericht om een ​​lijst te krijgen met mogelijke btca command line opties</translation>
+        <source>Show the btcr Core help message to get a list with possible btcr command-line options</source>
+        <translation>Toon het btcr Core help bericht om een ​​lijst te krijgen met mogelijke btcr command line opties</translation>
     </message>
     <message>
-        <source>btca Core client</source>
-        <translation>btca Core client</translation>
+        <source>btcr Core client</source>
+        <translation>btcr Core client</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to btca network</source>
-        <translation><numerusform>%n actieve verbindingen met het btca netwerk</numerusform><numerusform>%n actieve connectie(s) naar btca netwerk</numerusform></translation>
+        <source>%n active connection(s) to btcr network</source>
+        <translation><numerusform>%n actieve verbindingen met het btcr netwerk</numerusform><numerusform>%n actieve connectie(s) naar btcr netwerk</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ MultiSend: %1</translation>
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btca.conf).</source>
-        <translation>Niet alle transacties zullen worden getoond. Om alle transacties te bekijken moet u txindex=1 instellen in het configuratie bestand (btca.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btcr.conf).</source>
+        <translation>Niet alle transacties zullen worden getoond. Om alle transacties te bekijken moet u txindex=1 instellen in het configuratie bestand (btcr.conf).</translation>
     </message>
 </context>
 <context>
@@ -1130,8 +1130,8 @@ MultiSend: %1</translation>
         <translation>Dit label wordt rood, als een ontvanger een hoeveelheid kleiner dan %1 ontvangt.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 ubtca per input.</source>
-        <translation>Kan +/-%1 ubtca per invoer variëren.</translation>
+        <source>Can vary +/- %1 ubtcr per input.</source>
+        <translation>Kan +/-%1 ubtcr per invoer variëren.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1185,8 +1185,8 @@ MultiSend: %1</translation>
         <translation>Wijzig verzend adres</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid btca address.</source>
-        <translation>Het ingevoerde adres: "%1" is geen geldig btca adres.</translation>
+        <source>The entered address "%1" is not a valid btcr address.</source>
+        <translation>Het ingevoerde adres: "%1" is geen geldig btcr adres.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ MultiSend: %1</translation>
         <translation>versie</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About btca Core</source>
-        <translation>Over btca Core</translation>
+        <source>About btcr Core</source>
+        <translation>Over btcr Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ MultiSend: %1</translation>
         <translation>Welkom</translation>
     </message>
     <message>
-        <source>Welcome to btca Core.</source>
-        <translation>Welkom bij btca Core.</translation>
+        <source>Welcome to btcr Core.</source>
+        <translation>Welkom bij btcr Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where btca Core will store its data.</source>
-        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar btca Core zijn data opslaat.</translation>
+        <source>As this is the first time the program is launched, you can choose where btcr Core will store its data.</source>
+        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar btcr Core zijn data opslaat.</translation>
     </message>
     <message>
-        <source>btca Core will download and store a copy of the btca block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>btca Core zal een kopie van de btca blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee zal ook in deze map worden opgeslagen.</translation>
+        <source>btcr Core will download and store a copy of the btcr block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>btcr Core zal een kopie van de btcr blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee zal ook in deze map worden opgeslagen.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ MultiSend: %1</translation>
         <translation>Gebruik een aangepaste data directory:</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ MultiSend: %1</translation>
         <translation>Vul het adres in om naar te verzenden</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btca addresses after it matures.
-To Add: enter percentage to give and btca address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btcr addresses after it matures.
+To Add: enter percentage to give and btcr address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend stelt je in staat om automatisch tot 100% van uw stake of masternode beloning automatisch te verzenden naar een lijst van andere btca adressen nadat het volwassen is. 
-Toevoegen: voer het te geven percentage in en btca adres om toe te voegen aan de MultiSend vector.
+        <translation>MultiSend stelt je in staat om automatisch tot 100% van uw stake of masternode beloning automatisch te verzenden naar een lijst van andere btcr adressen nadat het volwassen is. 
+Toevoegen: voer het te geven percentage in en btcr adres om toe te voegen aan de MultiSend vector.
 Verwijderen: Voer adres in om te verwijderen en druk op delete.
 MultiSend zal niet worden geactiveerd tenzij je op Activeer hebt geklikt</translation>
     </message>
@@ -1681,8 +1681,8 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Adres / Bedrag:</translation>
     </message>
     <message>
-        <source>Add destinations to send btca to</source>
-        <translation>Voeg bestemmingen toe om btca naar te verzenden</translation>
+        <source>Add destinations to send btcr to</source>
+        <translation>Voeg bestemmingen toe om btcr naar te verzenden</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1780,48 +1780,48 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Selecteer de privacy level.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Gebruik 2 aparte masternodes om fondsen te mixen tot 10000 btca</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Gebruik 2 aparte masternodes om fondsen te mixen tot 10000 btcr</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Gebruik 8 aparte masternodes om fondsen te mixen tot 10000 btca</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Gebruik 8 aparte masternodes om fondsen te mixen tot 10000 btcr</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Gebruik 16 aparte masternodes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 btca to anonymize 10000 btca</source>
-        <translation>Deze optie is het snelst en kost ongeveer ~0,025 btca om 10000 btca te anonimiseren</translation>
+        <source>This option is the quickest and will cost about ~0.025 btcr to anonymize 10000 btcr</source>
+        <translation>Deze optie is het snelst en kost ongeveer ~0,025 btcr om 10000 btcr te anonimiseren</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 btca to anonymize 10000 btca</source>
-        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 btca om 10000 btca te anonimiseren</translation>
+        <source>This option is moderately fast and will cost about 0.05 btcr to anonymize 10000 btcr</source>
+        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 btcr om 10000 btcr te anonimiseren</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Dit is de langzaamste en veiligste optie. Het gebruik van maximale anonimiteit kost</translation>
     </message>
     <message>
-        <source>0.1 btca per 10000 btca you anonymize.</source>
-        <translation>je anonimiseert 0,1 btca per 10000 btca.</translation>
+        <source>0.1 btcr per 10000 btcr you anonymize.</source>
+        <translation>je anonimiseert 0,1 btcr per 10000 btcr.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Verduistering configuratie</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op basic (%1 en 2 rondes). Je kunt dit op elk gewenst moment wijzigen door het configuratiescherm van btca te openen.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op basic (%1 en 2 rondes). Je kunt dit op elk gewenst moment wijzigen door het configuratiescherm van btcr te openen.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 8 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van btca te openen.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 8 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van btcr te openen.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 16 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van btca te openen.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 16 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van btcr te openen.</translation>
     </message>
 </context>
 <context>
@@ -1882,8 +1882,8 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Als je de uitgaven van onbevestigde wijzigingen uitschakelt, de wijziging van een transactie&lt;br/&gt;kan niet worden gebruikt tot die transactie tenminste één bevestiging heeft.&lt;br/&gt;Dit beïnvloedt ook hoe uw saldo is berekend.</translation>
     </message>
     <message>
-        <source>Automatically open the btca client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de btca client poort automatisch op de router. Dit werkt alleen als je router UPnP ondersteunt en het is ingeschakeld.</translation>
+        <source>Automatically open the btcr client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de btcr client poort automatisch op de router. Dit werkt alleen als je router UPnP ondersteunt en het is ingeschakeld.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1902,12 +1902,12 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start btca after logging in to the system.</source>
-        <translation>btca automatisch opstarten na inloggen op het systeem.</translation>
+        <source>Automatically start btcr after logging in to the system.</source>
+        <translation>btcr automatisch opstarten na inloggen op het systeem.</translation>
     </message>
     <message>
-        <source>&amp;Start btca on system login</source>
-        <translation>&amp;btca starten bij systeemlogin</translation>
+        <source>&amp;Start btcr on system login</source>
+        <translation>&amp;btcr starten bij systeemlogin</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1934,50 +1934,50 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>&amp;Netwerk</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting btca.</source>
-        <translation>De gebruikersinterface taal kan hier ingesteld worden. Deze instelling zal uitgevoerd na herstart van btca.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting btcr.</source>
+        <translation>De gebruikersinterface taal kan hier ingesteld worden. Deze instelling zal uitgevoerd na herstart van btcr.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/btca/btca-translations</source>
+https://www.transifex.com/btcr/btcr-translations</source>
         <translation>Taal ontbreekt of vertaling onvolledig? Help om bij te dragen aan vertalingen:
-https://www.transifex.com/btca/btca-translations</translation>
+https://www.transifex.com/btcr/btcr-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Map poort gebruikt &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of btca units to zbtca</source>
-        <translation>Schakel automatisch slaan van btca-eenheden in op zbtca</translation>
+        <source>Enable automatic minting of btcr units to zbtcr</source>
+        <translation>Schakel automatisch slaan van btcr-eenheden in op zbtcr</translation>
     </message>
     <message>
-        <source>Enable zbtca Automint</source>
-        <translation>Schakel zbtca Automint in</translation>
+        <source>Enable zbtcr Automint</source>
+        <translation>Schakel zbtcr Automint in</translation>
     </message>
     <message>
-        <source>Percentage of incoming btca which get automatically converted to zbtca via Zerocoin Protocol (min: 10%)</source>
-        <translation>Percentage inkomende btca die automatisch wordt omgezet naar zbtca via Zerocoin Protocol (min: 10%)</translation>
+        <source>Percentage of incoming btcr which get automatically converted to zbtcr via Zerocoin Protocol (min: 10%)</source>
+        <translation>Percentage inkomende btcr die automatisch wordt omgezet naar zbtcr via Zerocoin Protocol (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zbtca</source>
-        <translation>Percentage autominted zbtca</translation>
+        <source>Percentage of autominted zbtcr</source>
+        <translation>Percentage autominted zbtcr</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough btca for this denomination is available</source>
-        <translation>Wacht met automatische omzetting naar Zerocoin totdat er genoeg btca voor deze denominatie beschikbaar is</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough btcr for this denomination is available</source>
+        <translation>Wacht met automatische omzetting naar Zerocoin totdat er genoeg btcr voor deze denominatie beschikbaar is</translation>
     </message>
     <message>
-        <source>Preferred Automint zbtca Denomination</source>
-        <translation>Gewenste Automint zbtca denominatie</translation>
+        <source>Preferred Automint zbtcr Denomination</source>
+        <translation>Gewenste Automint zbtcr denominatie</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
         <translation>Inzet splitdrempel:</translation>
     </message>
     <message>
-        <source>Connect to the btca network through a SOCKS5 proxy.</source>
-        <translation>Maak verbinding met het btca netwerk via een SOCKS5 proxy.</translation>
+        <source>Connect to the btcr network through a SOCKS5 proxy.</source>
+        <translation>Maak verbinding met het btcr netwerk via een SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2131,8 +2131,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Totaal saldo, inclusief alle niet-beschikbare munten.</translation>
     </message>
     <message>
-        <source>btca Balance</source>
-        <translation>btca Saldi</translation>
+        <source>btcr Balance</source>
+        <translation>btcr Saldi</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2155,16 +2155,16 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Huidige vergrendelde balans in alleen-lezen-adressen</translation>
     </message>
     <message>
-        <source>Your current btca balance, unconfirmed and immature transactions included</source>
-        <translation>Uw huidige btca-saldo, onbevestigde en onvolgroeide transacties inbegrepen</translation>
+        <source>Your current btcr balance, unconfirmed and immature transactions included</source>
+        <translation>Uw huidige btcr-saldo, onbevestigde en onvolgroeide transacties inbegrepen</translation>
     </message>
     <message>
-        <source>zbtca Balance</source>
-        <translation>zbtca-saldo</translation>
+        <source>zbtcr Balance</source>
+        <translation>zbtcr-saldo</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zbtca are spendable.</source>
+These zbtcr are spendable.</source>
         <translation>Volwassen: meer dan 20 bevestigingen en meer dan 1 mint van dezelfde denominatie nadat het gemint was.
 Deze zPIB zijn besteedbaar.</translation>
     </message>
@@ -2175,8 +2175,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat het gemint was.</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het btca netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het btcr netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2219,8 +2219,8 @@ Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat he
         <translation>Uitgeefbaar:</translation>
     </message>
     <message>
-        <source>Locked btca or Masternode collaterals. These are excluded from zbtca minting.</source>
-        <translation>Vergrendelde btca of Masternode onderpanden. Deze zijn uitgesloten van de zbtca muntage.</translation>
+        <source>Locked btcr or Masternode collaterals. These are excluded from zbtcr minting.</source>
+        <translation>Vergrendelde btcr of Masternode onderpanden. Deze zijn uitgesloten van de zbtcr muntage.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2231,8 +2231,8 @@ Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat he
         <translation>Onbevestigd:</translation>
     </message>
     <message>
-        <source>Your current zbtca balance, unconfirmed and immature zbtca included.</source>
-        <translation>Uw huidige zbtca-saldo, onbevestigde en onvolgroeide zbtca inbegrepen.</translation>
+        <source>Your current zbtcr balance, unconfirmed and immature zbtcr included.</source>
+        <translation>Uw huidige zbtcr-saldo, onbevestigde en onvolgroeide zbtcr inbegrepen.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2243,10 +2243,10 @@ Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat he
         <translation>niet gesynchroniseerd</translation>
     </message>
     <message>
-        <source>Current percentage of zbtca.
+        <source>Current percentage of zbtcr.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Huidige percentage van zbtca
+        <translation>Huidige percentage van zbtcr
 Als AutoMint ingeschakeld is zal deze percentage afhangen van de geconfigureerde AutoMint percentage (standaard = 10%).
 </translation>
     </message>
@@ -2255,14 +2255,14 @@ Als AutoMint ingeschakeld is zal deze percentage afhangen van de geconfigureerde
         <translation>AutoMint is momenteel ingeschakeld en ingesteld op</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in btca.conf.</source>
-        <translation>Om AutoMint uit te schakelen, voeg je 'enablezeromint=0' toe aan btca.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in btcr.conf.</source>
+        <translation>Om AutoMint uit te schakelen, voeg je 'enablezeromint=0' toe aan btcr.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btca.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btcr.conf</source>
         <translation>AutoMint is momenteel uitgeschakeld.
-Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint=1' in btca.conf</translation>
+Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint=1' in btcr.conf</translation>
     </message>
 </context>
 <context>
@@ -2288,12 +2288,12 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Ongeldig betalingsadres %1</translation>
     </message>
     <message>
-        <source>Cannot start btca: click-to-pay handler</source>
-        <translation>Kan btca niet starten: click-to-pay handler</translation>
+        <source>Cannot start btcr: click-to-pay handler</source>
+        <translation>Kan btcr niet starten: click-to-pay handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid btca address or malformed URI parameters.</source>
-        <translation>URL kan niet ontleed worden! Dit kan worden veroorzaakt door een ongeldig btca adres of misvormde URL parameters.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid btcr address or malformed URI parameters.</source>
+        <translation>URL kan niet ontleed worden! Dit kan worden veroorzaakt door een ongeldig btcr adres of misvormde URL parameters.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2378,8 +2378,8 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Zerocoin Acties:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het btca netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het btcr netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2390,8 +2390,8 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2402,8 +2402,8 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Beschikbaar voor minting:</translation>
     </message>
     <message>
-        <source>0.000 000 00 btca</source>
-        <translation>0.000 000 00 btca</translation>
+        <source>0.000 000 00 btcr</source>
+        <translation>0.000 000 00 btcr</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2442,16 +2442,16 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>PRIVACY</translation>
     </message>
     <message>
-        <source>Enter an amount of btca to convert to zbtca</source>
-        <translation>Vul het aantal btca in om te converteren naar zbtca</translation>
+        <source>Enter an amount of btcr to convert to zbtcr</source>
+        <translation>Vul het aantal btcr in om te converteren naar zbtcr</translation>
     </message>
     <message>
-        <source>zbtca Control</source>
-        <translation>zbtca Control</translation>
+        <source>zbtcr Control</source>
+        <translation>zbtcr Control</translation>
     </message>
     <message>
-        <source>zbtca Selected:</source>
-        <translation>zbtca geselecteerd:</translation>
+        <source>zbtcr Selected:</source>
+        <translation>zbtcr geselecteerd:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2466,24 +2466,24 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Besteed Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zbtca for spending</source>
-        <translation>Beschikbare (volwassen en uitgeefbaar) zbtca voor besteding</translation>
+        <source>Available (mature and spendable) zbtcr for spending</source>
+        <translation>Beschikbare (volwassen en uitgeefbaar) zbtcr voor besteding</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Beschikbaar saldo:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zbtca for spending
+        <source>Available (mature and spendable) zbtcr for spending
 
-zbtca are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Beschikbare (volwwassen en uitgeefbaar) zbtca voor besteding
+zbtcr are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Beschikbare (volwwassen en uitgeefbaar) zbtcr voor besteding
 
-zbtca zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 muntages van dezelfde denominaties nadat zij gemunt zijn.</translation>
+zbtcr zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 muntages van dezelfde denominaties nadat zij gemunt zijn.</translation>
     </message>
     <message>
-        <source>0 zbtca</source>
-        <translation>0 zbtca</translation>
+        <source>0 zbtcr</source>
+        <translation>0 zbtcr</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2502,8 +2502,8 @@ zbtca zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 
         <translation>Betaal &amp;Naar:</translation>
     </message>
     <message>
-        <source>The btca address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Het btca adres om de betaling naar te verzenden. Maakt lokale betaling aan jezelf als je leeg bent.</translation>
+        <source>The btcr address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>Het btcr adres om de betaling naar te verzenden. Maakt lokale betaling aan jezelf als je leeg bent.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2554,8 +2554,8 @@ zbtca zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 
         <translation>Zerocoin Statistieken:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zbtca</source>
-        <translation>Totale Saldi, inclusief onbevestigde en onvolwassen zbtca</translation>
+        <source>Total Balance including unconfirmed and immature zbtcr</source>
+        <translation>Totale Saldi, inclusief onbevestigde en onvolwassen zbtcr</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2576,24 +2576,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat het gemint was.</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zbtca minting.
+        <source>Show the current status of automatic zbtcr minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to btca.conf
-- disable: add 'enablezeromint=0' to btca.conf
+- enable: add 'enablezeromint=1' to btcr.conf
+- disable: add 'enablezeromint=0' to btcr.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zbtca
+- menu Settings-&gt;Options-&gt;Percentage of autominted zbtcr
 
 </source>
-        <translation>Toon de huidige status van automatische zbtca-markering.
+        <translation>Toon de huidige status van automatische zbtcr-markering.
 
 Om de status te wijzigen (opnieuw opstarten vereist): 
-- enable: voeg 'enablezeromint = 1' toe aan btca.conf
-- uitschakelen: voeg 'enablezeromint = 0' toe aan btca.conf
+- enable: voeg 'enablezeromint = 1' toe aan btcr.conf
+- uitschakelen: voeg 'enablezeromint = 0' toe aan btcr.conf
 
 Om het percentage te wijzigen (geen herstart vereist): 
-- menu Instellingen-&gt; Opties-&gt; Percentage van geautomatiseerde zbtca
+- menu Instellingen-&gt; Opties-&gt; Percentage van geautomatiseerde zbtcr
 </translation>
     </message>
     <message>
@@ -2789,12 +2789,12 @@ Maximum allowed: </source>
 Maximaal toegestaan:</translation>
     </message>
     <message>
-        <source>zbtca Spend #: </source>
-        <translation>zbtca besteed #:</translation>
+        <source>zbtcr Spend #: </source>
+        <translation>zbtcr besteed #:</translation>
     </message>
     <message>
-        <source>zbtca Mint</source>
-        <translation>zbtca mint</translation>
+        <source>zbtcr Mint</source>
+        <translation>zbtcr mint</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2809,12 +2809,12 @@ Maximaal toegestaan:</translation>
         <translation>Geconfigureerd doelpercentage:&lt;b&gt;</translation>
     </message>
     <message>
-        <source>zbtca is currently disabled due to maintenance.</source>
-        <translation>zbtca is momenteel uitgeschakeld vanwege onderhoud.</translation>
+        <source>zbtcr is currently disabled due to maintenance.</source>
+        <translation>zbtcr is momenteel uitgeschakeld vanwege onderhoud.</translation>
     </message>
     <message>
-        <source>zbtca is currently undergoing maintenance.</source>
-        <translation>zbtca wordt momenteel onderhouden.</translation>
+        <source>zbtcr is currently undergoing maintenance.</source>
+        <translation>zbtcr wordt momenteel onderhouden.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2901,8 +2901,8 @@ Maximaal toegestaan:</translation>
         <translation>Succesvol gemint</translation>
     </message>
     <message>
-        <source> zbtca in </source>
-        <translation> zbtca in </translation>
+        <source> zbtcr in </source>
+        <translation> zbtcr in </translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2929,8 +2929,8 @@ Maximaal toegestaan:</translation>
         <translation>Geen 'Betaal aan' adres verstrekt, lokale betaling wordt gemaakt</translation>
     </message>
     <message>
-        <source>Invalid btca Address</source>
-        <translation>Ongeldig btca addres</translation>
+        <source>Invalid btcr Address</source>
+        <translation>Ongeldig btcr addres</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2961,12 +2961,12 @@ Maximaal toegestaan:</translation>
         <translation>Bevestig verzending coins</translation>
     </message>
     <message>
-        <source>Version 1 zbtca require a security level of 100 to successfully spend.</source>
-        <translation>Versie 1 zbtca vereist een beveiligingsniveau van 100 om succesvol te besteden.</translation>
+        <source>Version 1 zbtcr require a security level of 100 to successfully spend.</source>
+        <translation>Versie 1 zbtcr vereist een beveiligingsniveau van 100 om succesvol te besteden.</translation>
     </message>
     <message>
-        <source>Failed to spend zbtca</source>
-        <translation>Mislukt om zbtca te besteden.</translation>
+        <source>Failed to spend zbtcr</source>
+        <translation>Mislukt om zbtcr te besteden.</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2988,7 +2988,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of btca to convert to zbtca</comment>
+        <comment>Enter an amount of btcr to convert to zbtcr</comment>
         <translation><numerusform>PrivacyDialoog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3031,8 +3031,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Hoeveelheid</translation>
     </message>
     <message>
-        <source>Enter a btca address (e.g. %1)</source>
-        <translation>Voer een btca adres in (b.v. %1)</translation>
+        <source>Enter a btcr address (e.g. %1)</source>
+        <translation>Voer een btcr adres in (b.v. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3169,8 +3169,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Blockchain</translation>
     </message>
     <message>
-        <source>Open the btca debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het btca debug log bestand uit de huidige data directory. Dit kan enkele seconden duren voor grote logbestanden.</translation>
+        <source>Open the btcr debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het btcr debug log bestand uit de huidige data directory. Dit kan enkele seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3305,8 +3305,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Aangepast back-up pad:</translation>
     </message>
     <message>
-        <source>Custom zbtca Backup Path:</source>
-        <translation>Aangepast zbtca back-up pad:</translation>
+        <source>Custom zbtcr Backup Path:</source>
+        <translation>Aangepast zbtcr back-up pad:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
@@ -3385,8 +3385,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Uit:</translation>
     </message>
     <message>
-        <source>Welcome to the btca RPC console.</source>
-        <translation>Welkom bij de btca RPC console.</translation>
+        <source>Welcome to the btcr RPC console.</source>
+        <translation>Welkom bij de btcr RPC console.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3512,16 +3512,16 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Een optioneel label om te associëren met het nieuwe ontvangstadres.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the btca network.</source>
-        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend. Opmerking: het bericht wordt niet verzonden met de betaling via het btca netwerk.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the btcr network.</source>
+        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend. Opmerking: het bericht wordt niet verzonden met de betaling via het btcr netwerk.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>ontvangen</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the btca network.</source>
-        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend.&lt;br&gt;Opmerking: het bericht wordt niet verzonden met de betaling via het btca netwerk.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the btcr network.</source>
+        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend.&lt;br&gt;Opmerking: het bericht wordt niet verzonden met de betaling via het btcr netwerk.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3749,8 +3749,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>UTXO grootte:</translation>
     </message>
     <message>
-        <source>0 btca</source>
-        <translation>0 btca</translation>
+        <source>0 btcr</source>
+        <translation>0 btcr</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3805,16 +3805,16 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Munten automatisch geselecteerd</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 ubtcas and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcas in fee,&lt;br /&gt;while "at least" pays 1000 ubtcas. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 ubtcas en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 ubtca's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 ubtca's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 ubtcrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcrs in fee,&lt;br /&gt;while "at least" pays 1000 ubtcrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 ubtcrs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 ubtcr's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 ubtcr's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 ubtcas and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcas in fee,&lt;br /&gt;while "total at least" pays 1000 ubtcas. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 ubtcas en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 ubtca's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 ubtca's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 ubtcrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcrs in fee,&lt;br /&gt;while "total at least" pays 1000 ubtcrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 ubtcrs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 ubtcr's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 ubtcr's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for btca transactions than the network can process.</source>
-        <translation>Alleen de minimale vergoeding betalen is prima, zolang er minder transactie volume is dan ruimte in de blokken. &lt;br /&gt;Maar wees ervan bewust dat dit kan leiden tot een nooit bevestigende transactie wanneer er meer vraag is naar btca transacties dan het netwerk kan verwerken.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for btcr transactions than the network can process.</source>
+        <translation>Alleen de minimale vergoeding betalen is prima, zolang er minder transactie volume is dan ruimte in de blokken. &lt;br /&gt;Maar wees ervan bewust dat dit kan leiden tot een nooit bevestigende transactie wanneer er meer vraag is naar btcr transacties dan het netwerk kan verwerken.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3861,8 +3861,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Voeg &amp;ontvanger toe</translation>
     </message>
     <message>
-        <source>Anonymized btca</source>
-        <translation>Geanonimiseerde btca</translation>
+        <source>Anonymized btcr</source>
+        <translation>Geanonimiseerde btcr</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3909,8 +3909,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Het split block tool werkt niet met meerdere adressen. Probeer het nog eens.</translation>
     </message>
     <message>
-        <source>Warning: Invalid btca address</source>
-        <translation>Waarschuwing: Ongeldig btca adres</translation>
+        <source>Warning: Invalid btcr address</source>
+        <translation>Waarschuwing: Ongeldig btcr adres</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4012,8 +4012,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Betaal &amp;Naar:</translation>
     </message>
     <message>
-        <source>The btca address to send the payment to</source>
-        <translation>Het btca adres om de betaling naar te verzenden</translation>
+        <source>The btcr address to send the payment to</source>
+        <translation>Het btcr adres om de betaling naar te verzenden</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4052,8 +4052,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Bericht:</translation>
     </message>
     <message>
-        <source>A message that was attached to the btca: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the btca network.</source>
-        <translation>Een bericht dat is gehecht aan de btca: URI die bij de transactie wordt opgeslagen voor uw referentie. Opmerking: dit bericht wordt niet verzonden via het btca netwerk.</translation>
+        <source>A message that was attached to the btcr: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the btcr network.</source>
+        <translation>Een bericht dat is gehecht aan de btcr: URI die bij de transactie wordt opgeslagen voor uw referentie. Opmerking: dit bericht wordt niet verzonden via het btcr netwerk.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -4079,8 +4079,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>btca Core is shutting down...</source>
-        <translation>btca Core is aan het afsluiten...</translation>
+        <source>btcr Core is shutting down...</source>
+        <translation>btcr Core is aan het afsluiten...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4102,8 +4102,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Je kunt berichten met je adressen ondertekenen om te bewijzen dat je ze bezit. Wees voorzichtig om niets vaags te ondertekenen, omdat phishing aanvallen je misschien kunnen proberen om je identiteit over te geven. Teken alleen volledig gedetailleerde verklaringen aan waar je mee akkoord gaat.</translation>
     </message>
     <message>
-        <source>The btca address to sign the message with</source>
-        <translation>Het btca adres om het bericht met te ondertekenen</translation>
+        <source>The btcr address to sign the message with</source>
+        <translation>Het btcr adres om het bericht met te ondertekenen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4134,16 +4134,16 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Kopieer de huidige handtekening naar het systeemklembord</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this btca address</source>
-        <translation>Onderteken het bericht om te bewijzen dat u het btca adres bezit</translation>
+        <source>Sign the message to prove you own this btcr address</source>
+        <translation>Onderteken het bericht om te bewijzen dat u het btcr adres bezit</translation>
     </message>
     <message>
-        <source>The btca address the message was signed with</source>
-        <translation>Het btca adres waarmee het bericht was ondertekend</translation>
+        <source>The btcr address the message was signed with</source>
+        <translation>Het btcr adres waarmee het bericht was ondertekend</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified btca address</source>
-        <translation>Controleer een bericht om te verifiëren dat het ondertekend is door het gespecificeerde btca adres</translation>
+        <source>Verify the message to ensure it was signed with the specified btcr address</source>
+        <translation>Controleer een bericht om te verifiëren dat het ondertekend is door het gespecificeerde btcr adres</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4229,8 +4229,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Kern</translation>
+        <source>btcr Core</source>
+        <translation>btcr Kern</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4245,8 +4245,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>De Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>The btca Core developers</source>
-        <translation>De btca Kernontwikkelaars</translation>
+        <source>The btcr Core developers</source>
+        <translation>De btcr Kernontwikkelaars</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4525,12 +4525,12 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Verkregen via verduistering</translation>
     </message>
     <message>
-        <source>btca Stake</source>
-        <translation>btca Stake</translation>
+        <source>btcr Stake</source>
+        <translation>btcr Stake</translation>
     </message>
     <message>
-        <source>zbtca Stake</source>
-        <translation>zbtca Stake</translation>
+        <source>zbtcr Stake</source>
+        <translation>zbtcr Stake</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4549,32 +4549,32 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Verduistering creëert denominaties</translation>
     </message>
     <message>
-        <source>Converted btca to zbtca</source>
-        <translation>Geconverteerde btca naar zbtca</translation>
+        <source>Converted btcr to zbtcr</source>
+        <translation>Geconverteerde btcr naar zbtcr</translation>
     </message>
     <message>
-        <source>Spent zbtca</source>
-        <translation>Bestede zbtca</translation>
+        <source>Spent zbtcr</source>
+        <translation>Bestede zbtcr</translation>
     </message>
     <message>
-        <source>Received btca from zbtca</source>
-        <translation>Ontvangen btca van zbtca</translation>
+        <source>Received btcr from zbtcr</source>
+        <translation>Ontvangen btcr van zbtcr</translation>
     </message>
     <message>
-        <source>Minted Change as zbtca from zbtca Spend</source>
-        <translation>Gemint wisselgeld als zbtca van bestede zbtca</translation>
+        <source>Minted Change as zbtcr from zbtcr Spend</source>
+        <translation>Gemint wisselgeld als zbtcr van bestede zbtcr</translation>
     </message>
     <message>
-        <source>Converted zbtca to btca</source>
-        <translation>Geconverteerde zbtca naar btca</translation>
+        <source>Converted zbtcr to btcr</source>
+        <translation>Geconverteerde zbtcr naar btcr</translation>
     </message>
     <message>
-        <source>Anonymous (zbtca Transaction)</source>
-        <translation>Anonieme (zbtca transactie)</translation>
+        <source>Anonymous (zbtcr Transaction)</source>
+        <translation>Anonieme (zbtcr transactie)</translation>
     </message>
     <message>
-        <source>Anonymous (zbtca Stake)</source>
-        <translation>Anonieme (zbtca stake)</translation>
+        <source>Anonymous (zbtcr Stake)</source>
+        <translation>Anonieme (zbtcr stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4784,12 +4784,12 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Exporteren succesvol</translation>
     </message>
     <message>
-        <source>Received btca from zbtca</source>
-        <translation>Ontvangen btca van zbtca</translation>
+        <source>Received btcr from zbtcr</source>
+        <translation>Ontvangen btcr van zbtcr</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zbtca</source>
-        <translation>Zerocoin besteed, wisselgeld in zbtca</translation>
+        <source>Zerocoin Spend, Change in zbtcr</source>
+        <translation>Zerocoin besteed, wisselgeld in zbtcr</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4825,8 +4825,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Verzend Munten</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 btca.</source>
-        <translation>SwiftTX ondersteunt geen verzendwaarden die zo hoog zijn. Transacties zijn momenteel beperkt tot %1 btca.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 btcr.</source>
+        <translation>SwiftTX ondersteunt geen verzendwaarden die zo hoog zijn. Transacties zijn momenteel beperkt tot %1 btcr.</translation>
     </message>
 </context>
 <context>
@@ -4857,10 +4857,10 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
 </context>
 <context>
-    <name>ZbtcaControlDialog</name>
+    <name>ZbtcrControlDialog</name>
     <message>
-        <source>Select zbtca to Spend</source>
-        <translation>Selecteer zbtca om te besteden</translation>
+        <source>Select zbtcr to Spend</source>
+        <translation>Selecteer zbtcr om te besteden</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4871,8 +4871,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4884,7 +4884,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
 </context>
 <context>
-    <name>btca-core</name>
+    <name>btcr-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = houd tx meta data, bijvoorbeeld account eigenaar en betalingsverzoek informatie, 2 = drop tx meta data)</translation>
@@ -4910,8 +4910,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Het berekende accumulatie controlepunt is niet wat wordt geregistreerd door de blokindex</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. btca Core is probably already running.</source>
-        <translation>Kan geen vergrendeling op data directory %s verkrijgen. btca Core loopt waarschijnlijk al.</translation>
+        <source>Cannot obtain a lock on data directory %s. btcr Core is probably already running.</source>
+        <translation>Kan geen vergrendeling op data directory %s verkrijgen. btcr Core loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4938,16 +4938,16 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Gedistribueerd onder de MIT software licentie, zie het bijgevoegde bestand COPYING of &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zbtca minting (0-1, default: %u)</source>
-        <translation>Schakel automatische portemonnee back-ups in geactiveerd na elke geminte zbtca (0-1, standaard: %u)</translation>
+        <source>Enable automatic wallet backups triggered after each zbtcr minting (0-1, default: %u)</source>
+        <translation>Schakel automatische portemonnee back-ups in geactiveerd na elke geminte zbtcr (0-1, standaard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for btca inputs (0-1, default: %u)</source>
-        <translation>In- of uitschakelen staking functionaliteit voor btca inputs (0-1, standaard: %u)</translation>
+        <source>Enable or disable staking functionality for btcr inputs (0-1, default: %u)</source>
+        <translation>In- of uitschakelen staking functionaliteit voor btcr inputs (0-1, standaard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zbtca inputs (0-1, default: %u)</source>
-        <translation>In- of uitschakelen staking functionaliteit voor zbtca inputs (0-1, standaard: %u)</translation>
+        <source>Enable or disable staking functionality for zbtcr inputs (0-1, default: %u)</source>
+        <translation>In- of uitschakelen staking functionaliteit voor zbtcr inputs (0-1, standaard: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -4982,12 +4982,12 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Uitvoeren commando wanneer het beste blok verandert (%s in cmd is vervangen door block hash)</translation>
     </message>
     <message>
-        <source>Fees (in btca/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Kosten (in btca/Kb) kleiner dan dit worden beschouwd als zero fee voor heruitzending (standaard: %s)</translation>
+        <source>Fees (in btcr/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Kosten (in btcr/Kb) kleiner dan dit worden beschouwd als zero fee voor heruitzending (standaard: %s)</translation>
     </message>
     <message>
-        <source>Fees (in btca/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Kosten (in btca/Kb) kleiner dan dit worden beschouwd als zero fee voor transactie verrichting (standaard: %s)</translation>
+        <source>Fees (in btcr/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Kosten (in btcr/Kb) kleiner dan dit worden beschouwd als zero fee voor transactie verrichting (standaard: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5086,20 +5086,20 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in de OpenSSL Toolkit &lt;https://www.openssl.org/&gt; en cryptografische software geschreven door Eric Young en UPnP software geschreven door Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. btca Core is probably already running.</source>
-        <translation>Niet mogelijk te binden aan %s op deze computer. btca Core loopt waarschijnlijk al.</translation>
+        <source>Unable to bind to %s on this computer. btcr Core is probably already running.</source>
+        <translation>Niet mogelijk te binden aan %s op deze computer. btcr Core loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Kan niet genoeg verduistering gedenomineerde fondsen voor deze transactie vinden.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 btca.</source>
-        <translation>Kan niet genoeg verduistering niet gedenomineerde fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 btca.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 btcr.</source>
+        <translation>Kan niet genoeg verduistering niet gedenomineerde fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 btcr.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 btca.</source>
-        <translation>Kan niet genoeg fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 btca.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 btcr.</source>
+        <translation>Kan niet genoeg fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 btcr.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5114,8 +5114,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Waarschuwing: -paytxfee is zeer hoog ingesteld! Dit zijn de transactie kosten die je betaalt als je een transactie verstuurt.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong btca Core will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt btca Core niet goed.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong btcr Core will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt btcr Core niet goed.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5266,8 +5266,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Copyright (C) 2014-%i The Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>Copyright (C) %i The btca Core Developers</source>
-        <translation>Copyright (C) %i The btca Kernontwikkelaars</translation>
+        <source>Copyright (C) %i The btcr Core Developers</source>
+        <translation>Copyright (C) %i The btcr Kernontwikkelaars</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5354,8 +5354,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Error tijdens het laden van wallet.dat: Portemonnee corrupt</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of btca Core</source>
-        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van btca Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of btcr Core</source>
+        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van btcr Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5410,8 +5410,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Mislukt om block te lezen</translation>
     </message>
     <message>
-        <source>Fee (in btca/kB) to add to transactions you send (default: %s)</source>
-        <translation>Fee (in btca/kB) om toe te voegen aan transacties die je verzendt (standaard: %s)</translation>
+        <source>Fee (in btcr/kB) to add to transactions you send (default: %s)</source>
+        <translation>Fee (in btcr/kB) om toe te voegen aan transacties die je verzendt (standaard: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -5470,8 +5470,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Informatie</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. btca Core is shutting down.</source>
-        <translation>Initialisatie saniteitscontrole mislukt. btca Core wordt afgesloten.</translation>
+        <source>Initialization sanity check failed. btcr Core is shutting down.</source>
+        <translation>Initialisatie saniteitscontrole mislukt. btcr Core wordt afgesloten.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5542,8 +5542,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Percentage automatisch geminte Zerocoin (10-100, standaard: %u)</translation>
     </message>
     <message>
-        <source>Reindex the btca and zbtca money supply statistics</source>
-        <translation>Indexeer de btca- en zbtca-geldvoorraadstatistieken opnieuw</translation>
+        <source>Reindex the btcr and zbtcr money supply statistics</source>
+        <translation>Indexeer de btcr- en zbtcr-geldvoorraadstatistieken opnieuw</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5582,8 +5582,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 </translation>
     </message>
     <message>
-        <source>Disable all btca specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Schakel alle specifieke btca functionaliteit uit (Masternodes, Zerocoin, SwiftTX, Budgeting) (0-1, standaard: %u)</translation>
+        <source>Disable all btcr specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Schakel alle specifieke btcr functionaliteit uit (Masternodes, Zerocoin, SwiftTX, Budgeting) (0-1, standaard: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -5618,8 +5618,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Voorkeur denominatie voor automatisch minted Zerocoin (1/5/10/50/100/500/1000/5000), 0 voor geen voorkeur. standaard: %u)</translation>
     </message>
     <message>
-        <source>Specify custom backup path to add a copy of any automatic zbtca backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Specificeer aangepast back-up pad om een kopie van elke automatische zbtca back-up toe te voegen. Indien ingesteld als dir zal elke back-up een bestand genereren met een tijdstempel. Indien ingesteld als file zal elke back-up herschreven worden naar dat bestand. Indien backuppath ook is ingesteld zullen 4 back-ups gedaan worden.</translation>
+        <source>Specify custom backup path to add a copy of any automatic zbtcr backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Specificeer aangepast back-up pad om een kopie van elke automatische zbtcr back-up toe te voegen. Indien ingesteld als dir zal elke back-up een bestand genereren met een tijdstempel. Indien ingesteld als file zal elke back-up herschreven worden naar dat bestand. Indien backuppath ook is ingesteld zullen 4 back-ups gedaan worden.</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
@@ -6118,8 +6118,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Synchroniseren sporks...</translation>
     </message>
     <message>
-        <source>Syncing zbtca wallet...</source>
-        <translation>Synchroniseren zbtca portemonnee...</translation>
+        <source>Syncing zbtcr wallet...</source>
+        <translation>Synchroniseren zbtcr portemonnee...</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -6266,8 +6266,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Gebruikersnaam voor JSON-RPC verbindingen</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zbtca</source>
-        <translation>Waarde is minder dan de kleinst beschikbare denominatie (=1) van zbtca</translation>
+        <source>Value is below the smallest available denomination (= 1) of zbtcr</source>
+        <translation>Waarde is minder dan de kleinst beschikbare denominatie (=1) van zbtcr</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -6282,8 +6282,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Portemonnee verifiëren...</translation>
     </message>
     <message>
-        <source>Version 1 zbtca require a security level of 100 to successfully spend.</source>
-        <translation>Versie 1 zbtca vereist een beveiligingsniveau van 100 om succesvol uit te geven.</translation>
+        <source>Version 1 zbtcr require a security level of 100 to successfully spend.</source>
+        <translation>Versie 1 zbtcr vereist een beveiligingsniveau van 100 om succesvol uit te geven.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
@@ -6294,8 +6294,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Portemonnee is vergrendeld.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart btca Core to complete</source>
-        <translation>Wallet moest worden herschreven: start btca Core opnieuw om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart btcr Core to complete</source>
+        <translation>Wallet moest worden herschreven: start btcr Core opnieuw om te voltooien</translation>
     </message>
     <message>
         <source>Wallet options:</source>

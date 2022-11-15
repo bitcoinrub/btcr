@@ -126,7 +126,7 @@ public:
 };
 
 /**
- * btca RPC command dispatcher.
+ * btcr RPC command dispatcher.
  */
 class CRPCTable
 {

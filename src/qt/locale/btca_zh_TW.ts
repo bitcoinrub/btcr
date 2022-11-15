@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>選擇要匯出btca幣的位址</translation>
+        <translation>選擇要匯出btcr幣的位址</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>選擇要接收btca幣的位址</translation>
+        <translation>選擇要接收btcr幣的位址</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -62,12 +62,12 @@
         <translation>接收的位址</translation>
     </message>
     <message>
-        <source>These are your btca addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>這是你用來付款的 btca 位址, 送出前, 請務必確認金額及接收位址是否正確.</translation>
+        <source>These are your btcr addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>這是你用來付款的 btcr 位址, 送出前, 請務必確認金額及接收位址是否正確.</translation>
     </message>
     <message>
-        <source>These are your btca addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>這是你用來接收款項的 btca 位址, 建議你每次付款都使用新的位址.</translation>
+        <source>These are your btcr addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>這是你用來接收款項的 btcr 位址, 建議你每次付款都使用新的位址.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -164,16 +164,16 @@
         <translation>錢包確認加密</translation>
     </message>
     <message>
-        <source>btca will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcas from being stolen by malware infecting your computer.</source>
-        <translation>btca 現在會關閉程式來處理加密流程, 請注意, 僅僅是加密你的錢包並不能完全保護你的 btca 幣被可疑軟體或病毒偷走的風險.</translation>
+        <source>btcr will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcrs from being stolen by malware infecting your computer.</source>
+        <translation>btcr 現在會關閉程式來處理加密流程, 請注意, 僅僅是加密你的錢包並不能完全保護你的 btcr 幣被可疑軟體或病毒偷走的風險.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>確定要加密你的錢包?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btca&lt;/b&gt;!</source>
-        <translation>請注意: 如果你加密了你的錢包但是卻忘記你設定的密碼, &lt;b&gt;你將會失去錢包裡的錢(btca)&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btcr&lt;/b&gt;!</source>
+        <translation>請注意: 如果你加密了你的錢包但是卻忘記你設定的密碼, &lt;b&gt;你將會失去錢包裡的錢(btcr)&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -557,16 +557,16 @@
         <translation>Tabs 工具列</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
-        <source>Send coins to a btca address</source>
-        <translation>送出錢幣到 btca 地址</translation>
+        <source>Send coins to a btcr address</source>
+        <translation>送出錢幣到 btcr 地址</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and btca: URIs)</source>
-        <translation>請求付款 (會產生 QR Code跟 btca 位址)</translation>
+        <source>Request payments (generates QR codes and btcr: URIs)</source>
+        <translation>請求付款 (會產生 QR Code跟 btcr 位址)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -577,24 +577,24 @@
         <translation>瀏覽 Masternodes</translation>
     </message>
     <message>
-        <source>&amp;About btca Core</source>
-        <translation>&amp;關於 btca Core</translation>
+        <source>&amp;About btcr Core</source>
+        <translation>&amp;關於 btcr Core</translation>
     </message>
     <message>
-        <source>Show information about btca Core</source>
-        <translation>顯示 btca Core 相關資訊</translation>
+        <source>Show information about btcr Core</source>
+        <translation>顯示 btcr Core 相關資訊</translation>
     </message>
     <message>
-        <source>Modify configuration options for btca</source>
-        <translation>修改 btca 設定</translation>
+        <source>Modify configuration options for btcr</source>
+        <translation>修改 btcr 設定</translation>
     </message>
     <message>
-        <source>Sign messages with your btca addresses to prove you own them</source>
-        <translation>使用你的 btca 位址對訊息簽章, 來證明你是擁有者</translation>
+        <source>Sign messages with your btcr addresses to prove you own them</source>
+        <translation>使用你的 btcr 位址對訊息簽章, 來證明你是擁有者</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified btca addresses</source>
-        <translation>驗證訊息簽章與 btca 位址吻合</translation>
+        <source>Verify messages to ensure they were signed with specified btcr addresses</source>
+        <translation>驗證訊息簽章與 btcr 位址吻合</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -625,8 +625,8 @@
         <translation>打開Masternode設定檔</translation>
     </message>
     <message>
-        <source>Open a btca: URI or payment request</source>
-        <translation>打開btca: 位址或付款請求 </translation>
+        <source>Open a btcr: URI or payment request</source>
+        <translation>打開btcr: 位址或付款請求 </translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -637,12 +637,12 @@
         <translation>區塊鏈瀏覽視窗</translation>
     </message>
     <message>
-        <source>Show the btca Core help message to get a list with possible btca command-line options</source>
-        <translation>顯示 btca Core 幫助訊息以取得 btca 命令列表選項</translation>
+        <source>Show the btcr Core help message to get a list with possible btcr command-line options</source>
+        <translation>顯示 btcr Core 幫助訊息以取得 btcr 命令列表選項</translation>
     </message>
     <message>
-        <source>btca Core client</source>
-        <translation>btca Core 客戶端</translation>
+        <source>btcr Core client</source>
+        <translation>btcr Core 客戶端</translation>
     </message>
     </context>
 <context>
@@ -671,15 +671,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     </context>
 <context>
@@ -822,8 +822,8 @@
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The btca address to sign the message with</source>
-        <translation>對訊息簽名的 btca 位址</translation>
+        <source>The btcr address to sign the message with</source>
+        <translation>對訊息簽名的 btcr 位址</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -846,16 +846,16 @@
         <translation>拷貝目前的簽章到系統剪貼簿</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this btca address</source>
-        <translation>使用簽章來證明你是該  btca 位址的擁有者,</translation>
+        <source>Sign the message to prove you own this btcr address</source>
+        <translation>使用簽章來證明你是該  btcr 位址的擁有者,</translation>
     </message>
     <message>
-        <source>The btca address the message was signed with</source>
-        <translation>此訊息之 btca 位址已簽章於</translation>
+        <source>The btcr address the message was signed with</source>
+        <translation>此訊息之 btcr 位址已簽章於</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified btca address</source>
-        <translation>驗證訊息以確保該  btca 位址已被簽章</translation>
+        <source>Verify the message to ensure it was signed with the specified btcr address</source>
+        <translation>驗證訊息以確保該  btcr 位址已被簽章</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -893,8 +893,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     </context>
 <context>
@@ -957,9 +957,9 @@
     </message>
     </context>
 <context>
-    <name>ZbtcaControlDialog</name>
+    <name>ZbtcrControlDialog</name>
     </context>
 <context>
-    <name>btca-core</name>
+    <name>btcr-core</name>
     </context>
 </TS>

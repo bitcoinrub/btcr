@@ -23,8 +23,8 @@
 #include "validationinterface.h"
 #include "wallet_ismine.h"
 #include "walletdb.h"
-#include "zbtcawallet.h"
-#include "zbtcatracker.h"
+#include "zbtcrwallet.h"
+#include "zbtcrtracker.h"
 
 #include <algorithm>
 #include <map>
@@ -84,30 +84,30 @@ enum AvailableCoinsType {
     ALL_COINS = 1,
     ONLY_DENOMINATED = 2,
     ONLY_NOT1000IFMN = 3,
-    ONLY_NONDENOMINATED_NOT1000IFMN = 4, // ONLY_NONDENOMINATED and not 10000 btcaat the same time
+    ONLY_NONDENOMINATED_NOT1000IFMN = 4, // ONLY_NONDENOMINATED and not 10000 btcrat the same time
     ONLY_1000 = 5,                        // find masternode outputs including locked ones (use with caution)
     STAKABLE_COINS = 6                          // UTXO's that are valid for staking
 };
 
-// Possible states for zbtcasend
+// Possible states for zbtcrsend
 enum ZerocoinSpendStatus {
-    Zbtca_SPEND_OKAY = 0,                            // No error
-    Zbtca_SPEND_ERROR = 1,                           // Unspecified class of errors, more details are (hopefully) in the returning text
-    Zbtca_WALLET_LOCKED = 2,                         // Wallet was locked
-    Zbtca_COMMIT_FAILED = 3,                         // Commit failed, reset status
-    Zbtca_ERASE_SPENDS_FAILED = 4,                   // Erasing spends during reset failed
-    Zbtca_ERASE_NEW_MINTS_FAILED = 5,                // Erasing new mints during reset failed
-    Zbtca_TRX_FUNDS_PROBLEMS = 6,                    // Everything related to available funds
-    Zbtca_TRX_CREATE = 7,                            // Everything related to create the transaction
-    Zbtca_TRX_CHANGE = 8,                            // Everything related to transaction change
-    Zbtca_TXMINT_GENERAL = 9,                        // General errors in MintToTxIn
-    Zbtca_INVALID_COIN = 10,                         // Selected mint coin is not valid
-    Zbtca_FAILED_ACCUMULATOR_INITIALIZATION = 11,    // Failed to initialize witness
-    Zbtca_INVALID_WITNESS = 12,                      // Spend coin transaction did not verify
-    Zbtca_BAD_SERIALIZATION = 13,                    // Transaction verification failed
-    Zbtca_SPENT_USED_Zbtca= 14,                      // Coin has already been spend
-    Zbtca_TX_TOO_LARGE = 15,                          // The transaction is larger than the max tx size
-    Zbtca_SPEND_V1_SEC_LEVEL                         // Spend is V1 and security level is not set to 100
+    Zbtcr_SPEND_OKAY = 0,                            // No error
+    Zbtcr_SPEND_ERROR = 1,                           // Unspecified class of errors, more details are (hopefully) in the returning text
+    Zbtcr_WALLET_LOCKED = 2,                         // Wallet was locked
+    Zbtcr_COMMIT_FAILED = 3,                         // Commit failed, reset status
+    Zbtcr_ERASE_SPENDS_FAILED = 4,                   // Erasing spends during reset failed
+    Zbtcr_ERASE_NEW_MINTS_FAILED = 5,                // Erasing new mints during reset failed
+    Zbtcr_TRX_FUNDS_PROBLEMS = 6,                    // Everything related to available funds
+    Zbtcr_TRX_CREATE = 7,                            // Everything related to create the transaction
+    Zbtcr_TRX_CHANGE = 8,                            // Everything related to transaction change
+    Zbtcr_TXMINT_GENERAL = 9,                        // General errors in MintToTxIn
+    Zbtcr_INVALID_COIN = 10,                         // Selected mint coin is not valid
+    Zbtcr_FAILED_ACCUMULATOR_INITIALIZATION = 11,    // Failed to initialize witness
+    Zbtcr_INVALID_WITNESS = 12,                      // Spend coin transaction did not verify
+    Zbtcr_BAD_SERIALIZATION = 13,                    // Transaction verification failed
+    Zbtcr_SPENT_USED_Zbtcr= 14,                      // Coin has already been spend
+    Zbtcr_TX_TOO_LARGE = 15,                          // The transaction is larger than the max tx size
+    Zbtcr_SPEND_V1_SEC_LEVEL                         // Spend is V1 and security level is not set to 100
 };
 
 struct CompactTallyItem {
@@ -213,15 +213,15 @@ public:
     std::string ResetMintZerocoin();
     std::string ResetSpentZerocoin();
     void ReconsiderZerocoins(std::list<CZerocoinMint>& listMintsRestored, std::list<CDeterministicMint>& listDMintsRestored);
-    void ZbtcaBackupWallet();
+    void ZbtcrBackupWallet();
     bool GetZerocoinKey(const CBigNum& bnSerial, CKey& key);
-    bool CreateZbtcaOutPut(libzerocoin::CoinDenomination denomination, CTxOut& outMint, CDeterministicMint& dMint);
+    bool CreateZbtcrOutPut(libzerocoin::CoinDenomination denomination, CTxOut& outMint, CDeterministicMint& dMint);
     bool GetMint(const uint256& hashSerial, CZerocoinMint& mint);
     bool GetMintFromStakeHash(const uint256& hashStake, CZerocoinMint& mint);
     bool DatabaseMint(CDeterministicMint& dMint);
     bool SetMintUnspent(const CBigNum& bnSerial);
     bool UpdateMint(const CBigNum& bnValue, const int& nHeight, const uint256& txid, const libzerocoin::CoinDenomination& denom);
-    string GetUniqueWalletBackupName(bool fzbtcaAuto) const;
+    string GetUniqueWalletBackupName(bool fzbtcrAuto) const;
 
 
     /** Zerocin entry changed.
@@ -237,13 +237,13 @@ public:
      */
     mutable CCriticalSection cs_wallet;
 
-    CzbtcaWallet* zwalletMain;
+    CzbtcrWallet* zwalletMain;
 
     bool fFileBacked;
     bool fWalletUnlockAnonymizeOnly;
     std::string strWalletFile;
     bool fBackupMints;
-    std::unique_ptr<CzbtcaTracker> zbtcaTracker;
+    std::unique_ptr<CzbtcrTracker> zbtcrTracker;
 
     std::set<int64_t> setKeyPool;
     std::map<CKeyID, CKeyMetadata> mapKeyMetadata;
@@ -328,20 +328,20 @@ public:
         return nZeromintPercentage;
     }
 
-    void setZWallet(CzbtcaWallet* zwallet)
+    void setZWallet(CzbtcrWallet* zwallet)
     {
         zwalletMain = zwallet;
-        zbtcaTracker = std::unique_ptr<CzbtcaTracker>(new CzbtcaTracker(strWalletFile));
+        zbtcrTracker = std::unique_ptr<CzbtcrTracker>(new CzbtcrTracker(strWalletFile));
     }
 
-    CzbtcaWallet* getZWallet() { return zwalletMain; }
+    CzbtcrWallet* getZWallet() { return zwalletMain; }
 
     bool isZeromintEnabled()
     {
         return fEnableZeromint;
     }
 
-    void setZbtcaAutoBackups(bool fEnabled)
+    void setZbtcrAutoBackups(bool fEnabled)
     {
         fBackupMints = fEnabled;
     }
@@ -669,8 +669,8 @@ public:
     /** MultiSig address added */
     boost::signals2::signal<void(bool fHaveMultiSig)> NotifyMultiSigChanged;
 
-    /** zbtcareset */
-    boost::signals2::signal<void()> NotifyzbtcaReset;
+    /** zbtcrreset */
+    boost::signals2::signal<void()> NotifyzbtcrReset;
 
     /** notify wallet file backed up */
     boost::signals2::signal<void (const bool& fSuccess, const std::string& filename)> NotifyWalletBacked;

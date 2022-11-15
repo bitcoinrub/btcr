@@ -62,12 +62,12 @@
         <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your btca addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones de btca para enviar pagos. Compruebe siempre la cantidad así como la dirección de destino antes de enviar moneda.</translation>
+        <source>These are your btcr addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones de btcr para enviar pagos. Compruebe siempre la cantidad así como la dirección de destino antes de enviar moneda.</translation>
     </message>
     <message>
-        <source>These are your btca addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son sus direcciones de btca para recibir pagos. Es recomendable que use una dirección nueva para cada transacción.</translation>
+        <source>These are your btcr addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son sus direcciones de btcr para recibir pagos. Es recomendable que use una dirección nueva para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Confirmar encriptación del monedero</translation>
     </message>
     <message>
-        <source>btca will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcas from being stolen by malware infecting your computer.</source>
-        <translation>btca se cerrará ahora para completar el proceso de encriptación. Recuerde que la encriptación no le protege completamente del robo de sus btcas frente a malware que infecte su ordenador.</translation>
+        <source>btcr will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcrs from being stolen by malware infecting your computer.</source>
+        <translation>btcr se cerrará ahora para completar el proceso de encriptación. Recuerde que la encriptación no le protege completamente del robo de sus btcrs frente a malware que infecte su ordenador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>¿Está seguro de que quiere encriptar su monedero?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btca&lt;/b&gt;!</source>
-        <translation>Advertencia: si encripta su monedero y pierde su clave de seguridad, ¡&lt;b&gt;PERDERÁ TODOS SUS btca&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btcr&lt;/b&gt;!</source>
+        <translation>Advertencia: si encripta su monedero y pierde su clave de seguridad, ¡&lt;b&gt;PERDERÁ TODOS SUS btcr&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Dirección:</translation>
     </message>
     <message>
-        <source>Enter a btca Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Ingrese una dirección btca que le gustaría encriptar usando BIP 38. Ingrese una contraseña en el cuadro del medio. Presione encriptar para calcular la clave privada encriptada.</translation>
+        <source>Enter a btcr Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Ingrese una dirección btcr que le gustaría encriptar usando BIP 38. Ingrese una contraseña en el cuadro del medio. Presione encriptar para calcular la clave privada encriptada.</translation>
     </message>
     <message>
-        <source>The btca address to encrypt</source>
-        <translation>La dirección btca a encriptar</translation>
+        <source>The btcr address to encrypt</source>
+        <translation>La dirección btcr a encriptar</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this btca address</source>
-        <translation>Cifrar la llave privada para esta dirección btca</translation>
+        <source>Encrypt the private key for this btcr address</source>
+        <translation>Cifrar la llave privada para esta dirección btcr</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -530,8 +530,8 @@
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The btca address to sign the message with</source>
-        <translation>Dirección btca con la que firmar el mensaje</translation>
+        <source>The btcr address to sign the message with</source>
+        <translation>Dirección btcr con la que firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -554,8 +554,8 @@
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this btca address</source>
-        <translation>Firme el mensaje para probar que Ud. es el propietario de esta dirección btca</translation>
+        <source>Sign the message to prove you own this btcr address</source>
+        <translation>Firme el mensaje para probar que Ud. es el propietario de esta dirección btcr</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -645,10 +645,10 @@
     </message>
     </context>
 <context>
-    <name>ZbtcaControlDialog</name>
+    <name>ZbtcrControlDialog</name>
     </context>
 <context>
-    <name>btca-core</name>
+    <name>btcr-core</name>
     <message>
         <source>Zapping all transactions from wallet...</source>
         <translation>Saltando todas las transacciones del monedero...</translation>

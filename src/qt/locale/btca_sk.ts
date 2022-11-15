@@ -62,12 +62,12 @@
         <translation>Prijímacia adresa</translation>
     </message>
     <message>
-        <source>These are your btca addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto sú vaše btca adresy na odosielanie platieb. Pred odoslaním vždy skontrolujte výšku a adresu prijemcu.</translation>
+        <source>These are your btcr addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto sú vaše btcr adresy na odosielanie platieb. Pred odoslaním vždy skontrolujte výšku a adresu prijemcu.</translation>
     </message>
     <message>
-        <source>These are your btca addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto sú vaše btca adresy na prijímanie platieb. Pre každú transakciu sa odporúča použiť novú prijímaciu adresu.</translation>
+        <source>These are your btcr addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto sú vaše btcr adresy na prijímanie platieb. Pre každú transakciu sa odporúča použiť novú prijímaciu adresu.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,16 +172,16 @@
         <translation>Potvrďte šifrovanie peňaženky</translation>
     </message>
     <message>
-        <source>btca will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcas from being stolen by malware infecting your computer.</source>
-        <translation>btca sa teraz ukončí, aby dokončil proces šifrovania. Nezabudnite, že šifrovanie peňaženky nemôže úplne ochrániť vaše btca pred odcudzením škodlivým softvérom, ktorý infikuje váš počítač.</translation>
+        <source>btcr will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcrs from being stolen by malware infecting your computer.</source>
+        <translation>btcr sa teraz ukončí, aby dokončil proces šifrovania. Nezabudnite, že šifrovanie peňaženky nemôže úplne ochrániť vaše btcr pred odcudzením škodlivým softvérom, ktorý infikuje váš počítač.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Naozaj chcete zašifrovať svoju peňaženku?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btca&lt;/b&gt;!</source>
-        <translation>Upozornenie: Ak zašifrujete svoju peňaženku a stratíte svoju prístupovú frázu, &lt;b&gt; PRÍDETE O VŠETKY btca &lt;/ b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btcr&lt;/b&gt;!</source>
+        <translation>Upozornenie: Ak zašifrujete svoju peňaženku a stratíte svoju prístupovú frázu, &lt;b&gt; PRÍDETE O VŠETKY btcr &lt;/ b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -569,16 +569,16 @@
         <translation>Panel nástrojov Záložky</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
-        <source>Send coins to a btca address</source>
-        <translation>Odoslať mince na adresu btca</translation>
+        <source>Send coins to a btcr address</source>
+        <translation>Odoslať mince na adresu btcr</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and btca: URIs)</source>
-        <translation>Vyžiadať platby (generuje QR kódy a btca: identifikátory URI)</translation>
+        <source>Request payments (generates QR codes and btcr: URIs)</source>
+        <translation>Vyžiadať platby (generuje QR kódy a btcr: identifikátory URI)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -589,24 +589,24 @@
         <translation>Prezrieť masternody</translation>
     </message>
     <message>
-        <source>&amp;About btca Core</source>
-        <translation>O btca Core</translation>
+        <source>&amp;About btcr Core</source>
+        <translation>O btcr Core</translation>
     </message>
     <message>
-        <source>Show information about btca Core</source>
-        <translation>Zobraziť informácie o btca Core</translation>
+        <source>Show information about btcr Core</source>
+        <translation>Zobraziť informácie o btcr Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for btca</source>
-        <translation>Zmeňte možnosti konfigurácie pre btca</translation>
+        <source>Modify configuration options for btcr</source>
+        <translation>Zmeňte možnosti konfigurácie pre btcr</translation>
     </message>
     <message>
-        <source>Sign messages with your btca addresses to prove you own them</source>
-        <translation>Podpíšte správy pomocou adresy btca, aby ste preukázali, že ich vlastníte</translation>
+        <source>Sign messages with your btcr addresses to prove you own them</source>
+        <translation>Podpíšte správy pomocou adresy btcr, aby ste preukázali, že ich vlastníte</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified btca addresses</source>
-        <translation>Overte správy, aby sa zabezpečilo, že boli podpísané zadanými btca adresami</translation>
+        <source>Verify messages to ensure they were signed with specified btcr addresses</source>
+        <translation>Overte správy, aby sa zabezpečilo, že boli podpísané zadanými btcr adresami</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -637,8 +637,8 @@
         <translation>Otvoriť konfiguračný súbor masternodu</translation>
     </message>
     <message>
-        <source>Open a btca: URI or payment request</source>
-        <translation>Otvorte btca: URI alebo žiadosť o platbu</translation>
+        <source>Open a btcr: URI or payment request</source>
+        <translation>Otvorte btcr: URI alebo žiadosť o platbu</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -649,12 +649,12 @@
         <translation>Okno blockchain prehliadača</translation>
     </message>
     <message>
-        <source>Show the btca Core help message to get a list with possible btca command-line options</source>
-        <translation>Zobraziť pomocnú správu programu btca Core a získajte zoznam možností príkazového riadka btca</translation>
+        <source>Show the btcr Core help message to get a list with possible btcr command-line options</source>
+        <translation>Zobraziť pomocnú správu programu btcr Core a získajte zoznam možností príkazového riadka btcr</translation>
     </message>
     <message>
-        <source>btca Core client</source>
-        <translation>btca Core klient</translation>
+        <source>btcr Core client</source>
+        <translation>btcr Core klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -776,8 +776,8 @@ MultiSend: %1</translation>
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btca.conf).</source>
-        <translation>Nie všetky transakcie sa zobrazia. Ak chcete zobraziť všetky transakcie, musíte v konfiguračnom súbore (btca.conf) nastaviť txindex = 1.</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btcr.conf).</source>
+        <translation>Nie všetky transakcie sa zobrazia. Ak chcete zobraziť všetky transakcie, musíte v konfiguračnom súbore (btcr.conf) nastaviť txindex = 1.</translation>
     </message>
 </context>
 <context>
@@ -867,15 +867,15 @@ MultiSend: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1114,8 +1114,8 @@ MultiSend: %1</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The btca address to sign the message with</source>
-        <translation>Adresa btca, ktorou chcete správu podpísať</translation>
+        <source>The btcr address to sign the message with</source>
+        <translation>Adresa btcr, ktorou chcete správu podpísať</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1138,16 +1138,16 @@ MultiSend: %1</translation>
         <translation>Skopírujte aktuálny podpis do schránky</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this btca address</source>
-        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto btca adresy</translation>
+        <source>Sign the message to prove you own this btcr address</source>
+        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto btcr adresy</translation>
     </message>
     <message>
-        <source>The btca address the message was signed with</source>
-        <translation>btca adresa, ktorou bola správa podpísaná</translation>
+        <source>The btcr address the message was signed with</source>
+        <translation>btcr adresa, ktorou bola správa podpísaná</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified btca address</source>
-        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou btca adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified btcr address</source>
+        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou btcr adresou</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1185,8 +1185,8 @@ MultiSend: %1</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     </context>
 <context>
@@ -1281,10 +1281,10 @@ MultiSend: %1</translation>
     </message>
     </context>
 <context>
-    <name>ZbtcaControlDialog</name>
+    <name>ZbtcrControlDialog</name>
     </context>
 <context>
-    <name>btca-core</name>
+    <name>btcr-core</name>
     <message>
         <source>Error</source>
         <translation>Chyba</translation>

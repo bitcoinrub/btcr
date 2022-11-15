@@ -1,7 +1,7 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2020 The btca developers
+// Copyright (c) 2020 The btcr developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -20,18 +20,18 @@ BitcoinUnits::BitcoinUnits(QObject* parent) : QAbstractListModel(parent),
 QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits()
 {
     QList<BitcoinUnits::Unit> unitlist;
-    unitlist.append(btca);
-    unitlist.append(mbtca);
-    unitlist.append(ubtca);
+    unitlist.append(btcr);
+    unitlist.append(mbtcr);
+    unitlist.append(ubtcr);
     return unitlist;
 }
 
 bool BitcoinUnits::valid(int unit)
 {
     switch (unit) {
-    case btca:
-    case mbtca:
-    case ubtca:
+    case btcr:
+    case mbtcr:
+    case ubtcr:
         return true;
     default:
         return false;
@@ -41,12 +41,12 @@ bool BitcoinUnits::valid(int unit)
 QString BitcoinUnits::id(int unit)
 {
     switch (unit) {
-    case btca:
-        return QString("btca");
-    case mbtca:
-        return QString("mbtca");
-    case ubtca:
-        return QString::fromUtf8("ubtca");
+    case btcr:
+        return QString("btcr");
+    case mbtcr:
+        return QString("mbtcr");
+    case ubtcr:
+        return QString::fromUtf8("ubtcr");
     default:
         return QString("???");
     }
@@ -56,23 +56,23 @@ QString BitcoinUnits::name(int unit)
 {
     if (Params().NetworkID() == CBaseChainParams::MAIN) {
         switch (unit) {
-        case btca:
-            return QString("btca");
-        case mbtca:
-            return QString("mbtca");
-        case ubtca:
-            return QString::fromUtf8("μbtca");
+        case btcr:
+            return QString("btcr");
+        case mbtcr:
+            return QString("mbtcr");
+        case ubtcr:
+            return QString::fromUtf8("μbtcr");
         default:
             return QString("???");
         }
     } else {
         switch (unit) {
-        case btca:
-            return QString("tbtca");
-        case mbtca:
-            return QString("mtbtca");
-        case ubtca:
-            return QString::fromUtf8("μtbtca");
+        case btcr:
+            return QString("tbtcr");
+        case mbtcr:
+            return QString("mtbtcr");
+        case ubtcr:
+            return QString::fromUtf8("μtbtcr");
         default:
             return QString("???");
         }
@@ -83,23 +83,23 @@ QString BitcoinUnits::description(int unit)
 {
     if (Params().NetworkID() == CBaseChainParams::MAIN) {
         switch (unit) {
-        case btca:
-            return QString("btca");
-        case mbtca:
-            return QString("Milli-btca (1 / 1" THIN_SP_UTF8 "000)");
-        case ubtca:
-            return QString("Micro-btca (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+        case btcr:
+            return QString("btcr");
+        case mbtcr:
+            return QString("Milli-btcr (1 / 1" THIN_SP_UTF8 "000)");
+        case ubtcr:
+            return QString("Micro-btcr (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
         default:
             return QString("???");
         }
     } else {
         switch (unit) {
-        case btca:
-            return QString("Testbtcas");
-        case mbtca:
-            return QString("Milli-Testbtca (1 / 1" THIN_SP_UTF8 "000)");
-        case ubtca:
-            return QString("Micro-Testbtca (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+        case btcr:
+            return QString("Testbtcrs");
+        case mbtcr:
+            return QString("Milli-Testbtcr (1 / 1" THIN_SP_UTF8 "000)");
+        case ubtcr:
+            return QString("Micro-Testbtcr (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
         default:
             return QString("???");
         }
@@ -109,11 +109,11 @@ QString BitcoinUnits::description(int unit)
 qint64 BitcoinUnits::factor(int unit)
 {
     switch (unit) {
-    case btca:
+    case btcr:
         return 100000000;
-    case mbtca:
+    case mbtcr:
         return 100000;
-    case ubtca:
+    case ubtcr:
         return 100;
     default:
         return 100000000;
@@ -123,11 +123,11 @@ qint64 BitcoinUnits::factor(int unit)
 int BitcoinUnits::decimals(int unit)
 {
     switch (unit) {
-    case btca:
+    case btcr:
         return 8;
-    case mbtca:
+    case mbtcr:
         return 5;
-    case ubtca:
+    case ubtcr:
         return 2;
     default:
         return 0;

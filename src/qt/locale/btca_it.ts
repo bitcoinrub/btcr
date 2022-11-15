@@ -62,12 +62,12 @@
         <translation>Indirizzi di ricezione</translation>
     </message>
     <message>
-        <source>These are your btca addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Questi sono gli indirizzi btca per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
+        <source>These are your btcr addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Questi sono gli indirizzi btcr per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
     </message>
     <message>
-        <source>These are your btca addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Questi sono gli indirizzi btca per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
+        <source>These are your btcr addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Questi sono gli indirizzi btcr per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Conferma cifratura portafoglio</translation>
     </message>
     <message>
-        <source>btca will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcas from being stolen by malware infecting your computer.</source>
-        <translation>btca verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi btca dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
+        <source>btcr will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcrs from being stolen by malware infecting your computer.</source>
+        <translation>btcr verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi btcr dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Confermi di voler crittografare il portafoglio?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btca&lt;/b&gt;!</source>
-        <translation>Attenzione: Se crittografi il portafoglio e poi perdi la parola d'ordine, &lt;b&gt;PERDERAI TUTTI I TUOI btca&lt;7b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btcr&lt;/b&gt;!</source>
+        <translation>Attenzione: Se crittografi il portafoglio e poi perdi la parola d'ordine, &lt;b&gt;PERDERAI TUTTI I TUOI btcr&lt;7b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Indirizzo:</translation>
     </message>
     <message>
-        <source>Enter a btca Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Inserire un indirizzo btca da crittografare utilizzando BIP 38. Inserire una password nel campo centrale. Cliccare su "cripta" per generare la chiave privata crittografata.</translation>
+        <source>Enter a btcr Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Inserire un indirizzo btcr da crittografare utilizzando BIP 38. Inserire una password nel campo centrale. Cliccare su "cripta" per generare la chiave privata crittografata.</translation>
     </message>
     <message>
-        <source>The btca address to encrypt</source>
-        <translation>Indirizzo btca da crittografare</translation>
+        <source>The btcr address to encrypt</source>
+        <translation>Indirizzo btcr da crittografare</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this btca address</source>
-        <translation>Crittografa la chiave privata per questo indirizzo btca</translation>
+        <source>Encrypt the private key for this btcr address</source>
+        <translation>Crittografa la chiave privata per questo indirizzo btcr</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>Espora la cronologia delle transazioni</translation>
     </message>
     <message>
-        <source>Privacy Actions for zbtca</source>
-        <translation>Operazioni di privacy per zbtca</translation>
+        <source>Privacy Actions for zbtcr</source>
+        <translation>Operazioni di privacy per zbtcr</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -645,16 +645,16 @@
         <translation>Schede degli strumenti</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
-        <source>Send coins to a btca address</source>
-        <translation>Invia valuta all'indirizzo btca</translation>
+        <source>Send coins to a btcr address</source>
+        <translation>Invia valuta all'indirizzo btcr</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and btca: URIs)</source>
-        <translation>Richiedi pagamenti (genera codici QR e btca: URIs)</translation>
+        <source>Request payments (generates QR codes and btcr: URIs)</source>
+        <translation>Richiedi pagamenti (genera codici QR e btcr: URIs)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Esplora i masternodes</translation>
     </message>
     <message>
-        <source>&amp;About btca Core</source>
-        <translation>&amp;Informazioni btca Core</translation>
+        <source>&amp;About btcr Core</source>
+        <translation>&amp;Informazioni btcr Core</translation>
     </message>
     <message>
-        <source>Show information about btca Core</source>
-        <translation>Visualizza informazioni su btca Core</translation>
+        <source>Show information about btcr Core</source>
+        <translation>Visualizza informazioni su btcr Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for btca</source>
-        <translation>Modifica le opzioni di configurazione per btca</translation>
+        <source>Modify configuration options for btcr</source>
+        <translation>Modifica le opzioni di configurazione per btcr</translation>
     </message>
     <message>
-        <source>Sign messages with your btca addresses to prove you own them</source>
-        <translation>Firma i messaggi con i tuoi indirizzi btca per dimostrare di essere il proprietario </translation>
+        <source>Sign messages with your btcr addresses to prove you own them</source>
+        <translation>Firma i messaggi con i tuoi indirizzi btcr per dimostrare di essere il proprietario </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified btca addresses</source>
-        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi btca specifici</translation>
+        <source>Verify messages to ensure they were signed with specified btcr addresses</source>
+        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi btcr specifici</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Apri file di configurazione del Masternodo</translation>
     </message>
     <message>
-        <source>Open a btca: URI or payment request</source>
-        <translation>Apri un btca: URI o richiesta di pagamento</translation>
+        <source>Open a btcr: URI or payment request</source>
+        <translation>Apri un btcr: URI o richiesta di pagamento</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Finestra Block Explorer</translation>
     </message>
     <message>
-        <source>Show the btca Core help message to get a list with possible btca command-line options</source>
-        <translation>Mostra il messaggio di aiuto btca Core per ottenere un elenco con le possibili opzioni di riga di comando btca</translation>
+        <source>Show the btcr Core help message to get a list with possible btcr command-line options</source>
+        <translation>Mostra il messaggio di aiuto btcr Core per ottenere un elenco con le possibili opzioni di riga di comando btcr</translation>
     </message>
     <message>
-        <source>btca Core client</source>
-        <translation>btca Core</translation>
+        <source>btcr Core client</source>
+        <translation>btcr Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to btca network</source>
-        <translation><numerusform>%n connessione attiva alla rete btcaIX</numerusform><numerusform>%n connessioni attive alla rete btcaIX</numerusform></translation>
+        <source>%n active connection(s) to btcr network</source>
+        <translation><numerusform>%n connessione attiva alla rete btcrIX</numerusform><numerusform>%n connessioni attive alla rete btcrIX</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -888,8 +888,8 @@ MultiSend: %1</translation>
         <translation>Etichetta</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btca.conf).</source>
-        <translation>Non tutte le transazioni verranno visualizzate. Per vedere tutte le transazioni è necessario aggiungere txindex=1 nel file di configurazione (btca.conf)</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btcr.conf).</source>
+        <translation>Non tutte le transazioni verranno visualizzate. Per vedere tutte le transazioni è necessario aggiungere txindex=1 nel file di configurazione (btcr.conf)</translation>
     </message>
 </context>
 <context>
@@ -1126,8 +1126,8 @@ MultiSend: %1</translation>
         <translation>Questa etichetta diventa rossa se uno dei destinatari riceve un importo inferiore a %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 ubtca per input.</source>
-        <translation>Può variare di +/- %1 ubtca per input.</translation>
+        <source>Can vary +/- %1 ubtcr per input.</source>
+        <translation>Può variare di +/- %1 ubtcr per input.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1173,8 +1173,8 @@ MultiSend: %1</translation>
         <translation>Modifica indirizzo di invio</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid btca address.</source>
-        <translation>L'indirizzo inserito "%1" non è un indirizzo btca valido.</translation>
+        <source>The entered address "%1" is not a valid btcr address.</source>
+        <translation>L'indirizzo inserito "%1" non è un indirizzo btcr valido.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1219,16 +1219,16 @@ MultiSend: %1</translation>
         <translation>versione</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About btca Core</source>
-        <translation>Informazioni su btca Core</translation>
+        <source>About btcr Core</source>
+        <translation>Informazioni su btcr Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1274,16 +1274,16 @@ MultiSend: %1</translation>
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>Welcome to btca Core.</source>
-        <translation>Benvenuto in btcaIX Core.</translation>
+        <source>Welcome to btcr Core.</source>
+        <translation>Benvenuto in btcrIX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where btca Core will store its data.</source>
-        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove btca Core salverà i propri dati.</translation>
+        <source>As this is the first time the program is launched, you can choose where btcr Core will store its data.</source>
+        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove btcr Core salverà i propri dati.</translation>
     </message>
     <message>
-        <source>btca Core will download and store a copy of the btca block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>btca Core scaricherà e salverà una copia della blockchain btca. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
+        <source>btcr Core will download and store a copy of the btcr block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>btcr Core scaricherà e salverà una copia della blockchain btcr. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1294,8 +1294,8 @@ MultiSend: %1</translation>
         <translation>Utilizza una cartella dati personalizzata:</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1436,12 +1436,12 @@ MultiSend: %1</translation>
         <translation>Inserire indirizzo destinatario</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btca addresses after it matures.
-To Add: enter percentage to give and btca address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btcr addresses after it matures.
+To Add: enter percentage to give and btcr address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend ti permette di inviare automaticamente ad una lista di indirizzi btca fino al 100% delle ricompense di stake o masternodi, dopo che queste sono mature.
-Per Aggiunger: inserisci la percentuale da inviare e l'indirizzo btca da aggiungere al vettore MultiSend.
+        <translation>MultiSend ti permette di inviare automaticamente ad una lista di indirizzi btcr fino al 100% delle ricompense di stake o masternodi, dopo che queste sono mature.
+Per Aggiunger: inserisci la percentuale da inviare e l'indirizzo btcr da aggiungere al vettore MultiSend.
 Per Eliminare: Inserisci l'indirizzo da eliminare e premi elimina.
 MultiSend non verrà attivato a meno che tu non prema su Attiva</translation>
     </message>
@@ -1671,12 +1671,12 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Configura Offuscamento</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Usa 2 masternodi diversi per mescolare fino a 10000 btca</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Usa 2 masternodi diversi per mescolare fino a 10000 btcr</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Usa 8 masternodi diversi per mixare fino a 10000 btca</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Usa 8 masternodi diversi per mixare fino a 10000 btcr</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
@@ -1713,24 +1713,24 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Mappa la porta utilizzando &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of btca units to zbtca</source>
-        <translation>Attiva il conio automatico di unità btca in zbtca</translation>
+        <source>Enable automatic minting of btcr units to zbtcr</source>
+        <translation>Attiva il conio automatico di unità btcr in zbtcr</translation>
     </message>
     <message>
-        <source>Enable zbtca Automint</source>
-        <translation>Attiva Conio automatico zbtca</translation>
+        <source>Enable zbtcr Automint</source>
+        <translation>Attiva Conio automatico zbtcr</translation>
     </message>
     <message>
-        <source>Percentage of incoming btca which get automatically converted to zbtca via Zerocoin Protocol (min: 10%)</source>
-        <translation>Percentuale di btca in entrata che viene automaticamente convertita in zbtca attraverso il protocollo Zerocoin (min: 10%)</translation>
+        <source>Percentage of incoming btcr which get automatically converted to zbtcr via Zerocoin Protocol (min: 10%)</source>
+        <translation>Percentuale di btcr in entrata che viene automaticamente convertita in zbtcr attraverso il protocollo Zerocoin (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zbtca</source>
-        <translation>Percentuale di zbtca Percentuale di zbtca da coniare automaticamente</translation>
+        <source>Percentage of autominted zbtcr</source>
+        <translation>Percentuale di zbtcr Percentuale di zbtcr da coniare automaticamente</translation>
     </message>
     <message>
-        <source>Preferred Automint zbtca Denomination</source>
-        <translation>Denominazione preferita conio automatico zbtca</translation>
+        <source>Preferred Automint zbtcr Denomination</source>
+        <translation>Denominazione preferita conio automatico zbtcr</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1792,8 +1792,8 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Saldo totale, inclusi tutte le monete non disponibili.</translation>
     </message>
     <message>
-        <source>btca Balance</source>
-        <translation>Bilancio btca</translation>
+        <source>btcr Balance</source>
+        <translation>Bilancio btcr</translation>
     </message>
     <message>
         <source>Immature:</source>
@@ -1804,18 +1804,18 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Saldo corrente bloccato in indirizzi sola-lettura.</translation>
     </message>
     <message>
-        <source>Your current btca balance, unconfirmed and immature transactions included</source>
-        <translation>Il tuo saldo btca corrente, incluse le transazioni non confermate e non mature</translation>
+        <source>Your current btcr balance, unconfirmed and immature transactions included</source>
+        <translation>Il tuo saldo btcr corrente, incluse le transazioni non confermate e non mature</translation>
     </message>
     <message>
-        <source>zbtca Balance</source>
-        <translation>Bilancio zbtca</translation>
+        <source>zbtcr Balance</source>
+        <translation>Bilancio zbtcr</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zbtca are spendable.</source>
+These zbtcr are spendable.</source>
         <translation>Maturi: più di 20 conferme e più di 1 conio della stessa denominazione dopo il conio.
-Questi zbtca sono spendibili.</translation>
+Questi zbtcr sono spendibili.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -1846,8 +1846,8 @@ Questi zbtca sono spendibili.</translation>
         <translation>Spendibili:</translation>
     </message>
     <message>
-        <source>Locked btca or Masternode collaterals. These are excluded from zbtca minting.</source>
-        <translation>btca bloccati o collaterali Masternodo. Questi sono esclusi dal conio di zbtca.</translation>
+        <source>Locked btcr or Masternode collaterals. These are excluded from zbtcr minting.</source>
+        <translation>btcr bloccati o collaterali Masternodo. Questi sono esclusi dal conio di zbtcr.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -1858,18 +1858,18 @@ Questi zbtca sono spendibili.</translation>
         <translation>Non confermati:</translation>
     </message>
     <message>
-        <source>Your current zbtca balance, unconfirmed and immature zbtca included.</source>
-        <translation>Il tuo saldo zbtca corrente, inclusi zbtca non confermati e non maturi</translation>
+        <source>Your current zbtcr balance, unconfirmed and immature zbtcr included.</source>
+        <translation>Il tuo saldo zbtcr corrente, inclusi zbtcr non confermati e non maturi</translation>
     </message>
     <message>
         <source>Recent transactions</source>
         <translation>Transazioni recenti</translation>
     </message>
     <message>
-        <source>Current percentage of zbtca.
+        <source>Current percentage of zbtcr.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Percentuale corrente di zbtca.
+        <translation>Percentuale corrente di zbtcr.
 Se il conio automatico è attivato questa percentuale si stabilizzerà all'incirca sulla percentuale stabilita per il conio automatico (percentuale prestabilita = 10%).
 </translation>
     </message>
@@ -1878,14 +1878,14 @@ Se il conio automatico è attivato questa percentuale si stabilizzerà all'incir
         <translation>AutoMint è attivo e impostato su</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in btca.conf.</source>
-        <translation>Per disabilitare il conio automatico aggiungi 'enablezeromint=0' in btca.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in btcr.conf.</source>
+        <translation>Per disabilitare il conio automatico aggiungi 'enablezeromint=0' in btcr.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btca.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btcr.conf</source>
         <translation>Conio automatico è correntemente disattivato.
-Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=1' in btca.conf</translation>
+Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=1' in btcr.conf</translation>
     </message>
 </context>
 <context>
@@ -1933,12 +1933,12 @@ Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
-        <source>0.000 000 00 btca</source>
-        <translation>0.000 000 00 btca</translation>
+        <source>0.000 000 00 btcr</source>
+        <translation>0.000 000 00 btcr</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1961,16 +1961,16 @@ Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=
         <translation>PRIVACY</translation>
     </message>
     <message>
-        <source>Enter an amount of btca to convert to zbtca</source>
-        <translation>Immetti un importo di btca da convertire in zbtca</translation>
+        <source>Enter an amount of btcr to convert to zbtcr</source>
+        <translation>Immetti un importo di btcr da convertire in zbtcr</translation>
     </message>
     <message>
-        <source>zbtca Control</source>
-        <translation>Controllo zbtca</translation>
+        <source>zbtcr Control</source>
+        <translation>Controllo zbtcr</translation>
     </message>
     <message>
-        <source>zbtca Selected:</source>
-        <translation>zbtca selezionati:</translation>
+        <source>zbtcr Selected:</source>
+        <translation>zbtcr selezionati:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -1981,23 +1981,23 @@ Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=
         <translation>Spendi Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zbtca for spending</source>
-        <translation>zbtca disponibili disponibili per essere spesi (maturi e spendibili)</translation>
+        <source>Available (mature and spendable) zbtcr for spending</source>
+        <translation>zbtcr disponibili disponibili per essere spesi (maturi e spendibili)</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Bilancio Disponibile:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zbtca for spending
+        <source>Available (mature and spendable) zbtcr for spending
 
-zbtca are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>zbtca disponibili disponibili per essere spesi (maturi e spendibili)
-Gli zbtca sono maturi quando hanno più di 20 conferme E più di 2 conii della stessa denominazione dopo che sono stati coniati</translation>
+zbtcr are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>zbtcr disponibili disponibili per essere spesi (maturi e spendibili)
+Gli zbtcr sono maturi quando hanno più di 20 conferme E più di 2 conii della stessa denominazione dopo che sono stati coniati</translation>
     </message>
     <message>
-        <source>0 zbtca</source>
-        <translation>0 zbtca</translation>
+        <source>0 zbtcr</source>
+        <translation>0 zbtcr</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
@@ -2040,31 +2040,31 @@ Gli zbtca sono maturi quando hanno più di 20 conferme E più di 2 conii della s
         <translation>Statistiche Zerocoin:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zbtca</source>
-        <translation>Saldo totale inclusi zbtca non confermati e non maturi</translation>
+        <source>Total Balance including unconfirmed and immature zbtcr</source>
+        <translation>Saldo totale inclusi zbtcr non confermati e non maturi</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
         <translation>Saldo totale Zerocoin:</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zbtca minting.
+        <source>Show the current status of automatic zbtcr minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to btca.conf
-- disable: add 'enablezeromint=0' to btca.conf
+- enable: add 'enablezeromint=1' to btcr.conf
+- disable: add 'enablezeromint=0' to btcr.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zbtca
+- menu Settings-&gt;Options-&gt;Percentage of autominted zbtcr
 
 </source>
-        <translation>Mostra lo stato corrente del conio automatico zbtca.
+        <translation>Mostra lo stato corrente del conio automatico zbtcr.
 Per cambiare lo stato (riavvio necessario):
-- attivato: aggiungi 'enablezeromint=1' a btca.conf
-- disattivato: aggiungi 'enablezeromint=0' a btca.conf
+- attivato: aggiungi 'enablezeromint=1' a btcr.conf
+- disattivato: aggiungi 'enablezeromint=0' a btcr.conf
 
 Per cambiare la percentuale (riavvio non necessario):
-- menu Impostazioni-&gt;Opzioni-&gt;Percentuale di zbtca da coniare automaticamente
+- menu Impostazioni-&gt;Opzioni-&gt;Percentuale di zbtcr da coniare automaticamente
 
 </translation>
     </message>
@@ -2209,8 +2209,8 @@ Per cambiare la percentuale (riavvio non necessario):
         <translation>Copia ammontare</translation>
     </message>
     <message>
-        <source>zbtca Mint</source>
-        <translation>Conio zbtca</translation>
+        <source>zbtcr Mint</source>
+        <translation>Conio zbtcr</translation>
     </message>
     <message>
         <source>AutoMint Status:</source>
@@ -2483,8 +2483,8 @@ Per cambiare la percentuale (riavvio non necessario):
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The btca address to sign the message with</source>
-        <translation>L'indirizzo btca per firmare il messaggio con</translation>
+        <source>The btcr address to sign the message with</source>
+        <translation>L'indirizzo btcr per firmare il messaggio con</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2507,16 +2507,16 @@ Per cambiare la percentuale (riavvio non necessario):
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this btca address</source>
-        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo btca</translation>
+        <source>Sign the message to prove you own this btcr address</source>
+        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo btcr</translation>
     </message>
     <message>
-        <source>The btca address the message was signed with</source>
-        <translation>L'indirizzo btca con cui è stato firmato il messaggio</translation>
+        <source>The btcr address the message was signed with</source>
+        <translation>L'indirizzo btcr con cui è stato firmato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified btca address</source>
-        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo btca specificato </translation>
+        <source>Verify the message to ensure it was signed with the specified btcr address</source>
+        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo btcr specificato </translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -2554,8 +2554,8 @@ Per cambiare la percentuale (riavvio non necessario):
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     </context>
 <context>
@@ -2666,18 +2666,18 @@ Per cambiare la percentuale (riavvio non necessario):
     </message>
     </context>
 <context>
-    <name>ZbtcaControlDialog</name>
+    <name>ZbtcrControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     </context>
 <context>
-    <name>btca-core</name>
+    <name>btcr-core</name>
     <message>
         <source>Error</source>
         <translation>Errore</translation>

@@ -62,12 +62,12 @@
         <translation>Adresa primatelja</translation>
     </message>
     <message>
-        <source>These are your btca addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To su vaše btca adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your btcr addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To su vaše btcr adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your btca addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To su vaše btca adrese za primanje uplata. Preporuča se upotreba nove adrese primatelja za svaku transakciju.</translation>
+        <source>These are your btcr addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To su vaše btcr adrese za primanje uplata. Preporuča se upotreba nove adrese primatelja za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Potvrdi šifriranje novčanika</translation>
     </message>
     <message>
-        <source>btca will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcas from being stolen by malware infecting your computer.</source>
-        <translation>btca se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše btca od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
+        <source>btcr will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your btcrs from being stolen by malware infecting your computer.</source>
+        <translation>btcr se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše btcr od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Jeste li sigurni da želite šifrirati svoj novčanik?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btca&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrirate svoj novčanik i izgubite zaporku, 1 izgubit ćete sve Vaše btcaove 1 !</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR btcr&lt;/b&gt;!</source>
+        <translation>Upozorenje: Ako šifrirate svoj novčanik i izgubite zaporku, 1 izgubit ćete sve Vaše btcrove 1 !</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adresa:</translation>
     </message>
     <message>
-        <source>Enter a btca Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Unesite btca adresu koju želite šifrirati pomoću BIP 38. Unesite zaporku u srednjem okviru. Pritisnite šifriranje za izračunavanje šifriranog privatnog ključa.</translation>
+        <source>Enter a btcr Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Unesite btcr adresu koju želite šifrirati pomoću BIP 38. Unesite zaporku u srednjem okviru. Pritisnite šifriranje za izračunavanje šifriranog privatnog ključa.</translation>
     </message>
     <message>
-        <source>The btca address to encrypt</source>
-        <translation>btca adresa za šifriranje</translation>
+        <source>The btcr address to encrypt</source>
+        <translation>btcr adresa za šifriranje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this btca address</source>
-        <translation>Šifriranje privatnog ključa za ovu btca adresu</translation>
+        <source>Encrypt the private key for this btcr address</source>
+        <translation>Šifriranje privatnog ključa za ovu btcr adresu</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>Pregled povijesti transakcija</translation>
     </message>
     <message>
-        <source>Privacy Actions for zbtca</source>
-        <translation>Postavke privatnosti za zbtca</translation>
+        <source>Privacy Actions for zbtcr</source>
+        <translation>Postavke privatnosti za zbtcr</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -645,16 +645,16 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
-        <source>Send coins to a btca address</source>
-        <translation>Pošaljite kovanice na btca adresu</translation>
+        <source>Send coins to a btcr address</source>
+        <translation>Pošaljite kovanice na btcr adresu</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and btca: URIs)</source>
-        <translation>Zahtjev za plaćanje (generira QR kodove i btca: URI)</translation>
+        <source>Request payments (generates QR codes and btcr: URIs)</source>
+        <translation>Zahtjev za plaćanje (generira QR kodove i btcr: URI)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Pretraži masternodes</translation>
     </message>
     <message>
-        <source>&amp;About btca Core</source>
-        <translation>O btca Core</translation>
+        <source>&amp;About btcr Core</source>
+        <translation>O btcr Core</translation>
     </message>
     <message>
-        <source>Show information about btca Core</source>
-        <translation>Prikaz informacija o btca Core-u</translation>
+        <source>Show information about btcr Core</source>
+        <translation>Prikaz informacija o btcr Core-u</translation>
     </message>
     <message>
-        <source>Modify configuration options for btca</source>
-        <translation>Izmijenite konfiguracijske opcije za btca</translation>
+        <source>Modify configuration options for btcr</source>
+        <translation>Izmijenite konfiguracijske opcije za btcr</translation>
     </message>
     <message>
-        <source>Sign messages with your btca addresses to prove you own them</source>
-        <translation>Potpišite poruke s vašim btca adresama kako biste dokazali da ih posjedujete</translation>
+        <source>Sign messages with your btcr addresses to prove you own them</source>
+        <translation>Potpišite poruke s vašim btcr adresama kako biste dokazali da ih posjedujete</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified btca addresses</source>
-        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim btca adresama</translation>
+        <source>Verify messages to ensure they were signed with specified btcr addresses</source>
+        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim btcr adresama</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Otvori Masternode konfiguracijsku datoteku</translation>
     </message>
     <message>
-        <source>Open a btca: URI or payment request</source>
-        <translation>Otvori btca: URI zahtjev za plačanje</translation>
+        <source>Open a btcr: URI or payment request</source>
+        <translation>Otvori btcr: URI zahtjev za plačanje</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Prozor Block preglednika</translation>
     </message>
     <message>
-        <source>Show the btca Core help message to get a list with possible btca command-line options</source>
-        <translation>Pokažite poruku btca Core pomoći da biste dobili popis s mogućim btca opcijama naredbenog retka</translation>
+        <source>Show the btcr Core help message to get a list with possible btcr command-line options</source>
+        <translation>Pokažite poruku btcr Core pomoći da biste dobili popis s mogućim btcr opcijama naredbenog retka</translation>
     </message>
     <message>
-        <source>btca Core client</source>
-        <translation>btcaIX Core Klijent</translation>
+        <source>btcr Core client</source>
+        <translation>btcrIX Core Klijent</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to btca network</source>
-        <translation><numerusform>%n aktivne veze na btca mrežu</numerusform><numerusform>%n aktivne veze na btca mrežu</numerusform><numerusform>%n aktivne veze na btca mrežu</numerusform></translation>
+        <source>%n active connection(s) to btcr network</source>
+        <translation><numerusform>%n aktivne veze na btcr mrežu</numerusform><numerusform>%n aktivne veze na btcr mrežu</numerusform><numerusform>%n aktivne veze na btcr mrežu</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ Višestruko slanje: %1</translation>
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btca.conf).</source>
-        <translation>Nisu prikazane sve transakcije. Za pregled svih transakcija morate postaviti txindex = 1 u konfiguracijskoj datoteci (btca.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (btcr.conf).</source>
+        <translation>Nisu prikazane sve transakcije. Za pregled svih transakcija morate postaviti txindex = 1 u konfiguracijskoj datoteci (btcr.conf).</translation>
     </message>
 </context>
 <context>
@@ -1130,8 +1130,8 @@ Višestruko slanje: %1</translation>
         <translation>Ova oznaka postaje crvena ako neki primatelj prima iznos manji od %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 ubtca per input.</source>
-        <translation>Može varirati +/- %1 ubtca po unosu.</translation>
+        <source>Can vary +/- %1 ubtcr per input.</source>
+        <translation>Može varirati +/- %1 ubtcr po unosu.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1185,8 +1185,8 @@ Višestruko slanje: %1</translation>
         <translation>Uređivanje adrese slanja</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid btca address.</source>
-        <translation>Unesena adresa "%1" nije važeća btca adresa.</translation>
+        <source>The entered address "%1" is not a valid btcr address.</source>
+        <translation>Unesena adresa "%1" nije važeća btcr adresa.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ Višestruko slanje: %1</translation>
         <translation>verzija</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About btca Core</source>
-        <translation>O btca Core</translation>
+        <source>About btcr Core</source>
+        <translation>O btcr Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ Višestruko slanje: %1</translation>
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to btca Core.</source>
-        <translation>Dobrodošli u btca Core.</translation>
+        <source>Welcome to btcr Core.</source>
+        <translation>Dobrodošli u btcr Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where btca Core will store its data.</source>
-        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će btca Core pohraniti svoje podatke.</translation>
+        <source>As this is the first time the program is launched, you can choose where btcr Core will store its data.</source>
+        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će btcr Core pohraniti svoje podatke.</translation>
     </message>
     <message>
-        <source>btca Core will download and store a copy of the btca block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>btca Core preuzima i pohranjuje kopiju btca blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
+        <source>btcr Core will download and store a copy of the btcr block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>btcr Core preuzima i pohranjuje kopiju btcr blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ Višestruko slanje: %1</translation>
         <translation>Koristite prilagođeni direktorij podataka:</translation>
     </message>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ Višestruko slanje: %1</translation>
         <translation>Unesite adresu za slanje</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btca addresses after it matures.
-To Add: enter percentage to give and btca address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other btcr addresses after it matures.
+To Add: enter percentage to give and btcr address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend vam omogućuje da automatski pošaljete do 100% svoje nagrade za ulog ili masternode  nagrade na popis drugih btca adresa nakon što sazrijete.
-Za Dodaj: unesite postotak za davanje i btca adresu za dodavanje MultiSend vektoru.
+        <translation>MultiSend vam omogućuje da automatski pošaljete do 100% svoje nagrade za ulog ili masternode  nagrade na popis drugih btcr adresa nakon što sazrijete.
+Za Dodaj: unesite postotak za davanje i btcr adresu za dodavanje MultiSend vektoru.
 Za brisanje: Unesite adresu za brisanje i pritisnite Delete.
 MultiSend neće biti aktiviran dok ne kliknete Aktiviraj</translation>
     </message>
@@ -1679,8 +1679,8 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Adresa / iznos:</translation>
     </message>
     <message>
-        <source>Add destinations to send btca to</source>
-        <translation>Dodajte odredišta za slanje btca
+        <source>Add destinations to send btcr to</source>
+        <translation>Dodajte odredišta za slanje btcr
 </translation>
     </message>
     <message>
@@ -1779,48 +1779,48 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Odaberi razinu privatnosti.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Koristite 2 odvojene masternode za miješanje sredstava do 10000 btca</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Koristite 2 odvojene masternode za miješanje sredstava do 10000 btcr</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 btca</source>
-        <translation>Koristite 8 zasebnih masternoda za miješanje sredstava do 10000 btca</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 btcr</source>
+        <translation>Koristite 8 zasebnih masternoda za miješanje sredstava do 10000 btcr</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Koristite 16 zasebnih masternodova</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 btca to anonymize 10000 btca</source>
-        <translation>Ova je opcija najbrža i košta oko 0,025 btca da anonimizira 10000 btca</translation>
+        <source>This option is the quickest and will cost about ~0.025 btcr to anonymize 10000 btcr</source>
+        <translation>Ova je opcija najbrža i košta oko 0,025 btcr da anonimizira 10000 btcr</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 btca to anonymize 10000 btca</source>
-        <translation>Ova je opcija umjereno brza i košta oko 0,05 btca da anonimizira 10000 btca</translation>
+        <source>This option is moderately fast and will cost about 0.05 btcr to anonymize 10000 btcr</source>
+        <translation>Ova je opcija umjereno brza i košta oko 0,05 btcr da anonimizira 10000 btcr</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Ovo je najsporiji i najsigurniji izbor. Korištenje maksimalne anonimnosti košta</translation>
     </message>
     <message>
-        <source>0.1 btca per 10000 btca you anonymize.</source>
-        <translation>0,1 btca po 10000 btca za anonimizaciju.</translation>
+        <source>0.1 btcr per 10000 btcr you anonymize.</source>
+        <translation>0,1 btcr po 10000 btcr za anonimizaciju.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Obfuscation Konfiguracija</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Obfuscation je uspješno postavljen na osnovne (%1 i 2 runde). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju btca-a.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Obfuscation je uspješno postavljen na osnovne (%1 i 2 runde). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju btcr-a.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Obfuscation je uspješno postavljen na visoku razinu (%1 i 8 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju btca-a</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Obfuscation je uspješno postavljen na visoku razinu (%1 i 8 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju btcr-a</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btca's configuration screen.</source>
-        <translation>Obfuscation je uspješno postavljen na maksimalnu razinu (%1 i 16 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju btca-a.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening btcr's configuration screen.</source>
+        <translation>Obfuscation je uspješno postavljen na maksimalnu razinu (%1 i 16 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju btcr-a.</translation>
     </message>
 </context>
 <context>
@@ -1881,8 +1881,8 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Ako onemogućite potrošnju nepotvrđenih promjena, promjena s transakcijskog kanala bit će upotrijebljena sve dok ta transakcija nema barem jednu potvrdu. To također utječe na izračun salda.</translation>
     </message>
     <message>
-        <source>Automatically open the btca client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvorite btca klijentski priključak na rooteru. To funkcionira samo kada vaš rooter podržava UPnP i omogućen je.</translation>
+        <source>Automatically open the btcr client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvorite btcr klijentski priključak na rooteru. To funkcionira samo kada vaš rooter podržava UPnP i omogućen je.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1901,12 +1901,12 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Stručnjak</translation>
     </message>
     <message>
-        <source>Automatically start btca after logging in to the system.</source>
-        <translation>Automatski pokrenite btca nakon prijave u sustav.</translation>
+        <source>Automatically start btcr after logging in to the system.</source>
+        <translation>Automatski pokrenite btcr nakon prijave u sustav.</translation>
     </message>
     <message>
-        <source>&amp;Start btca on system login</source>
-        <translation>Pokrenite btca na prijavi u sustav</translation>
+        <source>&amp;Start btcr on system login</source>
+        <translation>Pokrenite btcr na prijavi u sustav</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1933,14 +1933,14 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Mreža</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting btca.</source>
-        <translation>Ovdje se može postaviti jezik korisničkog sučelja. Ova postavka će stupiti na snagu nakon ponovnog pokretanja btca-a.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting btcr.</source>
+        <translation>Ovdje se može postaviti jezik korisničkog sučelja. Ova postavka će stupiti na snagu nakon ponovnog pokretanja btcr-a.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/btca/btca-translations</source>
+https://www.transifex.com/btcr/btcr-translations</source>
         <translation>Jezik nedostaje ili prijevod nije potpun? Pomozite s prijevodima ovdje:
-https://www.transifex.com/btca/btca-translations</translation>
+https://www.transifex.com/btcr/btcr-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1948,36 +1948,36 @@ https://www.transifex.com/btca/btca-translations</translation>
 </translation>
     </message>
     <message>
-        <source>Enable automatic minting of btca units to zbtca</source>
+        <source>Enable automatic minting of btcr units to zbtcr</source>
         <translation>Omogućite jedinica</translation>
     </message>
     <message>
-        <source>Enable zbtca Automint</source>
-        <translation>Omogući zbtca Automint</translation>
+        <source>Enable zbtcr Automint</source>
+        <translation>Omogući zbtcr Automint</translation>
     </message>
     <message>
-        <source>Percentage of incoming btca which get automatically converted to zbtca via Zerocoin Protocol (min: 10%)</source>
-        <translation>Postotak dolaznih btca koji se automatski pretvara u zbtca putem protokola Zerocoin (min: 10%)</translation>
+        <source>Percentage of incoming btcr which get automatically converted to zbtcr via Zerocoin Protocol (min: 10%)</source>
+        <translation>Postotak dolaznih btcr koji se automatski pretvara u zbtcr putem protokola Zerocoin (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zbtca</source>
-        <translation>Postotak automatiziranog zbtca</translation>
+        <source>Percentage of autominted zbtcr</source>
+        <translation>Postotak automatiziranog zbtcr</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough btca for this denomination is available</source>
-        <translation>Pričekajte s automatskom pretvorbom u Zerocoin dok ne bude dostupno dovoljno btca za apoen</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough btcr for this denomination is available</source>
+        <translation>Pričekajte s automatskom pretvorbom u Zerocoin dok ne bude dostupno dovoljno btcr za apoen</translation>
     </message>
     <message>
-        <source>Preferred Automint zbtca Denomination</source>
-        <translation>Preferirana Automint zbtca denominacijad</translation>
+        <source>Preferred Automint zbtcr Denomination</source>
+        <translation>Preferirana Automint zbtcr denominacijad</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
         <translation>Prag razdvajanja Stake-a:</translation>
     </message>
     <message>
-        <source>Connect to the btca network through a SOCKS5 proxy.</source>
-        <translation>Povežite se s btca mrežom putem SOCKS5 proxy poslužitelja.</translation>
+        <source>Connect to the btcr network through a SOCKS5 proxy.</source>
+        <translation>Povežite se s btcr mrežom putem SOCKS5 proxy poslužitelja.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2131,8 +2131,8 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Ukupni saldo, uključujući sve nedostupne kovanice.</translation>
     </message>
     <message>
-        <source>btca Balance</source>
-        <translation>btca Saldo</translation>
+        <source>btcr Balance</source>
+        <translation>btcr Saldo</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2155,18 +2155,18 @@ https://www.transifex.com/btca/btca-translations</translation>
         <translation>Trenutačno zaključana ravnoteža u adresama samo za gledanje</translation>
     </message>
     <message>
-        <source>Your current btca balance, unconfirmed and immature transactions included</source>
-        <translation>Uključena je vaša trenutna bilanca btca, nepotvrđene i nezrele transakcije</translation>
+        <source>Your current btcr balance, unconfirmed and immature transactions included</source>
+        <translation>Uključena je vaša trenutna bilanca btcr, nepotvrđene i nezrele transakcije</translation>
     </message>
     <message>
-        <source>zbtca Balance</source>
-        <translation>zbtca Bilanca</translation>
+        <source>zbtcr Balance</source>
+        <translation>zbtcr Bilanca</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zbtca are spendable.</source>
+These zbtcr are spendable.</source>
         <translation>Mature: više od 20 potvrda i više od 1 mint od iste denominacije nakon što je mintan.
-Ti zbtcas se mogu potrošiti.</translation>
+Ti zbtcrs se mogu potrošiti.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2175,8 +2175,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s btca mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s btcr mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2219,8 +2219,8 @@ Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</tran
         <translation>Po potrošiti:</translation>
     </message>
     <message>
-        <source>Locked btca or Masternode collaterals. These are excluded from zbtca minting.</source>
-        <translation>Zaključani btca ili Masternode kolateral. Oni su isključeni iz zbtca kovanja.</translation>
+        <source>Locked btcr or Masternode collaterals. These are excluded from zbtcr minting.</source>
+        <translation>Zaključani btcr ili Masternode kolateral. Oni su isključeni iz zbtcr kovanja.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2231,8 +2231,8 @@ Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</tran
         <translation>Nepotvrđeno:</translation>
     </message>
     <message>
-        <source>Your current zbtca balance, unconfirmed and immature zbtca included.</source>
-        <translation>Vaša trenutačna zbtca bilanca, nepotvrđena i nezrela zbtca.</translation>
+        <source>Your current zbtcr balance, unconfirmed and immature zbtcr included.</source>
+        <translation>Vaša trenutačna zbtcr bilanca, nepotvrđena i nezrela zbtcr.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2243,10 +2243,10 @@ Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</tran
         <translation>nije sinkronizirano</translation>
     </message>
     <message>
-        <source>Current percentage of zbtca.
+        <source>Current percentage of zbtcr.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Trenutni postotak zbtca.
+        <translation>Trenutni postotak zbtcr.
 Ako je omogućeno automatsko navođenje, ovaj postotak će se podmiriti oko konfiguriranog postotka automatskog navođenja (zadano = 10%).
 </translation>
     </message>
@@ -2255,14 +2255,14 @@ Ako je omogućeno automatsko navođenje, ovaj postotak će se podmiriti oko konf
         <translation>AutoMint je trenutno omogućen i podešen na</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in btca.conf.</source>
-        <translation>Da biste onemogućili AutoMint, dodajte 'enablezeromint=0' u btca.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in btcr.conf.</source>
+        <translation>Da biste onemogućili AutoMint, dodajte 'enablezeromint=0' u btcr.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btca.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in btcr.conf</source>
         <translation>AutoMint je trenutno onemogućen.
-Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablezeromint=1' u btca.conf</translation>
+Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablezeromint=1' u btcr.conf</translation>
     </message>
 </context>
 <context>
@@ -2288,12 +2288,12 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>Nevažeća adresa za plaćanje %1</translation>
     </message>
     <message>
-        <source>Cannot start btca: click-to-pay handler</source>
-        <translation>Ne može se pokrenuti btca: clik-to-pay handler</translation>
+        <source>Cannot start btcr: click-to-pay handler</source>
+        <translation>Ne može se pokrenuti btcr: clik-to-pay handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid btca address or malformed URI parameters.</source>
-        <translation>URI se ne može analizirati! To može biti uzrokovana nevažećom btca adresom ili nepravilnim URI parametrima.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid btcr address or malformed URI parameters.</source>
+        <translation>URI se ne može analizirati! To može biti uzrokovana nevažećom btcr adresom ili nepravilnim URI parametrima.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2378,8 +2378,8 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>Zerocoin radnje:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btca network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s btca mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the btcr network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s btcr mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2390,8 +2390,8 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2402,8 +2402,8 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>Dostupno za Minting:</translation>
     </message>
     <message>
-        <source>0.000 000 00 btca</source>
-        <translation>0.000 000 00 btca</translation>
+        <source>0.000 000 00 btcr</source>
+        <translation>0.000 000 00 btcr</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2442,16 +2442,16 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>PRIVATNOST</translation>
     </message>
     <message>
-        <source>Enter an amount of btca to convert to zbtca</source>
-        <translation>Unesite iznos btca za pretvorbu u zbtca</translation>
+        <source>Enter an amount of btcr to convert to zbtcr</source>
+        <translation>Unesite iznos btcr za pretvorbu u zbtcr</translation>
     </message>
     <message>
-        <source>zbtca Control</source>
-        <translation>Upravljanje zbtca</translation>
+        <source>zbtcr Control</source>
+        <translation>Upravljanje zbtcr</translation>
     </message>
     <message>
-        <source>zbtca Selected:</source>
-        <translation>zbtca Odabrani:</translation>
+        <source>zbtcr Selected:</source>
+        <translation>zbtcr Odabrani:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2466,24 +2466,24 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>Potroši Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zbtca for spending</source>
-        <translation>Dostupni (zreli) zbtca za potrošnju</translation>
+        <source>Available (mature and spendable) zbtcr for spending</source>
+        <translation>Dostupni (zreli) zbtcr za potrošnju</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Dostupna Bilanca:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zbtca for spending
+        <source>Available (mature and spendable) zbtcr for spending
 
-zbtca are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Dostupni (zreli) zbtca za potrošnju
+zbtcr are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Dostupni (zreli) zbtcr za potrošnju
 
-zbtca su zreli kada imaju više od 20 potvrda I više od 2 mint od iste denominacije nakon što su bili mintani</translation>
+zbtcr su zreli kada imaju više od 20 potvrda I više od 2 mint od iste denominacije nakon što su bili mintani</translation>
     </message>
     <message>
-        <source>0 zbtca</source>
-        <translation>0 zbtca</translation>
+        <source>0 zbtcr</source>
+        <translation>0 zbtcr</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2502,8 +2502,8 @@ zbtca su zreli kada imaju više od 20 potvrda I više od 2 mint od iste denomina
         <translation>Platiti:</translation>
     </message>
     <message>
-        <source>The btca address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>btca adresa za slanje uplate. Stvara lokalno plaćanje za sebe kada je prazno.</translation>
+        <source>The btcr address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>btcr adresa za slanje uplate. Stvara lokalno plaćanje za sebe kada je prazno.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2554,8 +2554,8 @@ zbtca su zreli kada imaju više od 20 potvrda I više od 2 mint od iste denomina
         <translation>Statistike Zerocoina:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zbtca</source>
-        <translation>Ukupni saldo uključujući nepotvrđeni i nedovršeni zbtca</translation>
+        <source>Total Balance including unconfirmed and immature zbtcr</source>
+        <translation>Ukupni saldo uključujući nepotvrđeni i nedovršeni zbtcr</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2576,24 +2576,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zbtca minting.
+        <source>Show the current status of automatic zbtcr minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to btca.conf
-- disable: add 'enablezeromint=0' to btca.conf
+- enable: add 'enablezeromint=1' to btcr.conf
+- disable: add 'enablezeromint=0' to btcr.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zbtca
+- menu Settings-&gt;Options-&gt;Percentage of autominted zbtcr
 
 </source>
-        <translation>Pokažite trenutačni status automatskog zbtca mintanja.
+        <translation>Pokažite trenutačni status automatskog zbtcr mintanja.
 
 Da biste promijenili status (potrebno je ponovno pokretanje):
-- omogući: dodajte 'enablezeromint = 1' u btca.conf
-- onemogućiti: dodajte 'enablezeromint = 0' na btca.conf
+- omogući: dodajte 'enablezeromint = 1' u btcr.conf
+- onemogućiti: dodajte 'enablezeromint = 0' na btcr.conf
 
 Promjena postotka (nije potrebno ponovno pokretanje):
-- izbornik Postavke-&gt; Opcije-&gt; Postotak zbtca</translation>
+- izbornik Postavke-&gt; Opcije-&gt; Postotak zbtcr</translation>
     </message>
     <message>
         <source>AutoMint Status</source>
@@ -2787,12 +2787,12 @@ Maximum allowed: </source>
 Maksimalno dopušteno:</translation>
     </message>
     <message>
-        <source>zbtca Spend #: </source>
-        <translation>zbtca utrošeno #: </translation>
+        <source>zbtcr Spend #: </source>
+        <translation>zbtcr utrošeno #: </translation>
     </message>
     <message>
-        <source>zbtca Mint</source>
-        <translation>zbtca Mint</translation>
+        <source>zbtcr Mint</source>
+        <translation>zbtcr Mint</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2807,12 +2807,12 @@ Maksimalno dopušteno:</translation>
         <translation> Konfigirani ciljani postotak: &lt;b&gt;</translation>
     </message>
     <message>
-        <source>zbtca is currently disabled due to maintenance.</source>
-        <translation>Zbog održavanja zbtca je trenutačno onemogućen.</translation>
+        <source>zbtcr is currently disabled due to maintenance.</source>
+        <translation>Zbog održavanja zbtcr je trenutačno onemogućen.</translation>
     </message>
     <message>
-        <source>zbtca is currently undergoing maintenance.</source>
-        <translation>Radovi u tijeku na zbtca.</translation>
+        <source>zbtcr is currently undergoing maintenance.</source>
+        <translation>Radovi u tijeku na zbtcr.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2899,8 +2899,8 @@ Maksimalno dopušteno:</translation>
         <translation>Uspješno mintano</translation>
     </message>
     <message>
-        <source> zbtca in </source>
-        <translation> ulazni zbtca </translation>
+        <source> zbtcr in </source>
+        <translation> ulazni zbtcr </translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2926,8 +2926,8 @@ Maksimalno dopušteno:</translation>
         <translation>Nije dodijeljena adresa "Plati", stvarajući lokalnu uplatu</translation>
     </message>
     <message>
-        <source>Invalid btca Address</source>
-        <translation>Nevažeća btca Adresa</translation>
+        <source>Invalid btcr Address</source>
+        <translation>Nevažeća btcr Adresa</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2958,12 +2958,12 @@ Maksimalno dopušteno:</translation>
         <translation>Potvrdite slanje novca</translation>
     </message>
     <message>
-        <source>Version 1 zbtca require a security level of 100 to successfully spend.</source>
-        <translation>Verzija 1 zbtca zahtjeva sigurnosnu razinu 100 da se uspješno utroši.</translation>
+        <source>Version 1 zbtcr require a security level of 100 to successfully spend.</source>
+        <translation>Verzija 1 zbtcr zahtjeva sigurnosnu razinu 100 da se uspješno utroši.</translation>
     </message>
     <message>
-        <source>Failed to spend zbtca</source>
-        <translation>Neuspjelo trošenje zbtca</translation>
+        <source>Failed to spend zbtcr</source>
+        <translation>Neuspjelo trošenje zbtcr</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2984,7 +2984,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of btca to convert to zbtca</comment>
+        <comment>Enter an amount of btcr to convert to zbtcr</comment>
         <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3027,8 +3027,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Iznos</translation>
     </message>
     <message>
-        <source>Enter a btca address (e.g. %1)</source>
-        <translation>Unesite btca adresu (npr., %1)</translation>
+        <source>Enter a btcr address (e.g. %1)</source>
+        <translation>Unesite btcr adresu (npr., %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3166,8 +3166,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Block chain</translation>
     </message>
     <message>
-        <source>Open the btca debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorite btca debug log datoteku iz aktualnog direktorija podataka. To može potrajati nekoliko sekundi za velike datoteke zapisnika.</translation>
+        <source>Open the btcr debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorite btcr debug log datoteku iz aktualnog direktorija podataka. To može potrajati nekoliko sekundi za velike datoteke zapisnika.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3302,8 +3302,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Put prilagođenog sigurnosnog kopiranja:</translation>
     </message>
     <message>
-        <source>Custom zbtca Backup Path:</source>
-        <translation>Prilagođeni put zbtca sigurnosne kopije:</translation>
+        <source>Custom zbtcr Backup Path:</source>
+        <translation>Prilagođeni put zbtcr sigurnosne kopije:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
@@ -3382,8 +3382,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Iz:</translation>
     </message>
     <message>
-        <source>Welcome to the btca RPC console.</source>
-        <translation>Dobrodošli na btca RPC konzolu.</translation>
+        <source>Welcome to the btcr RPC console.</source>
+        <translation>Dobrodošli na btcr RPC konzolu.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3509,16 +3509,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dodatna oznaka za povezivanje s novom adresom primatelja.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the btca network.</source>
-        <translation>Dodatna poruka priložena zahtjevu za plaćanje, koji će se prikazati kada se zahtjev otvori. Napomena: poruka neće biti poslana s plaćanjem putem btca mreže.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the btcr network.</source>
+        <translation>Dodatna poruka priložena zahtjevu za plaćanje, koji će se prikazati kada se zahtjev otvori. Napomena: poruka neće biti poslana s plaćanjem putem btcr mreže.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>PRIMI</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the btca network.</source>
-        <translation>Dodatna poruka za pridruživanje zahtjevu za plaćanje koja će se prikazati kada se zahtjev otvori.Napomena: poruka neće biti poslana s plaćanjem putem btca mreže.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the btcr network.</source>
+        <translation>Dodatna poruka za pridruživanje zahtjevu za plaćanje koja će se prikazati kada se zahtjev otvori.Napomena: poruka neće biti poslana s plaćanjem putem btcr mreže.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3747,8 +3747,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Veličina UTXO:</translation>
     </message>
     <message>
-        <source>0 btca</source>
-        <translation>0 btca</translation>
+        <source>0 btcr</source>
+        <translation>0 btcr</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3805,16 +3805,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Kovanice se automatski odabiru</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 ubtcas and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcas in fee,&lt;br /&gt;while "at least" pays 1000 ubtcas. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ako je prilagođena naknada postavljena na 1000 ubtca-ova, a transakcija je samo 250 bajta, tada "po kilobajtu" se plaća samo 250 ubtca-a, dok se "barem" plaća 1000 ubtca-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
+        <source>If the custom fee is set to 1000 ubtcrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcrs in fee,&lt;br /&gt;while "at least" pays 1000 ubtcrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Ako je prilagođena naknada postavljena na 1000 ubtcr-ova, a transakcija je samo 250 bajta, tada "po kilobajtu" se plaća samo 250 ubtcr-a, dok se "barem" plaća 1000 ubtcr-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 ubtcas and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcas in fee,&lt;br /&gt;while "total at least" pays 1000 ubtcas. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ako je prilagođena naknada postavljena na 1000 ubtca, a transakcija je samo 250 bajta, tada "po kilobajtu" plaća se samo 250 ubtca-ova, a "ukupno barem" plaća 1000 ubtca-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
+        <source>If the custom fee is set to 1000 ubtcrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubtcrs in fee,&lt;br /&gt;while "total at least" pays 1000 ubtcrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Ako je prilagođena naknada postavljena na 1000 ubtcr, a transakcija je samo 250 bajta, tada "po kilobajtu" plaća se samo 250 ubtcr-ova, a "ukupno barem" plaća 1000 ubtcr-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for btca transactions than the network can process.</source>
-        <translation>Plaćanje samo minimalne naknade je sasvim u redu sve dok j obujma transakcija manji od prostora u blokovima. No, budite svjesni da to može dovesti do transakcije koja nikada se ne potvrđuje kada se pojavi više zahtjeva za btca transakcijama nego što mreža može obraditi.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for btcr transactions than the network can process.</source>
+        <translation>Plaćanje samo minimalne naknade je sasvim u redu sve dok j obujma transakcija manji od prostora u blokovima. No, budite svjesni da to može dovesti do transakcije koja nikada se ne potvrđuje kada se pojavi više zahtjeva za btcr transakcijama nego što mreža može obraditi.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3861,8 +3861,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dodaj primatelja</translation>
     </message>
     <message>
-        <source>Anonymized btca</source>
-        <translation>Anonimiziran btca</translation>
+        <source>Anonymized btcr</source>
+        <translation>Anonimiziran btcr</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3909,8 +3909,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Alat za podjelu blocka ne funkcionira s više adresa. Pokušajte ponovo.</translation>
     </message>
     <message>
-        <source>Warning: Invalid btca address</source>
-        <translation>Upozorenje: Nevažeća btca adresa</translation>
+        <source>Warning: Invalid btcr address</source>
+        <translation>Upozorenje: Nevažeća btcr adresa</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4012,8 +4012,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Platiti:</translation>
     </message>
     <message>
-        <source>The btca address to send the payment to</source>
-        <translation>btca adresa za slanje uplate</translation>
+        <source>The btcr address to send the payment to</source>
+        <translation>btcr adresa za slanje uplate</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4052,8 +4052,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Poruka:</translation>
     </message>
     <message>
-        <source>A message that was attached to the btca: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the btca network.</source>
-        <translation>Poruka koja je bila povezana s btca: URI koji će biti pohranjen s transakcijom za vašu referencu. Napomena: ova poruka neće biti poslana preko btca mreže.</translation>
+        <source>A message that was attached to the btcr: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the btcr network.</source>
+        <translation>Poruka koja je bila povezana s btcr: URI koji će biti pohranjen s transakcijom za vašu referencu. Napomena: ova poruka neće biti poslana preko btcr mreže.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -4079,8 +4079,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>btca Core is shutting down...</source>
-        <translation>btca Core se zatvara ...</translation>
+        <source>btcr Core is shutting down...</source>
+        <translation>btcr Core se zatvara ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4102,8 +4102,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Možete potpisati poruke s vašim adresama kako biste dokazali da ih posjedujete. Pazite da ne potpišete ništa nejasno, jer napadi za krađu identiteta mogu Vas pokušati uvjeriti da vam potpišu identitet. Potpišite samo detalje oko kojih se slažete.</translation>
     </message>
     <message>
-        <source>The btca address to sign the message with</source>
-        <translation>btca adresa za potpisivanje poruke</translation>
+        <source>The btcr address to sign the message with</source>
+        <translation>btcr adresa za potpisivanje poruke</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4134,16 +4134,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this btca address</source>
-        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove btca adrese</translation>
+        <source>Sign the message to prove you own this btcr address</source>
+        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove btcr adrese</translation>
     </message>
     <message>
-        <source>The btca address the message was signed with</source>
-        <translation>btca adresa s kojom je potpisana poruka</translation>
+        <source>The btcr address the message was signed with</source>
+        <translation>btcr adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified btca address</source>
-        <translation>Potvrdite poruku kako biste bili sigurni da je potpisana s navedenom btca adresom</translation>
+        <source>Verify the message to ensure it was signed with the specified btcr address</source>
+        <translation>Potvrdite poruku kako biste bili sigurni da je potpisana s navedenom btcr adresom</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4229,8 +4229,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>btca Core</source>
-        <translation>btca Core</translation>
+        <source>btcr Core</source>
+        <translation>btcr Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4245,8 +4245,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dash Core programeri</translation>
     </message>
     <message>
-        <source>The btca Core developers</source>
-        <translation>btca Core programeri</translation>
+        <source>The btcr Core developers</source>
+        <translation>btcr Core programeri</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4526,12 +4526,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Zaprimljeno preko Zametanja</translation>
     </message>
     <message>
-        <source>btca Stake</source>
-        <translation>btca Stake</translation>
+        <source>btcr Stake</source>
+        <translation>btcr Stake</translation>
     </message>
     <message>
-        <source>zbtca Stake</source>
-        <translation>zbtca Stake</translation>
+        <source>zbtcr Stake</source>
+        <translation>zbtcr Stake</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4550,32 +4550,32 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Prikrivanje Stvara Denominacije</translation>
     </message>
     <message>
-        <source>Converted btca to zbtca</source>
-        <translation>Pretvoreni btca u zbtca</translation>
+        <source>Converted btcr to zbtcr</source>
+        <translation>Pretvoreni btcr u zbtcr</translation>
     </message>
     <message>
-        <source>Spent zbtca</source>
-        <translation>Utrošeni zbtca</translation>
+        <source>Spent zbtcr</source>
+        <translation>Utrošeni zbtcr</translation>
     </message>
     <message>
-        <source>Received btca from zbtca</source>
-        <translation>Primljeni btca od zbtca</translation>
+        <source>Received btcr from zbtcr</source>
+        <translation>Primljeni btcr od zbtcr</translation>
     </message>
     <message>
-        <source>Minted Change as zbtca from zbtca Spend</source>
-        <translation>Mintana razlika zbtca od zbtca Utroška</translation>
+        <source>Minted Change as zbtcr from zbtcr Spend</source>
+        <translation>Mintana razlika zbtcr od zbtcr Utroška</translation>
     </message>
     <message>
-        <source>Converted zbtca to btca</source>
-        <translation>Pretvoreni zbtca u btca</translation>
+        <source>Converted zbtcr to btcr</source>
+        <translation>Pretvoreni zbtcr u btcr</translation>
     </message>
     <message>
-        <source>Anonymous (zbtca Transaction)</source>
-        <translation>Anonimno (zbtca Transakcija)</translation>
+        <source>Anonymous (zbtcr Transaction)</source>
+        <translation>Anonimno (zbtcr Transakcija)</translation>
     </message>
     <message>
-        <source>Anonymous (zbtca Stake)</source>
-        <translation>Anonimno (zbtca Stake)</translation>
+        <source>Anonymous (zbtcr Stake)</source>
+        <translation>Anonimno (zbtcr Stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4785,12 +4785,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Izvoz uspješan</translation>
     </message>
     <message>
-        <source>Received btca from zbtca</source>
-        <translation>Primljeni btca od zbtca</translation>
+        <source>Received btcr from zbtcr</source>
+        <translation>Primljeni btcr od zbtcr</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zbtca</source>
-        <translation>Zerocoin Utrošeno, Razlika (ostatak) u zbtca</translation>
+        <source>Zerocoin Spend, Change in zbtcr</source>
+        <translation>Zerocoin Utrošeno, Razlika (ostatak) u zbtcr</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4826,8 +4826,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Salji novac</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 btca.</source>
-        <translation>SwiftX ne podržava slanje visokih vrijednosti. Transakcije su trenutačno ograničene na %1 btca.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 btcr.</source>
+        <translation>SwiftX ne podržava slanje visokih vrijednosti. Transakcije su trenutačno ograničene na %1 btcr.</translation>
     </message>
 </context>
 <context>
@@ -4858,10 +4858,10 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>ZbtcaControlDialog</name>
+    <name>ZbtcrControlDialog</name>
     <message>
-        <source>Select zbtca to Spend</source>
-        <translation>Odabrani zbtca za utrošiti</translation>
+        <source>Select zbtcr to Spend</source>
+        <translation>Odabrani zbtcr za utrošiti</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4872,8 +4872,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>0</translation>
     </message>
     <message>
-        <source>zbtca</source>
-        <translation>zbtca</translation>
+        <source>zbtcr</source>
+        <translation>zbtcr</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4885,7 +4885,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>btca-core</name>
+    <name>btcr-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = zadržite metapodatke tx, npr. Vlasnika računa i podatke o zahtjevu za plaćanje, 2 = odbaci meta podataka tx)</translation>
@@ -4911,8 +4911,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Izračunata kontrolna točka akumulatora nije ono što se bilježi indeksom blokova</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. btca Core is probably already running.</source>
-        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. btca Core vjerojatno već radi.</translation>
+        <source>Cannot obtain a lock on data directory %s. btcr Core is probably already running.</source>
+        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. btcr Core vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4939,16 +4939,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Distribuirano pod MIT softverskom licencom, pogledajte priloženu datoteku COPYING ili &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zbtca minting (0-1, default: %u)</source>
-        <translation>Omogući automatsko sigurnosno kopiranje novčanika nakon svakog zbtca mintanja (0-1, default: %u)</translation>
+        <source>Enable automatic wallet backups triggered after each zbtcr minting (0-1, default: %u)</source>
+        <translation>Omogući automatsko sigurnosno kopiranje novčanika nakon svakog zbtcr mintanja (0-1, default: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for btca inputs (0-1, default: %u)</source>
-        <translation>Omogući ili onemogući staking funkcionalnosti za btca unose (0-1, default: %u)</translation>
+        <source>Enable or disable staking functionality for btcr inputs (0-1, default: %u)</source>
+        <translation>Omogući ili onemogući staking funkcionalnosti za btcr unose (0-1, default: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zbtca inputs (0-1, default: %u)</source>
-        <translation>Omogući ili onemogući staking funkcionalnosti za zbtca unose (0-1, default: %u)</translation>
+        <source>Enable or disable staking functionality for zbtcr inputs (0-1, default: %u)</source>
+        <translation>Omogući ili onemogući staking funkcionalnosti za zbtcr unose (0-1, default: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -4983,12 +4983,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Izvrši naredbu kada se promijeni najbolji blok (%s u cmd zamjenjuje se blokovskim raspršivanjem)</translation>
     </message>
     <message>
-        <source>Fees (in btca/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Naknade (u btca / Kb) manje od toga smatraju se nulom naknadom za prosljeđivanje (zadano: %s)</translation>
+        <source>Fees (in btcr/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Naknade (u btcr / Kb) manje od toga smatraju se nulom naknadom za prosljeđivanje (zadano: %s)</translation>
     </message>
     <message>
-        <source>Fees (in btca/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Naknade (u btca / Kb) manje od toga smatraju se nulom naknadom za izradu transakcija (zadano: %s)</translation>
+        <source>Fees (in btcr/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Naknade (u btcr / Kb) manje od toga smatraju se nulom naknadom za izradu transakcija (zadano: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5087,20 +5087,20 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Ovaj proizvod uključuje softver razvijen od strane OpenSSL projekta za uporabu u OpenSSL Toolkitu i kriptografskom softveru kojeg je napisao Eric Young i UPnP softver koji je napisao Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. btca Core is probably already running.</source>
-        <translation>Nije moguće vezati se na %s na ovom računalu. btca Core vjerojatno već radi.</translation>
+        <source>Unable to bind to %s on this computer. btcr Core is probably already running.</source>
+        <translation>Nije moguće vezati se na %s na ovom računalu. btcr Core vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Nije moguće locirati dovoljno sredstava s domenom Prikrivanja za tu transakciju.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 btca.</source>
-        <translation>Nije moguće pronaći dovoljno prikrivenih sredstava koja nisu denominirana za ovu transakciju koja nisu jednaka 10000 btca.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 btcr.</source>
+        <translation>Nije moguće pronaći dovoljno prikrivenih sredstava koja nisu denominirana za ovu transakciju koja nisu jednaka 10000 btcr.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 btca.</source>
-        <translation>Nije moguće pronaći dovoljno sredstava za ovu transakciju koja nije jednaka 10000 btca.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 btcr.</source>
+        <translation>Nije moguće pronaći dovoljno sredstava za ovu transakciju koja nije jednaka 10000 btcr.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5115,8 +5115,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Upozorenje: -paytxfee je vrlo visoka! To je transakcijska naknada koju ćete platiti ako šaljete transakciju.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong btca Core will not work properly.</source>
-        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, btca Core neće raditi ispravno.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong btcr Core will not work properly.</source>
+        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, btcr Core neće raditi ispravno.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5267,8 +5267,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Autorska prava (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) %i The btca Core Developers</source>
-        <translation>Autorska prava (C) %i The btca Core Developers</translation>
+        <source>Copyright (C) %i The btcr Core Developers</source>
+        <translation>Autorska prava (C) %i The btcr Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5356,8 +5356,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Pogreška pri učitavanju wallet.dat: novčanik oštećen</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of btca Core</source>
-        <translation>Pogreška prilikom učitavanja wallet.dat: Novčanik zahtijeva noviju verziju btca jezgre</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of btcr Core</source>
+        <translation>Pogreška prilikom učitavanja wallet.dat: Novčanik zahtijeva noviju verziju btcr jezgre</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5412,8 +5412,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Greška čitanja bloka</translation>
     </message>
     <message>
-        <source>Fee (in btca/kB) to add to transactions you send (default: %s)</source>
-        <translation>Naknada (u btca / kB) za dodavanje transakcija koje šaljete (zadano: %s)</translation>
+        <source>Fee (in btcr/kB) to add to transactions you send (default: %s)</source>
+        <translation>Naknada (u btcr / kB) za dodavanje transakcija koje šaljete (zadano: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -5472,8 +5472,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Informacije</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. btca Core is shutting down.</source>
-        <translation>Provjera ispravnosti inicijalizacije nije uspjela. btca Core se zatvara.</translation>
+        <source>Initialization sanity check failed. btcr Core is shutting down.</source>
+        <translation>Provjera ispravnosti inicijalizacije nije uspjela. btcr Core se zatvara.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5544,8 +5544,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Postotak automatskog kovanog Zerocoina (1-100, zadano: %u)</translation>
     </message>
     <message>
-        <source>Reindex the btca and zbtca money supply statistics</source>
-        <translation>Ponovno indeksirati statistiku btca i zbtca ponude novca</translation>
+        <source>Reindex the btcr and zbtcr money supply statistics</source>
+        <translation>Ponovno indeksirati statistiku btcr i zbtcr ponude novca</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5583,8 +5583,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>uklonjene nepotvrđene transakcije</translation>
     </message>
     <message>
-        <source>Disable all btca specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Onemogući sve specifične funkcije btca (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, zadano: %u)</translation>
+        <source>Disable all btcr specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Onemogući sve specifične funkcije btcr (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, zadano: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -5619,8 +5619,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Preferirana denominacija za automatski ovjereni Zerocoin (1/5/10/50/100/500/1000/5000), 0 bez preferencije. zadana vrijednost: %u)</translation>
     </message>
     <message>
-        <source>Specify custom backup path to add a copy of any automatic zbtca backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Navedite put prilagođenog sigurnosnog kopiranja da biste dodali kopiju bilo koje automatske zbtca sigurnosne kopije. Ako je postavljeno kao dir, svaka sigurnosna kopija generira vremensku datoteku. Ako je postavljen kao datoteka, prepisat će na tu datoteku svaku kopiju. Ako je postavljen backuppath, dogodit će se 4 sigurnosne kopije</translation>
+        <source>Specify custom backup path to add a copy of any automatic zbtcr backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Navedite put prilagođenog sigurnosnog kopiranja da biste dodali kopiju bilo koje automatske zbtcr sigurnosne kopije. Ako je postavljeno kao dir, svaka sigurnosna kopija generira vremensku datoteku. Ako je postavljen kao datoteka, prepisat će na tu datoteku svaku kopiju. Ako je postavljen backuppath, dogodit će se 4 sigurnosne kopije</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
@@ -6119,8 +6119,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Sinkronizacija sporka...</translation>
     </message>
     <message>
-        <source>Syncing zbtca wallet...</source>
-        <translation>Sinkronizacija zbtca novčanika...</translation>
+        <source>Syncing zbtcr wallet...</source>
+        <translation>Sinkronizacija zbtcr novčanika...</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -6267,8 +6267,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Korisničko ime za JSON-RPC veze</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zbtca</source>
-        <translation>Vrijednost je niža od najmanje dostupne denominacije (= 1) zbtca-a</translation>
+        <source>Value is below the smallest available denomination (= 1) of zbtcr</source>
+        <translation>Vrijednost je niža od najmanje dostupne denominacije (= 1) zbtcr-a</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -6283,8 +6283,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Provjera novčanika...</translation>
     </message>
     <message>
-        <source>Version 1 zbtca require a security level of 100 to successfully spend.</source>
-        <translation>Verzija 1 zbtca zahtjeva sigurnosnu razinu 100 da se uspješno utroši.</translation>
+        <source>Version 1 zbtcr require a security level of 100 to successfully spend.</source>
+        <translation>Verzija 1 zbtcr zahtjeva sigurnosnu razinu 100 da se uspješno utroši.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
@@ -6295,8 +6295,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Novčanik zaključan.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart btca Core to complete</source>
-        <translation>Potrebno je prepisati novčanik: ponovo pokrenite btca Core</translation>
+        <source>Wallet needed to be rewritten: restart btcr Core to complete</source>
+        <translation>Potrebno je prepisati novčanik: ponovo pokrenite btcr Core</translation>
     </message>
     <message>
         <source>Wallet options:</source>
